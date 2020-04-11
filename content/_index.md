@@ -1,0 +1,3 @@
+Iowa is a state in the Midwestern United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north.
+
+In colonial times, Iowa was a part of French Louisiana and Spanish Louisiana; its state flag is patterned after the flag of France. After the Louisiana Purchase, people laid the foundation for an agriculture-based economy in the heart of the Corn Belt. (Wikipedia)
