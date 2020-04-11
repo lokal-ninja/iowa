@@ -1,0 +1,4 @@
+---
+title: "Rent-a-Center"
+url: /ottumwa/rent-a-center/
+---
