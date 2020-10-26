@@ -1,4 +1,4 @@
 ---
-title: "West Elm"
+title: "west elm"
 url: /des-moines/west-elm/
 ---
