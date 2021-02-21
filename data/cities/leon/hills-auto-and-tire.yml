@@ -1,6 +1,5 @@
 id: 337500421
 type: way
-shop: car repair
 latitude: 40.7388228
 longitude: -93.7571975
 postcode: "50144"
@@ -8,5 +7,5 @@ city: Leon
 street: "West 1st Street"
 housenumber: 913
 phone: "641-446-4455"
-opening_hours: "Mo-Fri 8:00am - 5:30pm"
+opening_hours: "Mo-Fr 08:00-17:30"
 website: ""
