@@ -1,5 +1,5 @@
 ---
 title: "Kum & Go"
-url: /west-des-moines/kum-and-go-5/
+url: /des-moines/kum-and-go/
 shop: convenience
 ---
