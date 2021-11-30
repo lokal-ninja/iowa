@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /cedar-rapids/aldi/
 shop: supermarket
 ---
