@@ -1,5 +1,5 @@
 ---
 title: "PowderStudio"
 url: /ames/powderstudio/
-shop: beauty
+shop: Kosmetik
 ---

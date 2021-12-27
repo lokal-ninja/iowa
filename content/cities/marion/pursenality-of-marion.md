@@ -1,5 +1,5 @@
 ---
 title: "PurseNality of Marion"
 url: /marion/pursenality-of-marion/
-shop: convenience
+shop: Lebensmittel
 ---

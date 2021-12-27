@@ -1,5 +1,5 @@
 ---
 title: "Transformations"
 url: /des-moines/transformations/
-shop: hairdresser
+shop: Friseur
 ---

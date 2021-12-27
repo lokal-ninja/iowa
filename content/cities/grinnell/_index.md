@@ -1,6 +1,6 @@
 ---
 title: Grinnell
 url: /grinnell/
-latitude: 41.7430554
-longitude: -92.7224206
+latitude: 41.744
+longitude: -92.724
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bevington
 url: /bevington/
-latitude: 41.3605472
-longitude: -93.79077760000001
+latitude: 41.361
+longitude: -93.79
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WineStyles"
 url: /sioux-city/winestyles/
-shop: wine
+shop: Wein
 ---

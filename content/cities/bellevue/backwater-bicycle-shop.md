@@ -1,5 +1,5 @@
 ---
 title: "Backwater Bicycle Shop"
 url: /bellevue/backwater-bicycle-shop/
-shop: bicycle
+shop: Fahrrad
 ---

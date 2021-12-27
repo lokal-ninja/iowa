@@ -1,5 +1,5 @@
 ---
 title: "Vineria Wine Shop"
 url: /cedar-rapids/vineria-wine-shop/
-shop: wine
+shop: Wein
 ---

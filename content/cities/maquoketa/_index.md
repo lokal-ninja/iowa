@@ -1,6 +1,6 @@
 ---
 title: Maquoketa
 url: /maquoketa/
-latitude: 42.069102
-longitude: -90.66566590000001
+latitude: 42.081
+longitude: -90.685
 ---

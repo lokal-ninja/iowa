@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /manchester/bp/
-shop: convenience
+shop: Lebensmittel
 ---

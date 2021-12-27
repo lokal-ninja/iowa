@@ -1,6 +1,6 @@
 ---
 title: Blue Grass
 url: /blue-grass/
-latitude: 41.5097808
-longitude: -90.7659148
+latitude: 41.509
+longitude: -90.766
 ---

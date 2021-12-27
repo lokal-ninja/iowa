@@ -1,6 +1,6 @@
 ---
 title: DeWitt, Iowa
 url: /dewitt-iowa/
-latitude: 
-longitude: 
+latitude: 41.826
+longitude: -90.54
 ---

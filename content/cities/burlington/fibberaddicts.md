@@ -1,5 +1,5 @@
 ---
 title: "FibberAddicts"
 url: /burlington/fibberaddicts/
-shop: shop
+shop: Allgemein
 ---

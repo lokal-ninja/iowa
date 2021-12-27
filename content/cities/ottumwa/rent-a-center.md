@@ -1,5 +1,5 @@
 ---
 title: "Rent-a-Center"
 url: /ottumwa/rent-a-center/
-shop: furniture
+shop: Möbel
 ---

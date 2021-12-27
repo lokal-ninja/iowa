@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /altoona/lids/
-shop: clothes
+shop: Kleidung
 ---

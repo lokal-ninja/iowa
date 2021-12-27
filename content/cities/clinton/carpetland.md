@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /clinton/carpetland/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sergeant Bluff
 url: /sergeant-bluff/
-latitude: 42.4038823
-longitude: -96.35863970000001
+latitude: 42.4
+longitude: -96.353
 ---

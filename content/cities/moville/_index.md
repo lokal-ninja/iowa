@@ -1,6 +1,6 @@
 ---
 title: Moville
 url: /moville/
-latitude: 42.488796
-longitude: -96.07243000000001
+latitude: 42.483
+longitude: -96.077
 ---

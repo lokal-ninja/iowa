@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /dubuque/walgreens/
-shop: chemist
+shop: Drogerie
 ---

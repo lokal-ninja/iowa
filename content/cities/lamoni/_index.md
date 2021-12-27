@@ -1,6 +1,6 @@
 ---
 title: Lamoni
 url: /lamoni/
-latitude: 40.622777
-longitude: -93.9341158
+latitude: 40.623
+longitude: -93.897
 ---

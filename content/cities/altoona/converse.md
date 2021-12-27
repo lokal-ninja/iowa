@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /altoona/converse/
-shop: shoes
+shop: Schuhe
 ---

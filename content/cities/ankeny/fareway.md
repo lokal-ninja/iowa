@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
 url: /ankeny/fareway/
-shop: supermarket
+shop: Supermarkt
 ---

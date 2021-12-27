@@ -1,6 +1,6 @@
 ---
 title: Orange City
 url: /orange-city/
-latitude: 43.0072424
-longitude: -96.05831380000001
+latitude: 43.008
+longitude: -96.058
 ---

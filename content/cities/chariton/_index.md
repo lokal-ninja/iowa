@@ -1,6 +1,6 @@
 ---
 title: Chariton
 url: /chariton/
-latitude: 41.0147507
-longitude: -93.30725140000001
+latitude: 41.016
+longitude: -93.323
 ---

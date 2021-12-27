@@ -1,5 +1,5 @@
 ---
 title: "Uptown Styles"
 url: /creston/uptown-styles/
-shop: hairdresser
+shop: Friseur
 ---

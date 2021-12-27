@@ -1,5 +1,5 @@
 ---
 title: "Homemakers"
 url: /urbandale/homemakers/
-shop: furniture
+shop: Möbel
 ---

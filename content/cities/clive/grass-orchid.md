@@ -1,5 +1,5 @@
 ---
 title: "Grass Orchid"
 url: /clive/grass-orchid/
-shop: beauty
+shop: Kosmetik
 ---

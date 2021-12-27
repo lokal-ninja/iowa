@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /altoona/menards/
-shop: doityourself
+shop: Baumarkt
 ---

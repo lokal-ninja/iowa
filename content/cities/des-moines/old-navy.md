@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /des-moines/old-navy/
-shop: clothes
+shop: Kleidung
 ---

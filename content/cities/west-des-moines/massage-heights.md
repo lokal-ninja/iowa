@@ -1,5 +1,5 @@
 ---
 title: "Massage Heights"
 url: /west-des-moines/massage-heights/
-shop: massage
+shop: Massage
 ---

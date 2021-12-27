@@ -1,6 +1,6 @@
 ---
 title: Earlham
 url: /earlham/
-latitude: 41.4914439
-longitude: -94.1229136
+latitude: 41.5
+longitude: -94.124
 ---

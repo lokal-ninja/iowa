@@ -1,5 +1,5 @@
 ---
 title: "Bike World"
 url: /ames/bike-world/
-shop: bicycle
+shop: Fahrrad
 ---

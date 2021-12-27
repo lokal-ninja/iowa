@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /davenport/citi-trends/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charles Gabus Ford"
 url: /des-moines/charles-gabus-ford/
-shop: car
+shop: Autohaus
 ---

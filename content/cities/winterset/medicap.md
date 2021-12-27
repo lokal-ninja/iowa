@@ -1,5 +1,5 @@
 ---
 title: "Medicap"
 url: /winterset/medicap/
-shop: chemist
+shop: Drogerie
 ---

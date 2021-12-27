@@ -1,5 +1,5 @@
 ---
 title: "Walnut Street Gallery"
 url: /ankeny/walnut-street-gallery/
-shop: art
+shop: Kunst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pella
 url: /pella/
-latitude: 41.4080534
-longitude: -92.9163091
+latitude: 41.396
+longitude: -92.903
 ---

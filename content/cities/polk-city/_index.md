@@ -1,6 +1,6 @@
 ---
 title: Polk City
 url: /polk-city/
-latitude: 41.771320100000004
-longitude: -93.7137582
+latitude: 41.74
+longitude: -93.667
 ---

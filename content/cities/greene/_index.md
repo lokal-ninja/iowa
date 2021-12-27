@@ -1,6 +1,6 @@
 ---
 title: Greene
 url: /greene/
-latitude: 42.0182893
-longitude: -94.40058640000001
+latitude: 42.895
+longitude: -92.804
 ---

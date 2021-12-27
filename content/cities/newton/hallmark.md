@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /newton/hallmark/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Decorah
 url: /decorah/
-latitude: 43.3041609
-longitude: -91.7859098
+latitude: 43.292
+longitude: -91.795
 ---

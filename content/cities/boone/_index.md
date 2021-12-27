@@ -1,6 +1,6 @@
 ---
 title: Boone
 url: /boone/
-latitude: 42.0171798
-longitude: -93.9254114
+latitude: 42.064
+longitude: -93.88
 ---

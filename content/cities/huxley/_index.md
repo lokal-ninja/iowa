@@ -1,6 +1,6 @@
 ---
 title: Huxley
 url: /huxley/
-latitude: 41.8946126
-longitude: -93.60658980000001
+latitude: 41.892
+longitude: -93.6
 ---

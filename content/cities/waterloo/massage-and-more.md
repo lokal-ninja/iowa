@@ -1,5 +1,5 @@
 ---
 title: "Massage and More"
 url: /waterloo/massage-and-more/
-shop: massage
+shop: Massage
 ---

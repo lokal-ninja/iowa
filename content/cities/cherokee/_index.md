@@ -1,6 +1,6 @@
 ---
 title: Cherokee
 url: /cherokee/
-latitude: 42.7247968
-longitude: -95.6249803
+latitude: 42.749
+longitude: -95.555
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /iowa-city/lucky/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /iowa-falls/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

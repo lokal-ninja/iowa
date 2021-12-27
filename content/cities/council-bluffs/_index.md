@@ -1,6 +1,6 @@
 ---
 title: Council Bluffs
 url: /council-bluffs/
-latitude: 41.2621283
-longitude: -95.8613912
+latitude: 41.262
+longitude: -95.885
 ---

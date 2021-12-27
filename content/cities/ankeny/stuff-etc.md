@@ -1,5 +1,5 @@
 ---
 title: "Stuff Etc."
 url: /ankeny/stuff-etc/
-shop: shop
+shop: Allgemein
 ---

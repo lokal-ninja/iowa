@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ankeny/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

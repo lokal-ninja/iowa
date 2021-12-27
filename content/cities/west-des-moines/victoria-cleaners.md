@@ -1,5 +1,5 @@
 ---
 title: "Victoria Cleaners"
 url: /west-des-moines/victoria-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

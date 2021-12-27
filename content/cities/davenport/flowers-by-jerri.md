@@ -1,5 +1,5 @@
 ---
 title: "Flowers By Jerri"
 url: /davenport/flowers-by-jerri/
-shop: florist
+shop: Blumen
 ---

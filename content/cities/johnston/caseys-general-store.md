@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
 url: /johnston/caseys-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heroic Hair"
 url: /ames/heroic-hair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alleman
 url: /alleman/
-latitude: 41.8200591
-longitude: -93.61125100000001
+latitude: 41.821
+longitude: -93.601
 ---

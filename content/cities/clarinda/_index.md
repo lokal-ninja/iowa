@@ -1,6 +1,6 @@
 ---
 title: Clarinda
 url: /clarinda/
-latitude: 40.7390162
-longitude: -95.03695800000001
+latitude: 40.727
+longitude: -95.036
 ---

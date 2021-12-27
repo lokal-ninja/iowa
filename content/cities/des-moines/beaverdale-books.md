@@ -1,5 +1,5 @@
 ---
 title: "Beaverdale Books"
 url: /des-moines/beaverdale-books/
-shop: books
+shop: Bücher
 ---

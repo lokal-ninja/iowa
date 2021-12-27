@@ -1,5 +1,5 @@
 ---
 title: "YESWAY"
 url: /waterloo/yesway/
-shop: convenience
+shop: Lebensmittel
 ---

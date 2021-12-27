@@ -1,6 +1,6 @@
 ---
 title: Elk Run Heights
 url: /elk-run-heights/
-latitude: 42.466932400000005
-longitude: -92.256572
+latitude: 42.46
+longitude: -92.252
 ---

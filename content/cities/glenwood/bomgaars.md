@@ -1,5 +1,5 @@
 ---
 title: "Bomgaars"
 url: /glenwood/bomgaars/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

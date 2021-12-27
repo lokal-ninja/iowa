@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /altoona/torrid/
-shop: clothes
+shop: Kleidung
 ---

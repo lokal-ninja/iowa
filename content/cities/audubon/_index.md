@@ -1,6 +1,6 @@
 ---
 title: Audubon
 url: /audubon/
-latitude: 41.670205
-longitude: -94.9106526
+latitude: 41.731
+longitude: -94.938
 ---

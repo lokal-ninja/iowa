@@ -1,6 +1,6 @@
 ---
 title: Sheldon
 url: /sheldon/
-latitude: 43.1810844
-longitude: -95.8561126
+latitude: 43.187
+longitude: -95.832
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anamosa
 url: /anamosa/
-latitude: 42.1083371
-longitude: -91.28515940000001
+latitude: 42.099
+longitude: -91.265
 ---

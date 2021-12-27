@@ -1,5 +1,5 @@
 ---
 title: "Hometown Auto Group West"
 url: /cedar-rapids/hometown-auto-group-west/
-shop: car
+shop: Autohaus
 ---

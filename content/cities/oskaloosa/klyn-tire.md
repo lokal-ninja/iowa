@@ -1,5 +1,5 @@
 ---
 title: "Klyn Tire"
 url: /oskaloosa/klyn-tire/
-shop: car repair
+shop: Autowerkstatt
 ---

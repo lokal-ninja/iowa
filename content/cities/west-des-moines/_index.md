@@ -1,6 +1,6 @@
 ---
 title: West Des Moines
 url: /west-des-moines/
-latitude: 41.564533700000005
-longitude: -93.75952810000001
+latitude: 41.599
+longitude: -93.766
 ---

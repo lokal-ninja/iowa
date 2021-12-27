@@ -1,5 +1,5 @@
 ---
 title: "Vintage No. 35"
 url: /west-des-moines/vintage-no-35/
-shop: antiques
+shop: Antiquitäten
 ---

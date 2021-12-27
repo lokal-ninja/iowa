@@ -1,6 +1,6 @@
 ---
 title: Ames
 url: /ames/
-latitude: 42.0267567
-longitude: -93.6170448
+latitude: 42.022
+longitude: -93.668
 ---

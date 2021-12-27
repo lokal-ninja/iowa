@@ -1,6 +1,6 @@
 ---
 title: Elk Horn
 url: /elk-horn/
-latitude: 41.591655
-longitude: -95.0599904
+latitude: 41.59
+longitude: -95.06
 ---

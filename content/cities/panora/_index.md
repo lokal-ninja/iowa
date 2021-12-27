@@ -1,6 +1,6 @@
 ---
 title: Panora
 url: /panora/
-latitude: 41.6916535
-longitude: -94.3630215
+latitude: 41.692
+longitude: -94.364
 ---

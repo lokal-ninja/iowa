@@ -1,6 +1,6 @@
 ---
 title: Clarksville
 url: /clarksville/
-latitude: 
-longitude: 
+latitude: 42.788
+longitude: -92.668
 ---

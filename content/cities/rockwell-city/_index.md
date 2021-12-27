@@ -1,6 +1,6 @@
 ---
 title: Rockwell City
 url: /rockwell-city/
-latitude: 42.3952576
-longitude: -94.6338671
+latitude: 42.452
+longitude: -94.671
 ---
