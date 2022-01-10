@@ -1,5 +1,5 @@
 ---
 title: "Preservation Station"
 url: /burlington/preservation-station/
-shop: Allgemein
+shop: shop
 ---

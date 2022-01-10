@@ -1,5 +1,5 @@
 ---
 title: "Pioneer Auto"
 url: /sergeant-bluff/pioneer-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /davenport/dillards/
-shop: Warenhaus
+shop: department store
 ---

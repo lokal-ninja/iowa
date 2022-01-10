@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /altoona/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

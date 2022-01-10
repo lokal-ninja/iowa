@@ -1,5 +1,5 @@
 ---
 title: "Cork's Grocery"
 url: /waterloo/corks-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

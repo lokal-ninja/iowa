@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
 url: /independence/fareway/
-shop: Supermarkt
+shop: supermarket
 ---

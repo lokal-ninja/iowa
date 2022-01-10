@@ -1,5 +1,5 @@
 ---
 title: "Fuel Express Food Mart"
 url: /dubuque/fuel-express-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

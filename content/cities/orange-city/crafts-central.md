@@ -1,5 +1,5 @@
 ---
 title: "Crafts Central"
 url: /orange-city/crafts-central/
-shop: Allgemein
+shop: shop
 ---

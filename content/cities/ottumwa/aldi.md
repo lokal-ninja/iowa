@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ottumwa/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

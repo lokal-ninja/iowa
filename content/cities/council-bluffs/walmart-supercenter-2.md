@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /council-bluffs/walmart-supercenter-2/
-shop: Supermarkt
+shop: supermarket
 ---

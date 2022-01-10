@@ -1,5 +1,5 @@
 ---
 title: "Freedom Tire"
 url: /west-des-moines/freedom-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

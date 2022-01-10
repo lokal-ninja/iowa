@@ -1,5 +1,5 @@
 ---
 title: "HTS Tire Service"
 url: /johnston/hts-tire-service/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Rouke Motors"
 url: /tipton/orouke-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /west-des-moines/carters/
-shop: Kleidung
+shop: clothes
 ---

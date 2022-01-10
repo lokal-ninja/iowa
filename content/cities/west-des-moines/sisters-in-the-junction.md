@@ -1,5 +1,5 @@
 ---
 title: "Sisters in the Junction"
 url: /west-des-moines/sisters-in-the-junction/
-shop: Modehaus
+shop: boutique
 ---

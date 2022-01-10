@@ -1,5 +1,5 @@
 ---
 title: "Citywide Cleaners"
 url: /cedar-rapids/citywide-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

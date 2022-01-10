@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /davenport/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

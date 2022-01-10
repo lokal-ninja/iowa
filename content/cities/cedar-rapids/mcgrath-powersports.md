@@ -1,5 +1,5 @@
 ---
 title: "McGrath Powersports"
 url: /cedar-rapids/mcgrath-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

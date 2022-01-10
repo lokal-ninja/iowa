@@ -1,5 +1,5 @@
 ---
 title: "Streeter Decorating Center"
 url: /keokuk/streeter-decorating-center/
-shop: Raumausstattung
+shop: interior decoration
 ---

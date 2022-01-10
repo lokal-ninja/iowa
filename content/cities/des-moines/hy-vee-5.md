@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /des-moines/hy-vee-5/
-shop: Supermarkt
+shop: supermarket
 ---

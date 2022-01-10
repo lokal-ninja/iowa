@@ -1,5 +1,5 @@
 ---
 title: "Table For One"
 url: /cedar-rapids/table-for-one/
-shop: Massage
+shop: massage
 ---

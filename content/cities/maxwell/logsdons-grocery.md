@@ -1,5 +1,5 @@
 ---
 title: "Logsdon's Grocery"
 url: /maxwell/logsdons-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

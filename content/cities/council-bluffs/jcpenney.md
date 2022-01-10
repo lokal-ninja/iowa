@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /council-bluffs/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dicks Small Engine"
 url: /cedar-rapids/dicks-small-engine/
-shop: Autoteile
+shop: car parts
 ---

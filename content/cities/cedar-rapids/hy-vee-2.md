@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /cedar-rapids/hy-vee-2/
-shop: Supermarkt
+shop: supermarket
 ---

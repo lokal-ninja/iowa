@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /cedar-rapids/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /council-bluffs/grease-monkey/
-shop: Autowerkstatt
+shop: car repair
 ---

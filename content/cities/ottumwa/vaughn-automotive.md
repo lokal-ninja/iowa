@@ -1,5 +1,5 @@
 ---
 title: "Vaughn Automotive"
 url: /ottumwa/vaughn-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

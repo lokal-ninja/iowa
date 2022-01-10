@@ -1,5 +1,5 @@
 ---
 title: "No Frills"
 url: /glenwood/no-frills/
-shop: Supermarkt
+shop: supermarket
 ---

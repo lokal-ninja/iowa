@@ -1,5 +1,5 @@
 ---
 title: "Leydens Cellular"
 url: /ankeny/leydens-cellular/
-shop: Handy
+shop: mobile phone
 ---

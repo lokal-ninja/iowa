@@ -1,5 +1,5 @@
 ---
 title: "Menards Self Storage"
 url: /west-burlington/menards-self-storage/
-shop: Baumarkt
+shop: doityourself
 ---

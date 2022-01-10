@@ -1,5 +1,5 @@
 ---
 title: "Golf Galaxy"
 url: /west-des-moines/golf-galaxy/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frontier Garden Center"
 url: /cedar-rapids/frontier-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

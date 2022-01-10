@@ -1,5 +1,5 @@
 ---
 title: "Kwik Star"
 url: /ankeny/kwik-star/
-shop: Lebensmittel
+shop: convenience
 ---

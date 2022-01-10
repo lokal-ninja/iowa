@@ -1,5 +1,5 @@
 ---
 title: "Jim's Barber Shop"
 url: /ottumwa/jims-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zales"
 url: /altoona/zales/
-shop: Schmuck
+shop: jewelry
 ---

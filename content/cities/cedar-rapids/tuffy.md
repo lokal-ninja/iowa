@@ -1,5 +1,5 @@
 ---
 title: "Tuffy"
 url: /cedar-rapids/tuffy/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moorman Clothiers"
 url: /ames/moorman-clothiers/
-shop: Kleidung
+shop: clothes
 ---

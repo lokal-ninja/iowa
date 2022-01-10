@@ -1,5 +1,5 @@
 ---
 title: "Pierson Auto"
 url: /leon/pierson-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

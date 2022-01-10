@@ -1,5 +1,5 @@
 ---
 title: "Hawkeye Baseball Cards"
 url: /burlington/hawkeye-baseball-cards/
-shop: Allgemein
+shop: shop
 ---

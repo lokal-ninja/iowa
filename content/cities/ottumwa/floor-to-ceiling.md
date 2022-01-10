@@ -1,5 +1,5 @@
 ---
 title: "Floor to Ceiling"
 url: /ottumwa/floor-to-ceiling/
-shop: Raumausstattung
+shop: interior decoration
 ---

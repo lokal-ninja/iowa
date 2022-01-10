@@ -1,5 +1,5 @@
 ---
 title: "Haberal Tile and Stone"
 url: /moville/haberal-tile-and-stone/
-shop: Fliesen
+shop: tiles
 ---

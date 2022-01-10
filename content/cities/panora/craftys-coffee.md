@@ -1,5 +1,5 @@
 ---
 title: "Crafty's Coffee"
 url: /panora/craftys-coffee/
-shop: Kaffee
+shop: coffee
 ---

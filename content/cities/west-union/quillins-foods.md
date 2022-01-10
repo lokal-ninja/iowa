@@ -1,5 +1,5 @@
 ---
 title: "Quillin's Foods"
 url: /west-union/quillins-foods/
-shop: Supermarkt
+shop: supermarket
 ---

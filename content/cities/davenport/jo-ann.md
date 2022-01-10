@@ -1,5 +1,5 @@
 ---
 title: "Jo-Ann"
 url: /davenport/jo-ann/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wayne's Tire"
 url: /ottumwa/waynes-tire/
-shop: Reifen
+shop: tyres
 ---

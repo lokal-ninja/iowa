@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
 url: /ottumwa/yesway/
-shop: Lebensmittel
+shop: convenience
 ---

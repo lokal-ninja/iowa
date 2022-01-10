@@ -1,5 +1,5 @@
 ---
 title: "Car Smart"
 url: /fort-madison/car-smart/
-shop: Autohaus
+shop: car
 ---

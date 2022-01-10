@@ -1,5 +1,5 @@
 ---
 title: "The Consignment Store"
 url: /dubuque/the-consignment-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

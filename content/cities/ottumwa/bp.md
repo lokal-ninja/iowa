@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /ottumwa/bp/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Men's Wearhouse"
 url: /sioux-city/mens-wearhouse/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Square Tire"
 url: /sioux-city/square-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

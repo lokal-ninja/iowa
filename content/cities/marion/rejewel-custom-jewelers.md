@@ -1,5 +1,5 @@
 ---
 title: "ReJewel Custom Jewelers"
 url: /marion/rejewel-custom-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

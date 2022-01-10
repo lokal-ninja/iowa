@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /dubuque/bp/
-shop: Lebensmittel
+shop: convenience
 ---

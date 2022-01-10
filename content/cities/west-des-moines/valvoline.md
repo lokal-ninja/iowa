@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /west-des-moines/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

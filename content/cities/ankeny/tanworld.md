@@ -1,5 +1,5 @@
 ---
 title: "tanworld"
 url: /ankeny/tanworld/
-shop: Kosmetik
+shop: beauty
 ---

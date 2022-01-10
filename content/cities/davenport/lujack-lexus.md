@@ -1,5 +1,5 @@
 ---
 title: "Lujack Lexus"
 url: /davenport/lujack-lexus/
-shop: Autohaus
+shop: car
 ---

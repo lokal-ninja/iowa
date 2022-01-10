@@ -1,5 +1,5 @@
 ---
 title: "The Hut"
 url: /council-bluffs/the-hut/
-shop: Allgemein
+shop: shop
 ---

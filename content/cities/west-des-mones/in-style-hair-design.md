@@ -1,5 +1,5 @@
 ---
 title: "In Style Hair Design"
 url: /west-des-mones/in-style-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

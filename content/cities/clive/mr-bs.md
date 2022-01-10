@@ -1,5 +1,5 @@
 ---
 title: "Mr. B's"
 url: /clive/mr-bs/
-shop: Kleidung
+shop: clothes
 ---

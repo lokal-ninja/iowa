@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /cedar-falls/discount-tire/
-shop: Reifen
+shop: tyres
 ---

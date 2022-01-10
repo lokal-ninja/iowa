@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /west-des-moines/supercuts-3/
-shop: Friseur
+shop: hairdresser
 ---

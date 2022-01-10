@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /sioux-city/justice/
-shop: Kleidung
+shop: clothes
 ---

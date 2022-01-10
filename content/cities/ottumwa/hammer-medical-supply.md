@@ -1,5 +1,5 @@
 ---
 title: "Hammer Medical Supply"
 url: /ottumwa/hammer-medical-supply/
-shop: Sanitätshaus
+shop: medical supply
 ---

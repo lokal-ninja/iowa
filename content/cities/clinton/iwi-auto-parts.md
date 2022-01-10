@@ -1,5 +1,5 @@
 ---
 title: "IWI Auto Parts"
 url: /clinton/iwi-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

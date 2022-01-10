@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /west-des-moines/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

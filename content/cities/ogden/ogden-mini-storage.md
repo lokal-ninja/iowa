@@ -1,5 +1,5 @@
 ---
 title: "Ogden Mini Storage"
 url: /ogden/ogden-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

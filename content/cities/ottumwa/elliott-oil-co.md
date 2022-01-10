@@ -1,5 +1,5 @@
 ---
 title: "Elliott Oil Co"
 url: /ottumwa/elliott-oil-co/
-shop: Lebensmittel
+shop: convenience
 ---

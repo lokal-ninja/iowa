@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /ottumwa/fastenal/
-shop: Baustoffe
+shop: trade
 ---

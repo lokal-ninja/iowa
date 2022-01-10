@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /carroll/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /oskaloosa/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cy's Locker Room"
 url: /ames/cys-locker-room/
-shop: Kleidung
+shop: clothes
 ---

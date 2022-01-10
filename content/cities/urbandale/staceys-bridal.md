@@ -1,5 +1,5 @@
 ---
 title: "Stacey's Bridal"
 url: /urbandale/staceys-bridal/
-shop: Kleidung
+shop: clothes
 ---

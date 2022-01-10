@@ -1,5 +1,5 @@
 ---
 title: "Kwik Lube"
 url: /oskaloosa/kwik-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

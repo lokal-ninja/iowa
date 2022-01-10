@@ -1,5 +1,5 @@
 ---
 title: "Fareway Grocery"
 url: /decorah/fareway-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

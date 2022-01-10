@@ -1,5 +1,5 @@
 ---
 title: "Mode"
 url: /marion/mode/
-shop: Kleidung
+shop: clothes
 ---

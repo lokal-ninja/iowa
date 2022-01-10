@@ -1,5 +1,5 @@
 ---
 title: "Chem-Dry"
 url: /sioux-city/chem-dry/
-shop: Allgemein
+shop: shop
 ---

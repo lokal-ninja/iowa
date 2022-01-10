@@ -1,5 +1,5 @@
 ---
 title: "Beisser Lumber"
 url: /grimes/beisser-lumber/
-shop: Baustoffe
+shop: trade
 ---

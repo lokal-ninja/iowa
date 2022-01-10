@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
 url: /sergeant-bluff/fareway/
-shop: Supermarkt
+shop: supermarket
 ---

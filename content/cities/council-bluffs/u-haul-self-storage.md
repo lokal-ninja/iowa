@@ -1,5 +1,5 @@
 ---
 title: "U-Haul Self Storage"
 url: /council-bluffs/u-haul-self-storage/
-shop: Mieten
+shop: storage rental
 ---

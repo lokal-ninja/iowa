@@ -1,5 +1,5 @@
 ---
 title: "Chocolaterie Stam"
 url: /ames/chocolaterie-stam/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robertson-Jay Funeral Home"
 url: /ottumwa/robertson-jay-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

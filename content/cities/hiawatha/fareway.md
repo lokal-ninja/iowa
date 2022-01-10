@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
 url: /hiawatha/fareway/
-shop: Supermarkt
+shop: supermarket
 ---

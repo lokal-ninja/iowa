@@ -1,5 +1,5 @@
 ---
 title: "Scarlett Boutique"
 url: /mount-vernon/scarlett-boutique/
-shop: Modehaus
+shop: boutique
 ---

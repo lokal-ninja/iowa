@@ -1,5 +1,5 @@
 ---
 title: "Planted"
 url: /dubuque/planted/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cummings Family Funeral Home"
 url: /bedford/cummings-family-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C Sky Boutique"
 url: /burlington/c-sky-boutique/
-shop: Allgemein
+shop: shop
 ---

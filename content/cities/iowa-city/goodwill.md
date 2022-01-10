@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /iowa-city/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

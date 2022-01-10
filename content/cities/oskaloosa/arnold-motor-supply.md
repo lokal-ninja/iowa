@@ -1,5 +1,5 @@
 ---
 title: "Arnold Motor Supply"
 url: /oskaloosa/arnold-motor-supply/
-shop: Autoteile
+shop: car parts
 ---

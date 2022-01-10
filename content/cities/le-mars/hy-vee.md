@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /le-mars/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DH Auto"
 url: /ottumwa/dh-auto/
-shop: Autohaus
+shop: car
 ---

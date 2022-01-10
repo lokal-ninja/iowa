@@ -1,5 +1,5 @@
 ---
 title: "Cyclone Barber"
 url: /ames/cyclone-barber/
-shop: Friseur
+shop: hairdresser
 ---

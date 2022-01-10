@@ -1,5 +1,5 @@
 ---
 title: "Agriland FS"
 url: /malvern/agriland-fs/
-shop: Hofladen
+shop: farm
 ---

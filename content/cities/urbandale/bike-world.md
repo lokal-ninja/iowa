@@ -1,5 +1,5 @@
 ---
 title: "Bike World"
 url: /urbandale/bike-world/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /sergeant-bluff/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

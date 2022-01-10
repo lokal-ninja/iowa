@@ -1,5 +1,5 @@
 ---
 title: "McGrath Kia"
 url: /hiawatha/mcgrath-kia/
-shop: Autohaus
+shop: car
 ---

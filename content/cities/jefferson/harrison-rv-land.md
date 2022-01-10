@@ -1,5 +1,5 @@
 ---
 title: "Harrison RV Land"
 url: /jefferson/harrison-rv-land/
-shop: Wohnwagen
+shop: caravan
 ---

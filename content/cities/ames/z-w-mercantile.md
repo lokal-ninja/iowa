@@ -1,5 +1,5 @@
 ---
 title: "Z.W. Mercantile"
 url: /ames/z-w-mercantile/
-shop: Allgemein
+shop: shop
 ---

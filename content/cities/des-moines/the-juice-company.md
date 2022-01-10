@@ -1,5 +1,5 @@
 ---
 title: "The Juice Company"
 url: /des-moines/the-juice-company/
-shop: Getränke
+shop: beverages
 ---

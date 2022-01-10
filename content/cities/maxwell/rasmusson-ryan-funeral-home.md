@@ -1,5 +1,5 @@
 ---
 title: "Rasmusson-Ryan Funeral Home"
 url: /maxwell/rasmusson-ryan-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

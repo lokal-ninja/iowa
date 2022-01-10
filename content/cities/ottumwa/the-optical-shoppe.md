@@ -1,5 +1,5 @@
 ---
 title: "The Optical Shoppe"
 url: /ottumwa/the-optical-shoppe/
-shop: Optiker
+shop: optician
 ---

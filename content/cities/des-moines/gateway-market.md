@@ -1,5 +1,5 @@
 ---
 title: "Gateway Market"
 url: /des-moines/gateway-market/
-shop: Supermarkt
+shop: supermarket
 ---

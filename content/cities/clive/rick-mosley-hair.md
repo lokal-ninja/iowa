@@ -1,5 +1,5 @@
 ---
 title: "Rick Mosley Hair"
 url: /clive/rick-mosley-hair/
-shop: Friseur
+shop: hairdresser
 ---

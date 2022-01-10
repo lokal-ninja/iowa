@@ -1,5 +1,5 @@
 ---
 title: "GM Mini Mart"
 url: /muscatine/gm-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

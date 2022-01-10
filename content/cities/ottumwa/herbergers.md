@@ -1,5 +1,5 @@
 ---
 title: "Herberger's"
 url: /ottumwa/herbergers/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fort-madison/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

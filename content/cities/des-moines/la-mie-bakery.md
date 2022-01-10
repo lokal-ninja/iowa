@@ -1,5 +1,5 @@
 ---
 title: "La Mie Bakery"
 url: /des-moines/la-mie-bakery/
-shop: Bäckerei
+shop: bakery
 ---

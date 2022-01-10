@@ -1,5 +1,5 @@
 ---
 title: "Satellite City"
 url: /ankeny/satellite-city/
-shop: Elektronik
+shop: electronics
 ---

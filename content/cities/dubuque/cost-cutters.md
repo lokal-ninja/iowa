@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
 url: /dubuque/cost-cutters/
-shop: Friseur
+shop: hairdresser
 ---

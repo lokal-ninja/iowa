@@ -1,5 +1,5 @@
 ---
 title: "QC Auto Service"
 url: /davenport/qc-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

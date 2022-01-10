@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /west-des-moines/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

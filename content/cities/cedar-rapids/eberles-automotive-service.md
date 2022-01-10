@@ -1,5 +1,5 @@
 ---
 title: "Eberles Automotive Service"
 url: /cedar-rapids/eberles-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

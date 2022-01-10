@@ -1,5 +1,5 @@
 ---
 title: "The Loft - Ames"
 url: /ames/the-loft-ames/
-shop: Kleidung
+shop: clothes
 ---

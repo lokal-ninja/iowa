@@ -1,5 +1,5 @@
 ---
 title: "Bella Capelli Salon"
 url: /hiawatha/bella-capelli-salon/
-shop: Friseur
+shop: hairdresser
 ---

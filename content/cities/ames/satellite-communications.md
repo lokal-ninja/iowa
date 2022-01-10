@@ -1,5 +1,5 @@
 ---
 title: "Satellite Communications"
 url: /ames/satellite-communications/
-shop: Handy
+shop: mobile phone
 ---

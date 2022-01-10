@@ -1,5 +1,5 @@
 ---
 title: "Ottumwa Mini-Storage"
 url: /ottumwa/ottumwa-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

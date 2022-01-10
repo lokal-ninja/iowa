@@ -1,5 +1,5 @@
 ---
 title: "Murphy USA"
 url: /west-burlington/murphy-usa/
-shop: Lebensmittel
+shop: convenience
 ---

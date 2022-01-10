@@ -1,5 +1,5 @@
 ---
 title: "Tony's Flowers"
 url: /ottumwa/tonys-flowers/
-shop: Blumen
+shop: florist
 ---

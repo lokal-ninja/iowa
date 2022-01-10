@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /council-bluffs/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

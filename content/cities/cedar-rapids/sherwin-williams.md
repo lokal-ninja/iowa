@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /cedar-rapids/sherwin-williams/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cottman Transmission Center"
 url: /council-bluffs/cottman-transmission-center/
-shop: Autowerkstatt
+shop: car repair
 ---

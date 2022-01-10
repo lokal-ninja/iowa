@@ -1,5 +1,5 @@
 ---
 title: "Perry Bridal"
 url: /urbandale/perry-bridal/
-shop: Kleidung
+shop: clothes
 ---

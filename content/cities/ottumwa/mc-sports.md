@@ -1,5 +1,5 @@
 ---
 title: "MC Sports"
 url: /ottumwa/mc-sports/
-shop: Sport
+shop: sports
 ---

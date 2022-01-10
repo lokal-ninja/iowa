@@ -1,5 +1,5 @@
 ---
 title: "Expert Tire"
 url: /ottumwa/expert-tire/
-shop: Reifen
+shop: tyres
 ---

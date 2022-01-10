@@ -1,5 +1,5 @@
 ---
 title: "Reinhart Flooring Center"
 url: /cedar-rapids/reinhart-flooring-center/
-shop: Fußböden
+shop: flooring
 ---

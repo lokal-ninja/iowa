@@ -1,5 +1,5 @@
 ---
 title: "Tinker Toys"
 url: /sioux-city/tinker-toys/
-shop: Spielzeug
+shop: toys
 ---

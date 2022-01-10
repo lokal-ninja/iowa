@@ -1,5 +1,5 @@
 ---
 title: "Slumberland"
 url: /davenport/slumberland/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guitar Center"
 url: /west-des-moines/guitar-center/
-shop: Instrumente
+shop: musical instrument
 ---

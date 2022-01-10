@@ -1,5 +1,5 @@
 ---
 title: "Namaste Athleisure Wear"
 url: /dubuque/namaste-athleisure-wear/
-shop: Kleidung
+shop: clothes
 ---

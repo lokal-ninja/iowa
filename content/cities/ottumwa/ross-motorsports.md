@@ -1,5 +1,5 @@
 ---
 title: "Ross Motorsports"
 url: /ottumwa/ross-motorsports/
-shop: Motorrad
+shop: motorcycle
 ---

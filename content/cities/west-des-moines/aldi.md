@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /west-des-moines/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

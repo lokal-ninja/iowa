@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /shenandoah/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

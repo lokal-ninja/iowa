@@ -1,5 +1,5 @@
 ---
 title: "Dan's Locker"
 url: /earlville/dans-locker/
-shop: Metzgerei
+shop: butcher
 ---

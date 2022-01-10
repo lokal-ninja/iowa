@@ -1,5 +1,5 @@
 ---
 title: "Iowa Transmission Rebuilders"
 url: /independence/iowa-transmission-rebuilders/
-shop: Autowerkstatt
+shop: car repair
 ---

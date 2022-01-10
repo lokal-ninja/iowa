@@ -1,5 +1,5 @@
 ---
 title: "Harlan Vision Clinic"
 url: /harlan/harlan-vision-clinic/
-shop: Optiker
+shop: optician
 ---

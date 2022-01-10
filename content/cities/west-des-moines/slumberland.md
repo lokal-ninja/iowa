@@ -1,5 +1,5 @@
 ---
 title: "Slumberland"
 url: /west-des-moines/slumberland/
-shop: Möbel
+shop: furniture
 ---

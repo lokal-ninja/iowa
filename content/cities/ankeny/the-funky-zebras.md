@@ -1,5 +1,5 @@
 ---
 title: "The Funky Zebras"
 url: /ankeny/the-funky-zebras/
-shop: Kleidung
+shop: clothes
 ---

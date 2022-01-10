@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /mason-city/kmart/
-shop: Warenhaus
+shop: department store
 ---

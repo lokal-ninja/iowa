@@ -1,5 +1,5 @@
 ---
 title: "Albert Auto East"
 url: /cedar-rapids/albert-auto-east/
-shop: Autowerkstatt
+shop: car repair
 ---

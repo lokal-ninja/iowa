@@ -1,5 +1,5 @@
 ---
 title: "Boost Mobile"
 url: /council-bluffs/boost-mobile/
-shop: Handy
+shop: mobile phone
 ---

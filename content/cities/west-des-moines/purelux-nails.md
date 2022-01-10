@@ -1,5 +1,5 @@
 ---
 title: "Purelux Nails"
 url: /west-des-moines/purelux-nails/
-shop: Kosmetik
+shop: beauty
 ---

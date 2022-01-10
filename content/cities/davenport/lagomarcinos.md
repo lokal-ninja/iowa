@@ -1,5 +1,5 @@
 ---
 title: "Lagomarcino's"
 url: /davenport/lagomarcinos/
-shop: Süßwaren
+shop: confectionery
 ---

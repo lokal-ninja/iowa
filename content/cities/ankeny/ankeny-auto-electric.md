@@ -1,5 +1,5 @@
 ---
 title: "Ankeny Auto Electric"
 url: /ankeny/ankeny-auto-electric/
-shop: Autohaus
+shop: car
 ---

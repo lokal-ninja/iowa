@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /centerville/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

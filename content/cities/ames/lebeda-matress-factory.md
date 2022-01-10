@@ -1,5 +1,5 @@
 ---
 title: "Lebeda Matress Factory"
 url: /ames/lebeda-matress-factory/
-shop: Betten
+shop: bed
 ---

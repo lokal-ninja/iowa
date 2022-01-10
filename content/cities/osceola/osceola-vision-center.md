@@ -1,5 +1,5 @@
 ---
 title: "Osceola Vision Center"
 url: /osceola/osceola-vision-center/
-shop: Optiker
+shop: optician
 ---

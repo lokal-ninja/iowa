@@ -1,5 +1,5 @@
 ---
 title: "Mutual Wheel Company"
 url: /dubuque/mutual-wheel-company/
-shop: Autoteile
+shop: car parts
 ---

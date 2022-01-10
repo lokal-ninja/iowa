@@ -1,5 +1,5 @@
 ---
 title: "Johnson Funeral Chapel"
 url: /ottumwa/johnson-funeral-chapel/
-shop: Bestattungen
+shop: funeral directors
 ---

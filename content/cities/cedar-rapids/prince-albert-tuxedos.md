@@ -1,5 +1,5 @@
 ---
 title: "Prince Albert Tuxedos"
 url: /cedar-rapids/prince-albert-tuxedos/
-shop: Kleidung
+shop: clothes
 ---

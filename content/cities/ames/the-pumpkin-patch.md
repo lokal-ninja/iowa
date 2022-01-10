@@ -1,5 +1,5 @@
 ---
 title: "The Pumpkin Patch"
 url: /ames/the-pumpkin-patch/
-shop: Kleidung
+shop: clothes
 ---

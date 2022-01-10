@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /boone/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

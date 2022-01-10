@@ -1,5 +1,5 @@
 ---
 title: "Cedar Valley Mobility"
 url: /clive/cedar-valley-mobility/
-shop: Sanitätshaus
+shop: medical supply
 ---

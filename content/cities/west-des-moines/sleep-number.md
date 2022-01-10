@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /west-des-moines/sleep-number/
-shop: Betten
+shop: bed
 ---

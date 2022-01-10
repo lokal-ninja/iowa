@@ -1,5 +1,5 @@
 ---
 title: "Village Needlework"
 url: /marion/village-needlework/
-shop: Nähzubehör
+shop: sewing
 ---

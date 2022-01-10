@@ -1,5 +1,5 @@
 ---
 title: "NutriSport"
 url: /marion/nutrisport/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

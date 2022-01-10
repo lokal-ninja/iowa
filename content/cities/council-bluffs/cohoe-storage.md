@@ -1,5 +1,5 @@
 ---
 title: "Cohoe Storage"
 url: /council-bluffs/cohoe-storage/
-shop: Baumarkt
+shop: doityourself
 ---

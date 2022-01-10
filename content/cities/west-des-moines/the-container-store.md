@@ -1,5 +1,5 @@
 ---
 title: "The Container Store"
 url: /west-des-moines/the-container-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

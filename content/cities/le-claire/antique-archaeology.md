@@ -1,5 +1,5 @@
 ---
 title: "Antique Archaeology"
 url: /le-claire/antique-archaeology/
-shop: Antiquitäten
+shop: antiques
 ---

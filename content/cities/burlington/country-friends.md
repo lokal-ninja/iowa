@@ -1,5 +1,5 @@
 ---
 title: "Country Friends"
 url: /burlington/country-friends/
-shop: Allgemein
+shop: shop
 ---

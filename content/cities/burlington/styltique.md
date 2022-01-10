@@ -1,5 +1,5 @@
 ---
 title: "Styltique"
 url: /burlington/styltique/
-shop: Friseur
+shop: hairdresser
 ---

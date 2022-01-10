@@ -1,5 +1,5 @@
 ---
 title: "Lebeda Mattress Factory"
 url: /cedar-falls/lebeda-mattress-factory/
-shop: Betten
+shop: bed
 ---

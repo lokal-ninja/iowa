@@ -1,5 +1,5 @@
 ---
 title: "Keck Machine"
 url: /quimby/keck-machine/
-shop: Autowerkstatt
+shop: car repair
 ---

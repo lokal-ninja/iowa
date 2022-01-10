@@ -1,5 +1,5 @@
 ---
 title: "Fashion Par Kitchens"
 url: /marion/fashion-par-kitchens/
-shop: Küchen
+shop: kitchen
 ---

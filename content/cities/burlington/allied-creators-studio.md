@@ -1,5 +1,5 @@
 ---
 title: "Allied Creators Studio"
 url: /burlington/allied-creators-studio/
-shop: Basteln
+shop: craft
 ---

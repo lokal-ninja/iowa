@@ -1,5 +1,5 @@
 ---
 title: "West Music"
 url: /marion/west-music/
-shop: Instrumente
+shop: musical instrument
 ---

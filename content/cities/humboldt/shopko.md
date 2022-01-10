@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /humboldt/shopko/
-shop: Warenhaus
+shop: department store
 ---

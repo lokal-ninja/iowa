@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /altoona/verizon/
-shop: Handy
+shop: mobile phone
 ---

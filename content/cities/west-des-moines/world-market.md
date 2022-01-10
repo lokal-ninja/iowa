@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /west-des-moines/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

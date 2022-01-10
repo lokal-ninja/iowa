@@ -1,5 +1,5 @@
 ---
 title: "Cedar Rapids Toyota"
 url: /hiawatha/cedar-rapids-toyota/
-shop: Autohaus
+shop: car
 ---

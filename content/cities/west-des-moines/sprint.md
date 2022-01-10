@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /west-des-moines/sprint/
-shop: Handy
+shop: mobile phone
 ---

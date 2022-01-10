@@ -1,5 +1,5 @@
 ---
 title: "Sweet Things"
 url: /lake-city/sweet-things/
-shop: Bäckerei
+shop: bakery
 ---

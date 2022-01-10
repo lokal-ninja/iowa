@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /marshalltown/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

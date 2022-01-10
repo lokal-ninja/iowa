@@ -1,5 +1,5 @@
 ---
 title: "Royal Flooring"
 url: /urbandale/royal-flooring/
-shop: Raumausstattung
+shop: interior decoration
 ---

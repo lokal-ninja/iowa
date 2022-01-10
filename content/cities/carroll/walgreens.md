@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /carroll/walgreens/
-shop: Lebensmittel
+shop: convenience
 ---

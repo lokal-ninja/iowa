@@ -1,5 +1,5 @@
 ---
 title: "Worldly Goods"
 url: /ames/worldly-goods/
-shop: Andenken
+shop: gift
 ---

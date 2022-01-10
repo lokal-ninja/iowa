@@ -1,5 +1,5 @@
 ---
 title: "Riverview Designs"
 url: /burlington/riverview-designs/
-shop: Allgemein
+shop: shop
 ---

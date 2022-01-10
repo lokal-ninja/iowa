@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /des-moines/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

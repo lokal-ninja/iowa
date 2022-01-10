@@ -1,5 +1,5 @@
 ---
 title: "O'Town Marketplace"
 url: /ottumwa/otown-marketplace/
-shop: Antiquitäten
+shop: antiques
 ---

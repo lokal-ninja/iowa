@@ -1,5 +1,5 @@
 ---
 title: "Motion Industries"
 url: /ottumwa/motion-industries/
-shop: Autoteile
+shop: car parts
 ---

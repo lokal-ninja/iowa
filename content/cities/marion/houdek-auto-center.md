@@ -1,5 +1,5 @@
 ---
 title: "Houdek Auto Center"
 url: /marion/houdek-auto-center/
-shop: Autohaus
+shop: car
 ---

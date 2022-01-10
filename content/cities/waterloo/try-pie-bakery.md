@@ -1,5 +1,5 @@
 ---
 title: "Try Pie Bakery"
 url: /waterloo/try-pie-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colorado Classics"
 url: /west-des-moines/colorado-classics/
-shop: Möbel
+shop: furniture
 ---

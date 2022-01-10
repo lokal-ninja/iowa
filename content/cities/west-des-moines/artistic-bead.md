@@ -1,5 +1,5 @@
 ---
 title: "Artistic Bead"
 url: /west-des-moines/artistic-bead/
-shop: Schmuck
+shop: jewelry
 ---

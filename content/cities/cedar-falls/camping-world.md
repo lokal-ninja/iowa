@@ -1,5 +1,5 @@
 ---
 title: "Camping World"
 url: /cedar-falls/camping-world/
-shop: Autohaus
+shop: car
 ---

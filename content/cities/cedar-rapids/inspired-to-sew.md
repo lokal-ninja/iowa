@@ -1,5 +1,5 @@
 ---
 title: "Inspired to Sew"
 url: /cedar-rapids/inspired-to-sew/
-shop: Nähzubehör
+shop: sewing
 ---

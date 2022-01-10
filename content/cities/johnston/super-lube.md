@@ -1,5 +1,5 @@
 ---
 title: "Super Lube"
 url: /johnston/super-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /cedar-rapids/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

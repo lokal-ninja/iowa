@@ -1,5 +1,5 @@
 ---
 title: "Latino Market"
 url: /council-bluffs/latino-market/
-shop: Supermarkt
+shop: supermarket
 ---
