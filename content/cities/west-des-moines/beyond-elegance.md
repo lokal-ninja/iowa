@@ -1,5 +1,5 @@
 ---
 title: "Beyond Elegance"
 url: /west-des-moines/beyond-elegance/
-shop: boutique
+shop: clothes
 ---

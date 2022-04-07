@@ -1,5 +1,5 @@
 ---
 title: "My Chic Boutique"
 url: /ottumwa/my-chic-boutique/
-shop: boutique
+shop: clothes
 ---

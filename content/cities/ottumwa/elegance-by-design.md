@@ -1,5 +1,5 @@
 ---
 title: "Elegance by Design"
 url: /ottumwa/elegance-by-design/
-shop: boutique
+shop: clothes
 ---
