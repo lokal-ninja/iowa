@@ -1,11 +1,11 @@
-id: 2440468894
-type: node
-latitude: 42.02529
-longitude: -91.63117
-postcode: "52402"
+id: 201799245
+type: way
+latitude: 42.0301
+longitude: -91.6985
+postcode: "52411"
 city: Cedar Rapids
-street: "Collins Road Northeast"
-housenumber: 279
-phone: "(319) 393-8910"
-opening_hours: ""
-website: ""
+street: "Edgewood Road Northeast"
+housenumber: 5050
+phone: "(319) 378-0762"
+opening_hours: "Mo-Su 05:00-23:00"
+website: "https://www.hy-vee.com/stores/Detail.aspx?s=234"
