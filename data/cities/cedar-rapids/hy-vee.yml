@@ -1,11 +1,11 @@
-id: 581450245
-type: node
-latitude: 42.01146
-longitude: -91.65969
-postcode: "52402"
+id: 201799245
+type: way
+latitude: 42.0301
+longitude: -91.6985
+postcode: "52411"
 city: Cedar Rapids
-street: "Oakland Road Northeast"
-housenumber: 3235
-phone: "(319) 366-7756"
+street: "Edgewood Road Northeast"
+housenumber: 5050
+phone: "(319) 378-0762"
 opening_hours: "Mo-Su 05:00-23:00"
-website: "https://www.hy-vee.com/stores/Detail.aspx?s=28"
+website: "https://www.hy-vee.com/stores/Detail.aspx?s=234"
