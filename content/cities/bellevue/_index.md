@@ -1,6 +1,6 @@
 ---
 title: Bellevue
 url: /bellevue/
-latitude: 42.267
-longitude: -90.427
+latitude: 42.257
+longitude: -90.422
 ---
