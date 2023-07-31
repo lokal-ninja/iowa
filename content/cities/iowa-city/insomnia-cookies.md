@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /iowa-city/insomnia-cookies/
-shop: bakery
+shop: pastry
 ---
