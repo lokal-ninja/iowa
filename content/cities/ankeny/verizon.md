@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /osceola/verizon/
+url: /ankeny/verizon/
 shop: mobile phone
 ---

@@ -1,6 +1,6 @@
 ---
 title: Elkhart
 url: /elkhart/
-latitude: 41.793
-longitude: -93.524
+latitude: 41.792
+longitude: -93.526
 ---
