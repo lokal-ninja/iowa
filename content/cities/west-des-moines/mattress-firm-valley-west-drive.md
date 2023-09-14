@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
-url: /west-des-moines/mattress-firm/
+url: /west-des-moines/mattress-firm-valley-west-drive/
 shop: bed
 ---

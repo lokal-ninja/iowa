@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee Drugstore"
-url: /cedar-rapids/hy-vee-drugstore/
+url: /cedar-rapids/hy-vee-drugstore-johnson-avenue-northwest/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "O'Donnell Ace Hardware"
-url: /des-moines/odonnell-ace-hardware/
+url: /des-moines/odonnell-ace-hardware-beaver-avenue/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /ames/t-mobile/
+url: /ames/t-mobile-south-duff-avenue/
 shop: mobile phone
 ---

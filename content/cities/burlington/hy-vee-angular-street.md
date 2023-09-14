@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
-url: /burlington/hy-vee/
+url: /burlington/hy-vee-angular-street/
 shop: supermarket
 ---

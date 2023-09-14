@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
-url: /iowa-city/hy-vee/
+url: /iowa-city/hy-vee-north-dodge-street/
 shop: supermarket
 ---

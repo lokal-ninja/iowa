@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
-url: /west-des-moines/goodwill/
+url: /west-des-moines/goodwill-mills-civic-parkway/
 shop: charity
 ---

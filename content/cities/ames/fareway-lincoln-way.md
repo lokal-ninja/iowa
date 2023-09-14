@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
-url: /ames/fareway/
+url: /ames/fareway-lincoln-way/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
-url: /ames/hy-vee/
+url: /ames/hy-vee-lincoln-way/
 shop: supermarket
 ---

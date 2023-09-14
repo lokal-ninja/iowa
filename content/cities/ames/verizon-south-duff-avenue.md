@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /ames/verizon/
+url: /ames/verizon-south-duff-avenue/
 shop: mobile phone
 ---
