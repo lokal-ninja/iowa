@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /ottumwa/caseys-general-store-west-second-street/
+url: /cedar-falls/caseys-general-store-center-street/
 shop: convenience
 ---
