@@ -1,6 +1,6 @@
 ---
 title: Ankeny
 url: /ankeny/
-latitude: 41.732
-longitude: -93.63
+latitude: 41.737
+longitude: -93.601
 ---
