@@ -1,5 +1,5 @@
 ---
 title: "Yesway"
-url: /ottumwa/yesway-west-second-street/
+url: /ottumwa/yesway-church-street/
 shop: convenience
 ---
