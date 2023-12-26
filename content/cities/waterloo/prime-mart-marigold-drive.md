@@ -1,5 +1,5 @@
 ---
 title: "Prime Mart"
-url: /waterloo/prime-mart-lafayette-street/
+url: /waterloo/prime-mart-marigold-drive/
 shop: convenience
 ---
