@@ -1,6 +1,6 @@
 ---
 title: Sioux City
 url: /sioux-city/
-latitude: 42.48
-longitude: -96.351
+latitude: 42.453
+longitude: -96.332
 ---
