@@ -1,5 +1,5 @@
 ---
 title: "Kwik Star"
-url: /waterloo/kwik-star-fletcher-avenue/
+url: /waterloo/kwik-star-fisher-drive/
 shop: convenience
 ---
