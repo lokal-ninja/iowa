@@ -7,5 +7,5 @@ city: Ames
 street: "Main Street"
 housenumber: 501
 phone: "+1-515-766-4258"
-opening_hours: "Mo-Tu off; We-Th-Fr 12:00-18:00; Sa 10:00-18:00; Su 12:00-18:00"
+opening_hours: "Mo-Tu off; We-Fr 12:00-18:00; Sa 10:00-18:00; Su 12:00-18:00"
 website: "https://www.backalleyhouseplants.com/"

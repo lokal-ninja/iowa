@@ -1,6 +1,6 @@
 ---
 title: Dubuque
 url: /dubuque/
-latitude: 42.517
-longitude: -90.744
+latitude: 42.496
+longitude: -90.723
 ---
