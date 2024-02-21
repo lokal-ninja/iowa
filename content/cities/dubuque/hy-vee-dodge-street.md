@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
-url: /dubuque/hy-vee-northwest-arterial/
+url: /dubuque/hy-vee-dodge-street/
 shop: supermarket
 ---
