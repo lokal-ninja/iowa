@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /ottumwa/dollar-general-east-main-street/
+url: /ottumwa/dollar-general-north-quincy-avenue/
 shop: variety store
 ---
