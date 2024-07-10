@@ -1,6 +1,6 @@
 ---
 title: Coralville
 url: /coralville/
-latitude: 41.692
-longitude: -91.601
+latitude: 41.691
+longitude: -91.598
 ---
