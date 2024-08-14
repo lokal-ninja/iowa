@@ -1,6 +1,6 @@
 ---
 title: Urbandale
 url: /urbandale/
-latitude: 41.626
-longitude: -93.757
+latitude: 41.648
+longitude: -93.771
 ---
