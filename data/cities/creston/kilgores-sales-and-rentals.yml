@@ -1,11 +1,11 @@
 id: 1219816086
-type: way
+type: node
 latitude: 41.07149
 longitude: -94.35625
 postcode: "50801"
 city: Creston
-street: "East Townline Road"
-housenumber: 501
-phone: "+1 (641) 782-5512"
+street: East Townline Road
+housenumber: "501"
+phone: +1 (641) 782-5512
 opening_hours: ""
-website: "https://www.kilgoresinc.com/"
+website: https://www.kilgoresinc.com/

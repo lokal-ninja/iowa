@@ -1,11 +1,11 @@
 id: 909415959
-type: way
+type: node
 latitude: 41.99384
 longitude: -91.66681
 postcode: "52402"
 city: Cedar Rapids
-street: "Shaver Road Northeast"
-housenumber: 833
-phone: "319-364-4143"
+street: Shaver Road Northeast
+housenumber: "833"
+phone: 319-364-4143
 opening_hours: ""
-website: "https://cadyauction.com/"
+website: https://cadyauction.com/

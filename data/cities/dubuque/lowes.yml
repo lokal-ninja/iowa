@@ -1,11 +1,11 @@
 id: 64885887
-type: way
+type: node
 latitude: 42.48797
 longitude: -90.73338
 postcode: "52003"
 city: Dubuque
-street: "Dodge Street"
-housenumber: 4100
-phone: "+1 563-588-8008"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/ia-dubuque/0117"
+street: Dodge Street
+housenumber: "4100"
+phone: +1 563-588-8008
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/ia-dubuque/0117

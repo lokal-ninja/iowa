@@ -1,11 +1,11 @@
 id: 1191524717
-type: way
+type: node
 latitude: 43.05922
 longitude: -92.31344
 postcode: "50659"
 city: New Hampton
-street: "East Main Street"
-housenumber: 115
+street: East Main Street
+housenumber: "115"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=714"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=714

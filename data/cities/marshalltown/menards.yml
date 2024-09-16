@@ -1,11 +1,11 @@
 id: 1029404006
-type: way
+type: node
 latitude: 42.00574
 longitude: -92.92196
 postcode: "50158"
 city: Marshalltown
-street: "Iowa Avenue West"
-housenumber: 504
+street: Iowa Avenue West
+housenumber: "504"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3284"
+website: https://www.menards.com/store-details/store.html?store=3284

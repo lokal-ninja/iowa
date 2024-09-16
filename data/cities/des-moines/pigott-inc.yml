@@ -1,11 +1,11 @@
 id: 297682952
-type: way
+type: node
 latitude: 41.58674
 longitude: -93.6688
 postcode: "50312"
 city: Des Moines
-street: "Ingersoll Avenue"
-housenumber: 3815
+street: Ingersoll Avenue
+housenumber: "3815"
 phone: "+15152798879"
 opening_hours: ""
-website: "https://www.pigottnet.com/"
+website: https://www.pigottnet.com/

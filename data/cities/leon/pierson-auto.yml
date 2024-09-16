@@ -1,11 +1,11 @@
 id: 321859176
-type: way
+type: node
 latitude: 40.74143
 longitude: -93.74764
 postcode: "50144"
 city: Leon
-street: "Northwest Church Street"
-housenumber: 303
+street: Northwest Church Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

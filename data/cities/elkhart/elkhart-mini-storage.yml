@@ -1,11 +1,11 @@
 id: 45812575
-type: way
+type: node
 latitude: 41.79186
 longitude: -93.52632
 postcode: "50073"
 city: Elkhart
-street: "West Walnut Street"
-housenumber: 452
+street: West Walnut Street
+housenumber: "452"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1182950116
-type: way
+type: node
 latitude: 41.2579
 longitude: -94.77375
 postcode: "50853"
 city: Massena
-street: "Richland Rd"
-housenumber: 74235
-phone: "+1 (712) 779-2228"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
-website: "https://www.agrivisionequipment.com/--hours-massena"
+street: Richland Rd
+housenumber: "74235"
+phone: +1 (712) 779-2228
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
+website: https://www.agrivisionequipment.com/--hours-massena

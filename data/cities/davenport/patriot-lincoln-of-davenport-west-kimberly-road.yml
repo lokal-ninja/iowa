@@ -1,11 +1,11 @@
 id: 345303645
-type: way
+type: node
 latitude: 41.56111
 longitude: -90.58132
 postcode: "52806"
 city: Davenport
-street: "West Kimberly Road"
-housenumber: 520
+street: West Kimberly Road
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "https://www.patriotlincolndavenport.com"
+website: https://www.patriotlincolndavenport.com

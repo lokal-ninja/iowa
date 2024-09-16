@@ -1,11 +1,11 @@
 id: 1231314231
-type: way
+type: node
 latitude: 40.9923
 longitude: -94.73129
 postcode: "50841"
 city: Corning
-street: "Quincy Street"
-housenumber: 1002
+street: Quincy Street
+housenumber: "1002"
 phone: ""
 opening_hours: ""
 website: ""

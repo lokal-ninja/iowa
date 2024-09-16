@@ -1,11 +1,11 @@
 id: 1154889145
-type: way
+type: node
 latitude: 41.06676
 longitude: -94.37201
 postcode: "50801"
 city: Creston
-street: "North Sumner Avenue"
-housenumber: 903
-phone: "+1 (641) 782-9133"
-opening_hours: "Mo-Su 04:00-24:00"
-website: "https://www.caseys.com/general-store/ia-creston/903-n-sumner-ave/3223"
+street: North Sumner Avenue
+housenumber: "903"
+phone: +1 (641) 782-9133
+opening_hours: Mo-Su 04:00-24:00
+website: https://www.caseys.com/general-store/ia-creston/903-n-sumner-ave/3223

@@ -1,11 +1,11 @@
 id: 56121251
-type: way
+type: node
 latitude: 41.64905
 longitude: -93.76608
 postcode: "50322"
 city: Urbandale
-street: "Plum Drive"
-housenumber: 10850
-phone: "+1 515-251-5819"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/urbandale/ia/urbandale/50322/2115"
+street: Plum Drive
+housenumber: "10850"
+phone: +1 515-251-5819
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/urbandale/ia/urbandale/50322/2115

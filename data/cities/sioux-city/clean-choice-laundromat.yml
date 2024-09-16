@@ -1,11 +1,11 @@
 id: 586606543
-type: way
+type: node
 latitude: 42.48337
 longitude: -96.36735
 postcode: "51106"
 city: Sioux City
-street: "Jay Avenue"
-housenumber: 3131
+street: Jay Avenue
+housenumber: "3131"
 phone: ""
 opening_hours: ""
-website: "http://www.laundromatssiouxcity.com/"
+website: http://www.laundromatssiouxcity.com/

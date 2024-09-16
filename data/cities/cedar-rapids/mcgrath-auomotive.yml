@@ -1,11 +1,11 @@
 id: 726939229
-type: way
+type: node
 latitude: 42.02967
 longitude: -91.659
 postcode: "52402"
 city: Cedar Rapids
-street: "Collins Road Northeast"
-housenumber: 1548
-phone: "(319) 383-7862"
-opening_hours: "Mo, Th 07:00-20:00; Tu, We, Fr 07:00-18:00; Sa 09:30-17:00"
-website: "https://www.mcgrathauto.com/"
+street: Collins Road Northeast
+housenumber: "1548"
+phone: (319) 383-7862
+opening_hours: Mo, Th 07:00-20:00; Tu, We, Fr 07:00-18:00; Sa 09:30-17:00
+website: https://www.mcgrathauto.com/

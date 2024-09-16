@@ -4,8 +4,8 @@ latitude: 42.02169
 longitude: -93.66773
 postcode: "50014"
 city: Ames
-street: "Lincoln Way"
-housenumber: 3600
-phone: "+1-515-663-4888"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.mcfarlandclinic.com/doctors/locations/ames/west-ames-eye-center"
+street: Lincoln Way
+housenumber: "3600"
+phone: +1-515-663-4888
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.mcfarlandclinic.com/doctors/locations/ames/west-ames-eye-center

@@ -1,11 +1,11 @@
 id: 1205381375
-type: way
+type: node
 latitude: 41.77107
 longitude: -93.71312
 postcode: "50226"
 city: Polk City
-street: "South 2nd Street"
-housenumber: 103
+street: South 2nd Street
+housenumber: "103"
 phone: ""
-opening_hours: "Th 16:00-19:00; Sa 13:00-16:00 || by appointment"
-website: "https://little-lion-eclectics.business.site/"
+opening_hours: Th 16:00-19:00; Sa 13:00-16:00 || "by appointment"
+website: https://little-lion-eclectics.business.site/

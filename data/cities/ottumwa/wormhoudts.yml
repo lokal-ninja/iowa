@@ -1,11 +1,11 @@
 id: 482166342
-type: way
+type: node
 latitude: 41.00792
 longitude: -92.41589
 postcode: "52501"
 city: Ottumwa
-street: "North Madison Avenue"
-housenumber: 444
+street: North Madison Avenue
+housenumber: "444"
 phone: ""
 opening_hours: ""
 website: ""

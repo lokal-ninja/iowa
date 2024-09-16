@@ -1,11 +1,11 @@
 id: 687391806
-type: way
+type: node
 latitude: 42.49528
 longitude: -90.71755
 postcode: "52002"
 city: Dubuque
-street: "John F. Kennedy Road"
-housenumber: 190
+street: John F. Kennedy Road
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ia/dubuque/190-john-f-kennedy-rd"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/ia/dubuque/190-john-f-kennedy-rd

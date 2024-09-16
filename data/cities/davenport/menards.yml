@@ -1,11 +1,11 @@
 id: 342673308
-type: way
+type: node
 latitude: 41.58842
 longitude: -90.57284
 postcode: "52806"
 city: Davenport
-street: "Brady Street"
-housenumber: 6600
+street: Brady Street
+housenumber: "6600"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3315"
+website: https://www.menards.com/store-details/store.html?store=3315

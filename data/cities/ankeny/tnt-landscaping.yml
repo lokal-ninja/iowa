@@ -1,11 +1,11 @@
 id: 37552665
-type: way
+type: node
 latitude: 41.72411
 longitude: -93.6182
 postcode: "50023"
 city: Ankeny
-street: "Southwest Ordnance Road"
-housenumber: 1313
+street: Southwest Ordnance Road
+housenumber: "1313"
 phone: ""
 opening_hours: ""
-website: "https://www.tntlandscaping.com/"
+website: https://www.tntlandscaping.com/

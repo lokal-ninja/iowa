@@ -1,11 +1,11 @@
 id: 156269913
-type: way
+type: node
 latitude: 41.59107
 longitude: -93.61133
 postcode: "50309"
 city: Des Moines
-street: "East Grand Avenue"
-housenumber: 504
+street: East Grand Avenue
+housenumber: "504"
 phone: "+15152446749"
 opening_hours: ""
-website: "https://www.americanplumbingsupplyco.com/"
+website: https://www.americanplumbingsupplyco.com/

@@ -1,11 +1,11 @@
 id: 680231316
-type: way
+type: node
 latitude: 41.60061
 longitude: -90.91234
 postcode: "52747"
 city: Durant
-street: "6th Avenue"
-housenumber: 408
-phone: "+1563-785-4767"
+street: 6th Avenue
+housenumber: "408"
+phone: +1563-785-4767
 opening_hours: ""
-website: "https://www.facebook.com/jeffsmarketandcatering/"
+website: https://www.facebook.com/jeffsmarketandcatering/

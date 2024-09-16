@@ -1,11 +1,11 @@
 id: 482973995
-type: way
+type: node
 latitude: 40.99474
 longitude: -92.41009
 postcode: "52501"
 city: Ottumwa
-street: "South Madison Avenue"
-housenumber: 901
+street: South Madison Avenue
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

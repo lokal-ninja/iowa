@@ -1,11 +1,11 @@
 id: 105680466
-type: way
+type: node
 latitude: 41.61961
 longitude: -93.67323
 postcode: "50310"
 city: Des Moines
-street: "Beaver Avenue"
-housenumber: 2714
+street: Beaver Avenue
+housenumber: "2714"
 phone: ""
 opening_hours: ""
 website: ""

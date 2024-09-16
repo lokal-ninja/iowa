@@ -1,11 +1,11 @@
 id: 324145521
-type: way
+type: node
 latitude: 41.58845
 longitude: -93.71377
 postcode: "50265"
 city: West Des Moines
-street: "8th Street"
-housenumber: 1220
+street: 8th Street
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

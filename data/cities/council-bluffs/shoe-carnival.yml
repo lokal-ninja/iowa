@@ -1,11 +1,11 @@
 id: 192392744
-type: way
+type: node
 latitude: 41.2283
 longitude: -95.87564
 postcode: "51501"
 city: Council Bluffs
-street: "Marketplace Drive"
-housenumber: 3271
+street: Marketplace Drive
+housenumber: "3271"
 phone: ""
 opening_hours: ""
-website: "https://stores.shoecarnival.com/ia/councilbluffs/shoe-store-council-bluffs-ia-381.html"
+website: https://stores.shoecarnival.com/ia/councilbluffs/shoe-store-council-bluffs-ia-381.html

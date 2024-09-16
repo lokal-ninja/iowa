@@ -1,11 +1,11 @@
 id: 1055562661
-type: way
+type: node
 latitude: 42.54038
 longitude: -96.36006
 postcode: "51108"
 city: Sioux City
-street: "Floyd Boulevard"
-housenumber: 3908
+street: Floyd Boulevard
+housenumber: "3908"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ia/sioux-city/405"
+website: https://www.dollargeneral.com/store-directory/ia/sioux-city/405

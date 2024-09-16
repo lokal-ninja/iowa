@@ -4,8 +4,8 @@ latitude: 42.4472
 longitude: -96.33946
 postcode: "51106"
 city: Sioux City
-street: "Sergeant Road"
-housenumber: 5001
-phone: "+1 712-266-0965"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ia/sioux-city-store1451.html"
+street: Sergeant Road
+housenumber: "5001"
+phone: +1 712-266-0965
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ia/sioux-city-store1451.html

@@ -1,11 +1,11 @@
 id: 342655357
-type: way
+type: node
 latitude: 41.57436
 longitude: -90.52656
 postcode: "52807"
 city: Davenport
-street: "Elmore Avenue"
-housenumber: 5245
+street: Elmore Avenue
+housenumber: "5245"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.staples.com/ia/davenport/5245-elmore-ave"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.staples.com/ia/davenport/5245-elmore-ave

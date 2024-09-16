@@ -1,11 +1,11 @@
 id: 965993951
-type: way
+type: node
 latitude: 42.52726
 longitude: -92.33718
 postcode: "50703"
 city: Waterloo
-street: "Logan Avenue"
-housenumber: 1850
+street: Logan Avenue
+housenumber: "1850"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1850+logan+ave-waterloo-ia-50703/id=10855"
+website: https://www.walgreens.com/locator/walgreens-1850+logan+ave-waterloo-ia-50703/id=10855

@@ -1,11 +1,11 @@
 id: 220234370
-type: way
+type: node
 latitude: 41.82476
 longitude: -90.53914
 postcode: "52742"
 city: Dewitt
-street: "6th Avenue"
-housenumber: 919
+street: 6th Avenue
+housenumber: "919"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 155925901
-type: way
+type: node
 latitude: 41.58612
 longitude: -93.66574
 postcode: "50312"
 city: Des Moines
-street: "Ingersoll Avenue"
-housenumber: 3604
+street: Ingersoll Avenue
+housenumber: "3604"
 phone: ""
 opening_hours: ""
 website: ""

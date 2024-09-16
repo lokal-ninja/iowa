@@ -1,11 +1,11 @@
 id: 966803766
-type: way
+type: node
 latitude: 42.4896
 longitude: -92.31445
 postcode: "50703"
 city: Waterloo
-street: "Lafayette Street"
-housenumber: 2100
+street: Lafayette Street
+housenumber: "2100"
 phone: "+13192344116"
-opening_hours: "Su-Th 06:00-11:00; Fr-Sa 06:00-24:00"
+opening_hours: Su-Th 06:00-11:00; Fr-Sa 06:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 454868671
-type: way
+type: node
 latitude: 42.49526
 longitude: -90.66425
 postcode: "52001"
 city: Dubuque
-street: "Main Street"
-housenumber: 129
+street: Main Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
-website: "https://www.shopajsboutique.com/"
+website: https://www.shopajsboutique.com/

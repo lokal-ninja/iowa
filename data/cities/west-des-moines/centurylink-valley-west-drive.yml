@@ -1,11 +1,11 @@
 id: 320759454
-type: way
+type: node
 latitude: 41.58649
 longitude: -93.75114
 postcode: "50265"
 city: West Des Moines
-street: "Valley West Drive"
-housenumber: 1051
+street: Valley West Drive
+housenumber: "1051"
 phone: ""
 opening_hours: ""
 website: ""

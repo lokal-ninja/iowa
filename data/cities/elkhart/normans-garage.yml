@@ -1,11 +1,11 @@
 id: 1157819830
-type: way
+type: node
 latitude: 41.79383
 longitude: -93.52445
 postcode: "50073"
 city: Elkhart
-street: "Northwest Shaw Avenue"
-housenumber: 363
+street: Northwest Shaw Avenue
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

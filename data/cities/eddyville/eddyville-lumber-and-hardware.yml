@@ -1,11 +1,11 @@
 id: 539934223
-type: way
+type: node
 latitude: 41.15653
 longitude: -92.62901
 postcode: "52553"
 city: Eddyville
-street: "South Merino Avenue"
-housenumber: 207
-phone: "+1-641-969-4814"
-opening_hours: "Mo-Fr 07:00-13:00;Sa 08:00-12:00"
+street: South Merino Avenue
+housenumber: "207"
+phone: +1-641-969-4814
+opening_hours: Mo-Fr 07:00-13:00;Sa 08:00-12:00
 website: ""

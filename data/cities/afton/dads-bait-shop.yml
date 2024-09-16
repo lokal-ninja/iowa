@@ -1,11 +1,11 @@
 id: 1134401630
-type: way
+type: node
 latitude: 41.03257
 longitude: -94.20033
 postcode: "50830"
 city: Afton
-street: "North Pierce Street"
-housenumber: 612
-phone: "+1 (641) 344-3175"
-opening_hours: "Mo-Su 06:00-18:00"
-website: "https://www.facebook.com/Dads-Bait-Shop-484364221711471/"
+street: North Pierce Street
+housenumber: "612"
+phone: +1 (641) 344-3175
+opening_hours: Mo-Su 06:00-18:00
+website: https://www.facebook.com/Dads-Bait-Shop-484364221711471/

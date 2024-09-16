@@ -1,11 +1,11 @@
 id: 568405107
-type: way
+type: node
 latitude: 41.60136
 longitude: -93.75114
 postcode: "50325"
 city: Clive
-street: "University Avenue"
-housenumber: 9753
+street: University Avenue
+housenumber: "9753"
 phone: ""
 opening_hours: ""
 website: ""

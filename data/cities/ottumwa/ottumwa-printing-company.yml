@@ -1,11 +1,11 @@
 id: 503137852
-type: way
+type: node
 latitude: 41.01183
 longitude: -92.40314
 postcode: "52501"
 city: Ottumwa
-street: "South Birch Street"
-housenumber: 105
+street: South Birch Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

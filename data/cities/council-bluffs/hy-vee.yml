@@ -1,11 +1,11 @@
 id: 193240972
-type: way
+type: node
 latitude: 41.24396
 longitude: -95.8261
 postcode: "51503"
 city: Council Bluffs
-street: "Madison Avenue"
-housenumber: 1745
-phone: "(712) 322-9260"
+street: Madison Avenue
+housenumber: "1745"
+phone: (712) 322-9260
 opening_hours: ""
 website: ""

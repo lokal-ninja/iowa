@@ -1,11 +1,11 @@
 id: 456506165
-type: way
+type: node
 latitude: 41.01394
 longitude: -92.45481
 postcode: "52501"
 city: Ottumwa
-street: "Venture Drive"
-housenumber: 1898
+street: Venture Drive
+housenumber: "1898"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3185"
+website: https://www.menards.com/store-details/store.html?store=3185

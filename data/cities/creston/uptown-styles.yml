@@ -1,11 +1,11 @@
 id: 646691260
-type: way
+type: node
 latitude: 41.05761
 longitude: -94.36908
 postcode: "50801"
 city: Creston
-street: "West Adams Street"
-housenumber: 609
+street: West Adams Street
+housenumber: "609"
 phone: "6417827207"
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 37712539
-type: way
+type: node
 latitude: 41.71558
 longitude: -93.59243
 postcode: "50021"
 city: Ankeny
-street: "Southeast Cortina Drive"
-housenumber: 1501
+street: Southeast Cortina Drive
+housenumber: "1501"
 phone: ""
 opening_hours: ""
-website: "https://www.ankenyautobody.com/"
+website: https://www.ankenyautobody.com/

@@ -1,11 +1,11 @@
 id: 1184370822
-type: way
+type: node
 latitude: 41.79325
 longitude: -93.5243
 postcode: "50073"
 city: Elkhart
-street: "Northwest Main Street"
-housenumber: 367
+street: Northwest Main Street
+housenumber: "367"
 phone: ""
 opening_hours: ""
 website: ""

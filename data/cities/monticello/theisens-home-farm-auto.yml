@@ -1,11 +1,11 @@
 id: 687260894
-type: way
+type: node
 latitude: 42.23804
 longitude: -91.18729
 postcode: ""
 city: Monticello
-street: "East 1st Street"
-housenumber: 232
+street: East 1st Street
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 328889665
-type: way
+type: node
 latitude: 41.57077
 longitude: -93.71913
 postcode: "50265"
 city: West Des Moines
-street: "12th Street"
-housenumber: 121
+street: 12th Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "http://www.nestcraftstudio.com/"
+website: http://www.nestcraftstudio.com/

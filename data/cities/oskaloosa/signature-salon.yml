@@ -1,11 +1,11 @@
 id: 692330808
-type: way
+type: node
 latitude: 41.29567
 longitude: -92.65903
 postcode: "52577"
 city: Oskaloosa
-street: "North L Street"
-housenumber: 102
+street: North L Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

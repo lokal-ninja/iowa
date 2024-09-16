@@ -1,11 +1,11 @@
 id: 193450162
-type: way
+type: node
 latitude: 41.22785
 longitude: -95.85037
 postcode: "51501"
 city: Council Bluffs
-street: "32nd Avenue"
-housenumber: 609
+street: 32nd Avenue
+housenumber: "609"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/ia/council-bluffs/609-32nd-ave"
+website: https://stores.advanceautoparts.com/ia/council-bluffs/609-32nd-ave

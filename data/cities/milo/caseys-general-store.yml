@@ -1,11 +1,11 @@
 id: 1207908868
-type: way
+type: node
 latitude: 41.29115
 longitude: -93.44022
 postcode: "50166"
 city: Milo
-street: "North 2nd Street"
-housenumber: 426
-phone: "+1 (641) 942-6973"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://www.caseys.com/general-store/ia-milo/426-n-2nd-st/1428"
+street: North 2nd Street
+housenumber: "426"
+phone: +1 (641) 942-6973
+opening_hours: Mo-Su 05:00-22:00
+website: https://www.caseys.com/general-store/ia-milo/426-n-2nd-st/1428

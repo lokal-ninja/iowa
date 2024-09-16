@@ -1,11 +1,11 @@
 id: 1072046570
-type: way
+type: node
 latitude: 41.60525
 longitude: -93.60037
 postcode: "50316"
 city: Des Moines
-street: "East 14th Street"
-housenumber: 1405
-phone: "1 515 528 2450"
-opening_hours: "Mo-Su 09:00-16:00"
-website: "https://maxiosautorepair.business.site/"
+street: East 14th Street
+housenumber: "1405"
+phone: 1 515 528 2450
+opening_hours: Mo-Su 09:00-16:00
+website: https://maxiosautorepair.business.site/

@@ -4,8 +4,8 @@ latitude: 41.57033
 longitude: -93.70869
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 123
-phone: "+1-515-783-7217"
-opening_hours: "We-Fr 10:00-17:00; Sa 10:00-15:00"
-website: "https://www.facebook.com/skylabsiowa/"
+street: 5th Street
+housenumber: "123"
+phone: +1-515-783-7217
+opening_hours: We-Fr 10:00-17:00; Sa 10:00-15:00
+website: https://www.facebook.com/skylabsiowa/

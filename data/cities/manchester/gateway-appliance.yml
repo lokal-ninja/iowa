@@ -4,8 +4,8 @@ latitude: 42.48409
 longitude: -91.45899
 postcode: ""
 city: Manchester
-street: "West Main Street"
-housenumber: 111
-phone: "+1-563-927-3200"
+street: West Main Street
+housenumber: "111"
+phone: +1-563-927-3200
 opening_hours: ""
-website: "https://www.gatewayappliance.com"
+website: https://www.gatewayappliance.com

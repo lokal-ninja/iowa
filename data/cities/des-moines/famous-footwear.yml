@@ -1,11 +1,11 @@
 id: 93013563
-type: way
+type: node
 latitude: 41.63645
 longitude: -93.69882
 postcode: "50310"
 city: Des Moines
-street: "Aurora Avenue"
-housenumber: 5820
+street: Aurora Avenue
+housenumber: "5820"
 phone: ""
 opening_hours: ""
 website: ""

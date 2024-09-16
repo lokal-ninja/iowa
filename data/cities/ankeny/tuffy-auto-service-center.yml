@@ -1,11 +1,11 @@
 id: 34366310
-type: way
+type: node
 latitude: 41.71256
 longitude: -93.58072
 postcode: "50021"
 city: Ankeny
-street: "Southeast Delaware Avenue"
-housenumber: 1635
+street: Southeast Delaware Avenue
+housenumber: "1635"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.tuffy.com/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.tuffy.com/

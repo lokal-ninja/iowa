@@ -4,8 +4,8 @@ latitude: 41.59501
 longitude: -93.73825
 postcode: "50266"
 city: West Des Moines
-street: "22nd Street"
-housenumber: 1404
-phone: "+1 515-223-8877"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ia/west-des-moines/3101"
+street: 22nd Street
+housenumber: "1404"
+phone: +1 515-223-8877
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ia/west-des-moines/3101

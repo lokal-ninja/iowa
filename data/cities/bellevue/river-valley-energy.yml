@@ -1,11 +1,11 @@
 id: 852592284
-type: way
+type: node
 latitude: 42.25378
 longitude: -90.42255
 postcode: "52031"
 city: Bellevue
-street: "South 2nd Street"
-housenumber: 600
+street: South 2nd Street
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

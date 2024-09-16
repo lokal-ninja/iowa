@@ -1,11 +1,11 @@
 id: 586606537
-type: way
+type: node
 latitude: 42.47615
 longitude: -96.35979
 postcode: "51106"
 city: Sioux City
-street: "Morningside Avenue"
-housenumber: 1415
-phone: "+1-712-276-3412"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; Su closed"
-website: "https://www.bushdrycleaners.com/"
+street: Morningside Avenue
+housenumber: "1415"
+phone: +1-712-276-3412
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; Su closed
+website: https://www.bushdrycleaners.com/

@@ -1,11 +1,11 @@
 id: 852244636
-type: way
+type: node
 latitude: 42.25335
 longitude: -90.44173
 postcode: "52031"
 city: Bellevue
-street: "State Street"
-housenumber: 1600
+street: State Street
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 42.03088
 longitude: -91.56356
 postcode: "52302"
 city: Marion
-street: "44th Street"
-housenumber: 600
+street: 44th Street
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
 website: ""

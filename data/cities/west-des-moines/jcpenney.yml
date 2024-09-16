@@ -1,11 +1,11 @@
 id: 166726576
-type: way
+type: node
 latitude: 41.59733
 longitude: -93.74919
 postcode: "50266"
 city: West Des Moines
-street: "Valley West Drive"
-housenumber: 1551
+street: Valley West Drive
+housenumber: "1551"
 phone: ""
 opening_hours: ""
-website: "https://jcp.com"
+website: https://jcp.com

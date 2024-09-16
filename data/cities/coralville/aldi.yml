@@ -1,11 +1,11 @@
 id: 844551162
-type: way
+type: node
 latitude: 41.70022
 longitude: -91.61097
 postcode: "52241"
 city: Coralville
-street: "Heartland Drive"
-housenumber: 2750
-phone: "+1 833-468-7056"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ia/coralville/2750-heartland-drive"
+street: Heartland Drive
+housenumber: "2750"
+phone: +1 833-468-7056
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ia/coralville/2750-heartland-drive

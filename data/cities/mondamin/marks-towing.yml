@@ -1,11 +1,11 @@
 id: 1169763026
-type: way
+type: node
 latitude: 41.71073
 longitude: -96.02581
 postcode: "51557"
 city: Mondamin
-street: "Maple Street"
-housenumber: 73
+street: Maple Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

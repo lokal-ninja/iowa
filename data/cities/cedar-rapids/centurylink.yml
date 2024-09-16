@@ -1,11 +1,11 @@
 id: 243364551
-type: way
+type: node
 latitude: 42.03602
 longitude: -91.6604
 postcode: "52402"
 city: Cedar Rapids
-street: "Blairs Ferry Road Northeast"
-housenumber: 1550
+street: Blairs Ferry Road Northeast
+housenumber: "1550"
 phone: ""
 opening_hours: ""
-website: "https://www.centurylink.com/local/ia/cedar-rapids"
+website: https://www.centurylink.com/local/ia/cedar-rapids

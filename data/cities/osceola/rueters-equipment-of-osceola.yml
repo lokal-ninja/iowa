@@ -1,11 +1,11 @@
 id: 498077674
-type: way
+type: node
 latitude: 41.02543
 longitude: -93.79184
 postcode: "50213"
 city: Osceola
-street: "Tieken Road"
-housenumber: 1827
-phone: "+1 (641) 223-8171"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
+street: Tieken Road
+housenumber: "1827"
+phone: +1 (641) 223-8171
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
 website: ""

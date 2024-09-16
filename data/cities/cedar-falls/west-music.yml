@@ -1,11 +1,11 @@
 id: 925211029
-type: way
+type: node
 latitude: 42.51484
 longitude: -92.43396
 postcode: "50613"
 city: Cedar Falls
-street: "University Avenue"
-housenumber: 6322
+street: University Avenue
+housenumber: "6322"
 phone: ""
 opening_hours: ""
 website: ""

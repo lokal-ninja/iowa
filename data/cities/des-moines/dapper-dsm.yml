@@ -4,8 +4,8 @@ latitude: 41.58525
 longitude: -93.62192
 postcode: "50309"
 city: Des Moines
-street: "4th Street"
-housenumber: 204
-phone: "+1-515-280-3171"
+street: 4th Street
+housenumber: "204"
+phone: +1-515-280-3171
 opening_hours: ""
-website: "http://dapperdsm.com/"
+website: http://dapperdsm.com/

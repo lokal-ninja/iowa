@@ -1,11 +1,11 @@
 id: 669058891
-type: way
+type: node
 latitude: 41.38879
 longitude: -93.55625
 postcode: "50125"
 city: Indianola
-street: "North Jefferson Way"
-housenumber: 2406
+street: North Jefferson Way
+housenumber: "2406"
 phone: ""
 opening_hours: ""
 website: ""

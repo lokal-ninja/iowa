@@ -1,11 +1,11 @@
 id: 848847208
-type: way
+type: node
 latitude: 41.55202
 longitude: -90.48437
 postcode: ""
 city: Bettendorf
-street: "Middle Road"
-housenumber: 3470
+street: Middle Road
+housenumber: "3470"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

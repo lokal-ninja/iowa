@@ -1,11 +1,11 @@
 id: 34089070
-type: way
+type: node
 latitude: 41.73394
 longitude: -93.5849
 postcode: "50021"
 city: Ankeny
-street: "East 1st Street"
-housenumber: 906
+street: East 1st Street
+housenumber: "906"
 phone: ""
 opening_hours: ""
-website: "https://www.shopstuffetc.com/"
+website: https://www.shopstuffetc.com/

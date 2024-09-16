@@ -1,11 +1,11 @@
 id: 243361447
-type: way
+type: node
 latitude: 42.03313
 longitude: -91.58972
 postcode: "52302"
 city: Marion
-street: "7th Avenue"
-housenumber: 2155
-phone: "+1-319-393-0700"
+street: 7th Avenue
+housenumber: "2155"
+phone: +1-319-393-0700
 opening_hours: ""
-website: "https://www.lpiloans.com"
+website: https://www.lpiloans.com

@@ -1,11 +1,11 @@
 id: 297682950
-type: way
+type: node
 latitude: 41.58667
 longitude: -93.66842
 postcode: "50312"
 city: Des Moines
-street: "Ingersoll Avenue"
-housenumber: 3801
+street: Ingersoll Avenue
+housenumber: "3801"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:30"
-website: "https://www.boesen.com/"
+opening_hours: Mo-Sa 08:00-17:30
+website: https://www.boesen.com/

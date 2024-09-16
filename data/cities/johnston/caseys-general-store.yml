@@ -1,11 +1,11 @@
 id: 130923302
-type: way
+type: node
 latitude: 41.68773
 longitude: -93.70555
 postcode: "50131"
 city: Johnston
-street: "Northglenn Drive"
-housenumber: 6417
+street: Northglenn Drive
+housenumber: "6417"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 330798836
-type: way
+type: node
 latitude: 41.5707
 longitude: -93.70291
 postcode: "50312"
 city: Des Moines
-street: "Southwest 63rd Street"
-housenumber: 801
+street: Southwest 63rd Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

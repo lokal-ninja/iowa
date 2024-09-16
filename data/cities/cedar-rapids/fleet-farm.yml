@@ -1,11 +1,11 @@
 id: 892471816
-type: way
+type: node
 latitude: 42.03158
 longitude: -91.70675
 postcode: "52411"
 city: Cedar Rapids
-street: "Cross Pointe Boulevard Northeast"
-housenumber: 4650
-phone: "+1-319-826-1659"
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
-website: "https://www.fleetfarm.com/visit-stores/cedar-rapids-ia"
+street: Cross Pointe Boulevard Northeast
+housenumber: "4650"
+phone: +1-319-826-1659
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
+website: https://www.fleetfarm.com/visit-stores/cedar-rapids-ia

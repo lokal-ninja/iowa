@@ -1,11 +1,11 @@
 id: 343604827
-type: way
+type: node
 latitude: 41.55606
 longitude: -90.57566
 postcode: "52806"
 city: Davenport
-street: "West 35th Street"
-housenumber: 230
+street: West 35th Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "http://www.cinderellascellar.com/"
+website: http://www.cinderellascellar.com/

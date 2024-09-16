@@ -1,11 +1,11 @@
 id: 125437395
-type: way
+type: node
 latitude: 43.12552
 longitude: -95.15332
 postcode: "51301"
 city: Spencer
-street: "11th Street Southwest"
-housenumber: 500
-phone: "+1 712-262-5001"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2714/spencer-ia/whats-new"
+street: 11th Street Southwest
+housenumber: "500"
+phone: +1 712-262-5001
+opening_hours: 24/7
+website: https://www.walmart.com/store/2714/spencer-ia/whats-new

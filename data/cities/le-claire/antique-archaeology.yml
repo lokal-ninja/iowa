@@ -1,11 +1,11 @@
 id: 791108721
-type: way
+type: node
 latitude: 41.59578
 longitude: -90.34454
 postcode: "52753"
 city: Le Claire
-street: "Davenport Street"
-housenumber: 115
+street: Davenport Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

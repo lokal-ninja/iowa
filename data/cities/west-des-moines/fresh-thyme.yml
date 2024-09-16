@@ -4,8 +4,8 @@ latitude: 41.59937
 longitude: -93.74431
 postcode: "50265"
 city: West Des Moines
-street: "University Avenue"
-housenumber: 2900
+street: University Avenue
+housenumber: "2900"
 phone: ""
 opening_hours: ""
-website: "https://freshthyme.com/"
+website: https://freshthyme.com/

@@ -1,11 +1,11 @@
 id: 343604802
-type: way
+type: node
 latitude: 41.55783
 longitude: -90.57837
 postcode: "52806"
 city: Davenport
-street: "Harrison Street"
-housenumber: 3800
+street: Harrison Street
+housenumber: "3800"
 phone: ""
 opening_hours: ""
-website: "http://www.driverschoiceqc.com/"
+website: http://www.driverschoiceqc.com/

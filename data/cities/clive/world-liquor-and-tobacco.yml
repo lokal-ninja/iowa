@@ -1,11 +1,11 @@
 id: 105563663
-type: way
+type: node
 latitude: 41.60796
 longitude: -93.73589
 postcode: "50325"
 city: Clive
-street: "Northwest 86th Street"
-housenumber: 1775
+street: Northwest 86th Street
+housenumber: "1775"
 phone: ""
 opening_hours: ""
 website: ""

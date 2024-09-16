@@ -1,11 +1,11 @@
 id: 192574016
-type: way
+type: node
 latitude: 41.26235
 longitude: -95.88404
 postcode: "51501"
 city: Council Bluffs
-street: "West Broadway"
-housenumber: 2550
+street: West Broadway
+housenumber: "2550"
 phone: ""
 opening_hours: ""
 website: ""

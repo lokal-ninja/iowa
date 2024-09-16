@@ -1,11 +1,11 @@
 id: 38223983
-type: way
+type: node
 latitude: 41.75986
 longitude: -93.59984
 postcode: "50021"
 city: Ankeny
-street: "North Ankeny Boulevard"
-housenumber: 3455
+street: North Ankeny Boulevard
+housenumber: "3455"
 phone: ""
 opening_hours: ""
-website: "https://heartlandtireandauto.com/"
+website: https://heartlandtireandauto.com/

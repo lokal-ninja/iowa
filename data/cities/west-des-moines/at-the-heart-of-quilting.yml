@@ -1,11 +1,11 @@
 id: 329590922
-type: way
+type: node
 latitude: 41.57314
 longitude: -93.70875
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 315
+street: 5th Street
+housenumber: "315"
 phone: ""
 opening_hours: ""
-website: "https://heartofquilting.com"
+website: https://heartofquilting.com

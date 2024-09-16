@@ -1,11 +1,11 @@
 id: 784892724
-type: way
+type: node
 latitude: 41.55991
 longitude: -90.56946
 postcode: "52806"
 city: Davenport
-street: "East Kimberly Road"
-housenumber: 309
+street: East Kimberly Road
+housenumber: "309"
 phone: ""
 opening_hours: ""
-website: "https://www.tiresplus.com/"
+website: https://www.tiresplus.com/

@@ -1,11 +1,11 @@
 id: 643466290
-type: way
+type: node
 latitude: 42.03109
 longitude: -91.69854
 postcode: "52411"
 city: Cedar Rapids
-street: "Fountains Drive Northeast"
-housenumber: 5100
+street: Fountains Drive Northeast
+housenumber: "5100"
 phone: ""
 opening_hours: ""
 website: ""

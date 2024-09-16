@@ -1,11 +1,11 @@
 id: 38132525
-type: way
+type: node
 latitude: 41.7035
 longitude: -93.57992
 postcode: "50021"
 city: Ankeny
-street: "Southeast Delaware Avenue"
-housenumber: 2605
+street: Southeast Delaware Avenue
+housenumber: "2605"
 phone: ""
 opening_hours: ""
-website: "https://www.bigotires.com/"
+website: https://www.bigotires.com/

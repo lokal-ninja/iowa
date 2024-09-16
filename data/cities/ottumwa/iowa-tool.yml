@@ -1,11 +1,11 @@
 id: 456506149
-type: way
+type: node
 latitude: 41.01701
 longitude: -92.44898
 postcode: "52501"
 city: Ottumwa
-street: "Wildwood Drive"
-housenumber: 1111
+street: Wildwood Drive
+housenumber: "1111"
 phone: ""
 opening_hours: ""
 website: ""

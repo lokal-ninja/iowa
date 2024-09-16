@@ -1,11 +1,11 @@
 id: 489484492
-type: way
+type: node
 latitude: 41.02434
 longitude: -92.42607
 postcode: "52501"
 city: Ottumwa
-street: "Gateway Drive"
-housenumber: 940
+street: Gateway Drive
+housenumber: "940"
 phone: ""
 opening_hours: ""
 website: ""

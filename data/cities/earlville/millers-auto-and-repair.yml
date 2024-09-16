@@ -1,11 +1,11 @@
 id: 687718548
-type: way
+type: node
 latitude: 42.48519
 longitude: -91.27213
 postcode: "52041"
 city: Earlville
-street: "East Margaret Street"
-housenumber: 4
+street: East Margaret Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

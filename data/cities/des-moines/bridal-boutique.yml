@@ -1,11 +1,11 @@
 id: 104290262
-type: way
+type: node
 latitude: 41.59042
 longitude: -93.61051
 postcode: "50309"
 city: Des Moines
-street: "East 6th Street"
-housenumber: 412
+street: East 6th Street
+housenumber: "412"
 phone: "+15152442266"
 opening_hours: ""
-website: "https://www.bridalboutiquedm.com/"
+website: https://www.bridalboutiquedm.com/

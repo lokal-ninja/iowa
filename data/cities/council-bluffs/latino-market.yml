@@ -1,11 +1,11 @@
 id: 698747754
-type: way
+type: node
 latitude: 41.26771
 longitude: -95.86727
 postcode: "51501"
 city: Council Bluffs
-street: "Avenue G"
-housenumber: 1535
-phone: "+1-712-352-0265"
+street: Avenue G
+housenumber: "1535"
+phone: +1-712-352-0265
 opening_hours: ""
 website: ""

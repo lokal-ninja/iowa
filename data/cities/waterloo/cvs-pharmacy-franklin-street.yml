@@ -1,11 +1,11 @@
 id: 1212356151
-type: way
+type: node
 latitude: 42.50439
 longitude: -92.33687
 postcode: "50703"
 city: Waterloo
-street: "Franklin Street"
-housenumber: 205
+street: Franklin Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

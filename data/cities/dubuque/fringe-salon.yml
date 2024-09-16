@@ -1,11 +1,11 @@
 id: 454868251
-type: way
+type: node
 latitude: 42.49466
 longitude: -90.66368
 postcode: "52001"
 city: Dubuque
-street: "Main Street"
-housenumber: 80
+street: Main Street
+housenumber: "80"
 phone: "+15635824377"
 opening_hours: ""
-website: "https://www.fringesalondbq.com/"
+website: https://www.fringesalondbq.com/

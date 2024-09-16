@@ -1,11 +1,11 @@
 id: 534404993
-type: way
+type: node
 latitude: 41.06207
 longitude: -92.41076
 postcode: "52501"
 city: Ottumwa
-street: "North Court Road"
-housenumber: 2827
+street: North Court Road
+housenumber: "2827"
 phone: ""
 opening_hours: ""
 website: ""

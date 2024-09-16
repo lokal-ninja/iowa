@@ -1,11 +1,11 @@
 id: 1181055483
-type: way
+type: node
 latitude: 41.79766
 longitude: -93.53708
 postcode: "50073"
 city: Elkhart
-street: "Northwest Laurel Street"
-housenumber: 1308
+street: Northwest Laurel Street
+housenumber: "1308"
 phone: ""
 opening_hours: ""
 website: ""

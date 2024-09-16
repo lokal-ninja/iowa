@@ -1,11 +1,11 @@
 id: 684169869
-type: way
+type: node
 latitude: 42.52299
 longitude: -90.73897
 postcode: "52002"
 city: Dubuque
-street: "Plaza Drive"
-housenumber: 2874
-phone: "+1 563-845-7502"
+street: Plaza Drive
+housenumber: "2874"
+phone: +1 563-845-7502
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/iowa/dubuque/9000036856/"
+website: https://stores.ashleyfurniture.com/store/us/iowa/dubuque/9000036856/

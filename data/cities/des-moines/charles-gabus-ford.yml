@@ -1,11 +1,11 @@
 id: 61225493
-type: way
+type: node
 latitude: 41.64323
 longitude: -93.69593
 postcode: "50310"
 city: Des Moines
-street: "Merle Hay Road"
-housenumber: 4545
+street: Merle Hay Road
+housenumber: "4545"
 phone: ""
 opening_hours: ""
-website: "https://www.charlesgabusford.com/"
+website: https://www.charlesgabusford.com/

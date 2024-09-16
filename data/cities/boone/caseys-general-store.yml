@@ -1,11 +1,11 @@
 id: 420792650
-type: way
+type: node
 latitude: 42.03564
 longitude: -93.87329
 postcode: "50036"
 city: Boone
-street: "Southeast Marshall"
-housenumber: 1303
-phone: "+1-515-216-3384"
+street: Southeast Marshall
+housenumber: "1303"
+phone: +1-515-216-3384
 opening_hours: ""
-website: "https://www.caseys.com/general-store/ia-boone/1303-se-marshall-st/3251"
+website: https://www.caseys.com/general-store/ia-boone/1303-se-marshall-st/3251

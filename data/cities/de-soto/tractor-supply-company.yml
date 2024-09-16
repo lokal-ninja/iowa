@@ -1,11 +1,11 @@
 id: 664543363
-type: way
+type: node
 latitude: 41.5396
 longitude: -94.00825
 postcode: "50069"
 city: De Soto
-street: "Ash Street"
-housenumber: 4001
-phone: "+1 515-834-2181"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Ash Street
+housenumber: "4001"
+phone: +1 515-834-2181
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

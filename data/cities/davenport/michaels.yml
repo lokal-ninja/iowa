@@ -1,11 +1,11 @@
 id: 785946195
-type: way
+type: node
 latitude: 41.5775
 longitude: -90.51701
-postcode: "52807-3033"
+postcode: 52807-3033
 city: Davenport
-street: "East 53rd Street"
-housenumber: 4010
-phone: "+1 563-355-7808"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/ia/davenport/2106"
+street: East 53rd Street
+housenumber: "4010"
+phone: +1 563-355-7808
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/ia/davenport/2106

@@ -1,11 +1,11 @@
 id: 566277365
-type: way
+type: node
 latitude: 42.42301
 longitude: -94.99781
 postcode: "50583"
 city: Sac City
-street: "West Main Street"
-housenumber: 1120
-phone: "(712) 662-7135"
+street: West Main Street
+housenumber: "1120"
+phone: (712) 662-7135
 opening_hours: ""
-website: "http://farberotteman.com"
+website: http://farberotteman.com

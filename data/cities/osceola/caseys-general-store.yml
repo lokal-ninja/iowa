@@ -1,11 +1,11 @@
 id: 404804280
-type: way
+type: node
 latitude: 41.02717
 longitude: -93.78949
 postcode: "50213"
 city: Osceola
-street: "Jeffreys Drive"
-housenumber: 1706
-phone: "+1 (641) 200-1220"
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/ia-osceola/1706-jeffreys-dr/2550"
+street: Jeffreys Drive
+housenumber: "1706"
+phone: +1 (641) 200-1220
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/ia-osceola/1706-jeffreys-dr/2550

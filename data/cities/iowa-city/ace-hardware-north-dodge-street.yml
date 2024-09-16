@@ -1,11 +1,11 @@
 id: 837913046
-type: way
+type: node
 latitude: 41.66845
 longitude: -91.52485
-postcode: "52245-2008"
+postcode: 52245-2008
 city: Iowa City
-street: "North Dodge Street"
-housenumber: 600
-phone: "+1 319-354-4112"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: North Dodge Street
+housenumber: "600"
+phone: +1 319-354-4112
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

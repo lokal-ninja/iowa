@@ -4,8 +4,8 @@ latitude: 41.96493
 longitude: -91.66112
 postcode: "52404"
 city: Cedar Rapids
-street: "16th Avenue Southwest"
-housenumber: 72
-phone: "+1-630-486-0924"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00"
-website: "https://frolicsboutique.com/"
+street: 16th Avenue Southwest
+housenumber: "72"
+phone: +1-630-486-0924
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00
+website: https://frolicsboutique.com/

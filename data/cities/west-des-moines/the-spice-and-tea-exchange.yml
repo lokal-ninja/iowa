@@ -4,8 +4,8 @@ latitude: 41.5718
 longitude: -93.7091
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 218
-phone: "+1 515-255-3696"
-opening_hours: "Mo-Sa 10:00-18:00, Su 12:00-16:00"
-website: "http://ww.spiceandtea.com"
+street: 5th Street
+housenumber: "218"
+phone: +1 515-255-3696
+opening_hours: Mo-Sa 10:00-18:00, Su 12:00-16:00
+website: http://ww.spiceandtea.com

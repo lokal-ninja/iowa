@@ -4,8 +4,8 @@ latitude: 42.51024
 longitude: -96.41761
 postcode: "51103"
 city: Sioux City
-street: "Hamilton Boulevard"
-housenumber: 1821
-phone: "+1 712 255 7600"
-opening_hours: "24/7"
-website: "https://www.kumandgo.com/store-locator?details=0229"
+street: Hamilton Boulevard
+housenumber: "1821"
+phone: +1 712 255 7600
+opening_hours: 24/7
+website: https://www.kumandgo.com/store-locator?details=0229

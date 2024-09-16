@@ -1,11 +1,11 @@
 id: 467902688
-type: way
+type: node
 latitude: 41.00743
 longitude: -92.43187
 postcode: "52501"
 city: Ottumwa
-street: "Richmond Avenue"
-housenumber: 701
+street: Richmond Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ia/ottumwa/autoparts-346.html"
+website: https://locations.oreillyauto.com/ia/ottumwa/autoparts-346.html

@@ -1,11 +1,11 @@
 id: 837404148
-type: way
+type: node
 latitude: 41.66404
 longitude: -91.53146
 postcode: "52245"
 city: Iowa City
-street: "North Linn Street"
-housenumber: 210
+street: North Linn Street
+housenumber: "210"
 phone: "+13193513737"
 opening_hours: ""
-website: "https://www.wildculturekombucha.com/"
+website: https://www.wildculturekombucha.com/

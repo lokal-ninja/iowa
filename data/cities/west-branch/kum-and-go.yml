@@ -1,11 +1,11 @@
 id: 777202598
-type: way
+type: node
 latitude: 41.66157
 longitude: -91.3478
 postcode: "52358"
 city: West Branch
-street: "S Downey Street"
-housenumber: 620
+street: S Downey Street
+housenumber: "620"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0254"
+website: https://www.kumandgo.com/store-locator?details=0254

@@ -1,11 +1,11 @@
 id: 193450141
-type: way
+type: node
 latitude: 41.23007
 longitude: -95.8483
 postcode: "51501"
 city: Council Bluffs
-street: "30th Avenue"
-housenumber: 505
+street: 30th Avenue
+housenumber: "505"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/ia/council-bluffs/officemax-6582"
+website: https://www.officedepot.com/storelocator/ia/council-bluffs/officemax-6582

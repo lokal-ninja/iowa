@@ -1,11 +1,11 @@
 id: 692312891
-type: way
+type: node
 latitude: 41.29676
 longitude: -92.65051
 postcode: "52577"
 city: Oskaloosa
-street: "A Avenue West"
-housenumber: 501
+street: A Avenue West
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ia/oskaloosa/autoparts-307.html"
+website: https://locations.oreillyauto.com/ia/oskaloosa/autoparts-307.html

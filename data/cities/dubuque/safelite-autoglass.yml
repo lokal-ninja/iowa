@@ -1,11 +1,11 @@
 id: 913578049
-type: way
+type: node
 latitude: 42.49271
 longitude: -90.708
 postcode: "52001"
 city: Dubuque
-street: "University Avenue"
-housenumber: 2828
+street: University Avenue
+housenumber: "2828"
 phone: ""
 opening_hours: ""
 website: ""

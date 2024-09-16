@@ -1,11 +1,11 @@
 id: 852044401
-type: way
+type: node
 latitude: 41.88602
 longitude: -93.40136
 postcode: "50161"
 city: Maxwell
-street: "Short Street"
-housenumber: 221
+street: Short Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

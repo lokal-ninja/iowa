@@ -1,11 +1,11 @@
 id: 923008471
-type: way
+type: node
 latitude: 42.49423
 longitude: -92.34139
 postcode: "50701"
 city: Waterloo
-street: "West 4th Street"
-housenumber: 310
+street: West 4th Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

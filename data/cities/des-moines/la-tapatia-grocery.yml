@@ -1,11 +1,11 @@
 id: 340560962
-type: way
+type: node
 latitude: 41.59569
 longitude: -93.59684
 postcode: "50316"
 city: Des Moines
-street: "Des Moines Street"
-housenumber: 1440
+street: Des Moines Street
+housenumber: "1440"
 phone: ""
 opening_hours: ""
 website: ""

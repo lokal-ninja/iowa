@@ -1,11 +1,11 @@
 id: 38267025
-type: way
+type: node
 latitude: 41.72946
 longitude: -93.6051
-postcode: "50023-3054"
+postcode: 50023-3054
 city: Ankeny
-street: "Southwest 3rd Street"
-housenumber: 405
+street: Southwest 3rd Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

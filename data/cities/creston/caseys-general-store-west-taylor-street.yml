@@ -1,11 +1,11 @@
 id: 1134129332
-type: way
+type: node
 latitude: 41.04876
 longitude: -94.36224
 postcode: "50801"
 city: Creston
-street: "West Taylor Street"
-housenumber: 102
-phone: "+1 (641) 782-4399"
-opening_hours: "24/7"
-website: "https://www.caseys.com/general-store/ia-creston/102-w-taylor-st/3852"
+street: West Taylor Street
+housenumber: "102"
+phone: +1 (641) 782-4399
+opening_hours: 24/7
+website: https://www.caseys.com/general-store/ia-creston/102-w-taylor-st/3852

@@ -1,11 +1,11 @@
 id: 759372150
-type: way
+type: node
 latitude: 40.98731
 longitude: -94.73414
 postcode: "50841"
 city: Corning
-street: "Davis Avenue"
-housenumber: 510
-phone: "+1 (641) 322-4777"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://rsautosales.com/"
+street: Davis Avenue
+housenumber: "510"
+phone: +1 (641) 322-4777
+opening_hours: Mo-Fr 08:00-17:00
+website: https://rsautosales.com/

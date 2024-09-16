@@ -1,11 +1,11 @@
 id: 1015712825
-type: way
+type: node
 latitude: 42.0281
 longitude: -91.62227
 postcode: "52402"
 city: Cedar Rapids
-street: "Twixt Town Road Northeast"
-housenumber: 1190
-phone: "(844) 443-6159"
+street: Twixt Town Road Northeast
+housenumber: "1190"
+phone: (844) 443-6159
 opening_hours: ""
-website: "https://www.schultzstrings.com/"
+website: https://www.schultzstrings.com/

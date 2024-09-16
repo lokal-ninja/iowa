@@ -1,11 +1,11 @@
 id: 122989127
-type: way
+type: node
 latitude: 41.61414
 longitude: -93.64572
 postcode: "50314"
 city: Des Moines
-street: "Martin Luther King Junior Parkway"
-housenumber: 2127
+street: Martin Luther King Junior Parkway
+housenumber: "2127"
 phone: ""
 opening_hours: ""
 website: ""

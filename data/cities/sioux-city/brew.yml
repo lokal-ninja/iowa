@@ -4,8 +4,8 @@ latitude: 42.5164
 longitude: -96.38541
 postcode: "51104"
 city: Sioux City
-street: "Floyd Boulevard"
-housenumber: 2501
-phone: "+1 712 558 0031"
-opening_hours: "24/7"
-website: "https://gobrewgo.com/locations/floyd-blvd-sioux-city-ia/"
+street: Floyd Boulevard
+housenumber: "2501"
+phone: +1 712 558 0031
+opening_hours: 24/7
+website: https://gobrewgo.com/locations/floyd-blvd-sioux-city-ia/

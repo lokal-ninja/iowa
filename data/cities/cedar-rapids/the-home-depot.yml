@@ -1,11 +1,11 @@
 id: 68083533
-type: way
+type: node
 latitude: 42.02187
 longitude: -91.62605
 postcode: "52402"
 city: Cedar Rapids
-street: "1st Avenue East"
-housenumber: 4501
-phone: "+1 319-294-0480"
-opening_hours: "Mo-Th 07:00-21:00; Fr 07:00-18:00; Sa 09:00-20:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Cedar-Rapids/IA/Cedar-Rapids/52402/2108"
+street: 1st Avenue East
+housenumber: "4501"
+phone: +1 319-294-0480
+opening_hours: Mo-Th 07:00-21:00; Fr 07:00-18:00; Sa 09:00-20:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Cedar-Rapids/IA/Cedar-Rapids/52402/2108

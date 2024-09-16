@@ -1,11 +1,11 @@
 id: 145617914
-type: way
+type: node
 latitude: 41.62873
 longitude: -93.65312
 postcode: "50310"
 city: Des Moines
-street: "Douglas Avenue"
-housenumber: 2603
+street: Douglas Avenue
+housenumber: "2603"
 phone: ""
 opening_hours: ""
 website: ""

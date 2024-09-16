@@ -1,11 +1,11 @@
 id: 737051000
-type: way
+type: node
 latitude: 42.49068
 longitude: -90.69881
 postcode: "52003"
 city: Dubuque
-street: "Dodge Street"
-housenumber: 2600
-phone: "+1 563-582-5577"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2600-dodge-st-ste-e1-dubuque-52003?number=735"
+street: Dodge Street
+housenumber: "2600"
+phone: +1 563-582-5577
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2600-dodge-st-ste-e1-dubuque-52003?number=735

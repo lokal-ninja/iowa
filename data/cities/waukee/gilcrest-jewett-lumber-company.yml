@@ -1,11 +1,11 @@
 id: 292473592
-type: way
+type: node
 latitude: 41.60279
 longitude: -93.85483
 postcode: "50263"
 city: Waukee
-street: "Alices Road"
-housenumber: 1100
+street: Alices Road
+housenumber: "1100"
 phone: ""
 opening_hours: ""
-website: "https://www.gilcrestjewett.com/"
+website: https://www.gilcrestjewett.com/

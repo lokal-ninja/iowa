@@ -1,11 +1,11 @@
 id: 1254743967
-type: way
+type: node
 latitude: 41.61414
 longitude: -93.89342
-postcode: "50263-5069"
+postcode: 50263-5069
 city: Waukee
-street: "West Hickman Road"
-housenumber: 1000
+street: West Hickman Road
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://www.deerywaukee.com"
+website: https://www.deerywaukee.com

@@ -1,11 +1,11 @@
 id: 165850472
-type: way
+type: node
 latitude: 41.63029
 longitude: -91.56708
 postcode: "52240"
 city: Iowa City
-street: "Escort Lane"
-housenumber: 155
-phone: "319-338-1077"
+street: Escort Lane
+housenumber: "155"
+phone: 319-338-1077
 opening_hours: ""
-website: "https://www.sunandfunmotorsports.com/"
+website: https://www.sunandfunmotorsports.com/

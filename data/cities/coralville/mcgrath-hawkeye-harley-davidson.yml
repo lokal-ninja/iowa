@@ -1,11 +1,11 @@
 id: 833587422
-type: way
+type: node
 latitude: 41.69549
 longitude: -91.62754
 postcode: "52241"
 city: Coralville
-street: "Westcor Drive"
-housenumber: 120
+street: Westcor Drive
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

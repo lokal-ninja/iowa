@@ -1,11 +1,11 @@
 id: 452305850
-type: way
+type: node
 latitude: 41.68368
 longitude: -91.56249
 postcode: "52241"
 city: Coralville
-street: "Iowa River Landing Place"
-housenumber: 115
+street: Iowa River Landing Place
+housenumber: "115"
 phone: "+13193517220"
 opening_hours: ""
-website: "https://www.vonmaur.com/"
+website: https://www.vonmaur.com/

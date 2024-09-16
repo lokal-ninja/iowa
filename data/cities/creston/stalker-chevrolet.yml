@@ -1,11 +1,11 @@
 id: 467547491
-type: way
+type: node
 latitude: 41.05062
 longitude: -94.37089
 postcode: "50801"
 city: Creston
-street: "South Sumner Avenue"
-housenumber: 601
-phone: "+1 (866) 561-0528"
+street: South Sumner Avenue
+housenumber: "601"
+phone: +1 (866) 561-0528
 opening_hours: ""
-website: "https://www.stalkergm.com/"
+website: https://www.stalkergm.com/

@@ -1,11 +1,11 @@
 id: 839799420
-type: way
+type: node
 latitude: 41.6878
 longitude: -93.7825
 postcode: "50111"
 city: Grimes
-street: "East 1st Street"
-housenumber: 1150
+street: East 1st Street
+housenumber: "1150"
 phone: ""
 opening_hours: ""
 website: ""

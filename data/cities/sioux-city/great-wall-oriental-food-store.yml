@@ -1,11 +1,11 @@
 id: 227890640
-type: way
+type: node
 latitude: 42.49695
 longitude: -96.41239
 postcode: "51103"
 city: Sioux City
-street: "Perry Street"
-housenumber: 405
+street: Perry Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

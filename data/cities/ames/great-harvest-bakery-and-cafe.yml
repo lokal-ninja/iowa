@@ -1,11 +1,11 @@
 id: 853984690
-type: way
+type: node
 latitude: 42.02631
 longitude: -93.61525
 postcode: "50010"
 city: Ames
-street: "Burnett Avenue"
-housenumber: 502
+street: Burnett Avenue
+housenumber: "502"
 phone: "+15155982624"
 opening_hours: ""
 website: ""

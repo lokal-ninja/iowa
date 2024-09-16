@@ -1,11 +1,11 @@
 id: 317113439
-type: way
+type: node
 latitude: 42.02299
 longitude: -93.65536
 postcode: "50014"
 city: Ames
-street: "North Hyland Avenue"
-housenumber: 102
+street: North Hyland Avenue
+housenumber: "102"
 phone: "+15152921486"
 opening_hours: ""
-website: "https://campusgarage.com/"
+website: https://campusgarage.com/

@@ -1,11 +1,11 @@
 id: 697060289
-type: way
+type: node
 latitude: 42.00731
 longitude: -91.66241
 postcode: "52402"
 city: Cedar Rapids
-street: "Center Point Road Northeast"
-housenumber: 2904
+street: Center Point Road Northeast
+housenumber: "2904"
 phone: ""
 opening_hours: ""
 website: ""

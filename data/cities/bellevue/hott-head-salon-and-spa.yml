@@ -1,11 +1,11 @@
 id: 852244532
-type: way
+type: node
 latitude: 42.25911
 longitude: -90.42427
 postcode: "52031"
 city: Bellevue
-street: "North 2nd Street"
-housenumber: 107
+street: North 2nd Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

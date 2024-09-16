@@ -1,11 +1,11 @@
 id: 156269914
-type: way
+type: node
 latitude: 41.59101
 longitude: -93.61147
 postcode: "50309"
 city: Des Moines
-street: "East Grand Avenue"
-housenumber: 500
+street: East Grand Avenue
+housenumber: "500"
 phone: "+15152881580"
 opening_hours: ""
-website: "https://www.reclaimeddsm.com/"
+website: https://www.reclaimeddsm.com/

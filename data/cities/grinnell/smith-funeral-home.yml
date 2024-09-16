@@ -1,11 +1,11 @@
 id: 620898938
-type: way
+type: node
 latitude: 41.74655
 longitude: -92.72484
 postcode: "50112"
 city: Grinnell
-street: "Broad Street"
-housenumber: 1103
+street: Broad Street
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

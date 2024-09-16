@@ -1,11 +1,11 @@
 id: 357950321
-type: way
+type: node
 latitude: 42.48194
 longitude: -91.47883
 postcode: "52057"
 city: Manchester
-street: "West Marion Street"
-housenumber: 1220
-phone: "+1 563-927-3377"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1506/manchester-ia/whats-new"
+street: West Marion Street
+housenumber: "1220"
+phone: +1 563-927-3377
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1506/manchester-ia/whats-new

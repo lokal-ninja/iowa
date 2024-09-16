@@ -1,11 +1,11 @@
 id: 751420918
-type: way
+type: node
 latitude: 42.49305
 longitude: -90.71628
 postcode: "52001"
 city: Dubuque
-street: "John F Kennedy Road"
-housenumber: 55
+street: John F Kennedy Road
+housenumber: "55"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-55+john+f+kennedy+rd-dubuque-ia-52002/id=9708"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-55+john+f+kennedy+rd-dubuque-ia-52002/id=9708

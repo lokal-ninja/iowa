@@ -1,11 +1,11 @@
 id: 48272477
-type: way
+type: node
 latitude: 42.49248
 longitude: -90.72139
 postcode: "52002"
 city: Dubuque
-street: "Wacker Drive"
-housenumber: 801
-phone: "+1 563-587-0988"
+street: Wacker Drive
+housenumber: "801"
+phone: +1 563-587-0988
 opening_hours: ""
-website: "https://stores.bestbuy.com/ia/dubuque/801-wacker-dr-878.html"
+website: https://stores.bestbuy.com/ia/dubuque/801-wacker-dr-878.html

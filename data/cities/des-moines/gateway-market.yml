@@ -1,11 +1,11 @@
 id: 102689791
-type: way
+type: node
 latitude: 41.58731
 longitude: -93.6443
 postcode: "50312"
 city: Des Moines
-street: "Woodland Avenue"
-housenumber: 2002
-phone: "+1 515 243 1754"
-opening_hours: "Sa-Su 07:00-22:00"
-website: "https://gatewaymarket.com/"
+street: Woodland Avenue
+housenumber: "2002"
+phone: +1 515 243 1754
+opening_hours: Sa-Su 07:00-22:00
+website: https://gatewaymarket.com/

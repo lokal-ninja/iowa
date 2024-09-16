@@ -1,11 +1,11 @@
 id: 676691237
-type: way
+type: node
 latitude: 41.53158
 longitude: -90.54535
 postcode: "52803"
 city: Davenport
-street: "East 11th Street"
-housenumber: 2132
+street: East 11th Street
+housenumber: "2132"
 phone: ""
 opening_hours: ""
-website: "https://lagomarcinos.com/"
+website: https://lagomarcinos.com/

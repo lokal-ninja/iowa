@@ -1,11 +1,11 @@
 id: 946571753
-type: way
+type: node
 latitude: 42.53281
 longitude: -96.37031
 postcode: "51108"
 city: Sioux City
-street: "Floyd Boulevard"
-housenumber: 3140
-phone: "+1 833-472-7025"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/ia/sioux-city/3140-floyd-boulevard"
+street: Floyd Boulevard
+housenumber: "3140"
+phone: +1 833-472-7025
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/ia/sioux-city/3140-floyd-boulevard

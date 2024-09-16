@@ -1,11 +1,11 @@
 id: 741053140
-type: way
+type: node
 latitude: 42.34923
 longitude: -95.46886
 postcode: "51445"
 city: Ida Grove
-street: "Moorehead Avenue"
-housenumber: 209
+street: Moorehead Avenue
+housenumber: "209"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ia/ida-grove/10176"
+website: https://www.dollargeneral.com/store-directory/ia/ida-grove/10176

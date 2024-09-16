@@ -4,8 +4,8 @@ latitude: 42.46372
 longitude: -96.37422
 postcode: "51106"
 city: Sioux City
-street: "Glenn Avenue"
-housenumber: 2500
+street: Glenn Avenue
+housenumber: "2500"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.knovascarpets.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.knovascarpets.com/

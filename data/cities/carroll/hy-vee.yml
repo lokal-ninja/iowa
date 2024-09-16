@@ -1,11 +1,11 @@
 id: 293809288
-type: way
+type: node
 latitude: 42.07075
 longitude: -94.87776
 postcode: "51401"
 city: Carroll
-street: "US Highway 30 West"
-housenumber: 905
-phone: "(712) 792-6333"
+street: US Highway 30 West
+housenumber: "905"
+phone: (712) 792-6333
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 727337362
-type: way
+type: node
 latitude: 42.03273
 longitude: -91.66859
 postcode: "52402"
 city: Cedar Rapids
-street: "Center Point Road Northeast"
-housenumber: 5405
+street: Center Point Road Northeast
+housenumber: "5405"
 phone: "3193938496"
 opening_hours: ""
-website: "https://www.europeanmotorsiowa.com/"
+website: https://www.europeanmotorsiowa.com/

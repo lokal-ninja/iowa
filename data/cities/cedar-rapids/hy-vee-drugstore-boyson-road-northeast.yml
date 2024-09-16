@@ -1,11 +1,11 @@
 id: 530010556
-type: way
+type: node
 latitude: 42.04636
 longitude: -91.63944
 postcode: "52402"
 city: Cedar Rapids
-street: "Boyson Road Northeast"
-housenumber: 505
-phone: "(319) 294-8095"
+street: Boyson Road Northeast
+housenumber: "505"
+phone: (319) 294-8095
 opening_hours: ""
 website: ""

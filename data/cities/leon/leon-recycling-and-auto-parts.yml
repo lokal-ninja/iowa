@@ -1,11 +1,11 @@
 id: 337853430
-type: way
+type: node
 latitude: 40.72437
 longitude: -93.75655
 postcode: "50144"
 city: Leon
-street: "220th Street"
-housenumber: 23579
+street: 220th Street
+housenumber: "23579"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 243360983
-type: way
+type: node
 latitude: 42.03445
 longitude: -91.63283
 postcode: "52402"
 city: Cedar Rapids
-street: "Blairs Ferry Road Northeast"
-housenumber: 264
-phone: "+1-319-373-6141"
+street: Blairs Ferry Road Northeast
+housenumber: "264"
+phone: +1-319-373-6141
 opening_hours: ""
-website: "http://www.vineriawineshop.com/"
+website: http://www.vineriawineshop.com/

@@ -1,11 +1,11 @@
 id: 543949761
-type: way
+type: node
 latitude: 42.54032
 longitude: -92.47529
 postcode: "50613"
 city: Cedar Falls
-street: "White Tail Drive"
-housenumber: 2425
+street: White Tail Drive
+housenumber: "2425"
 phone: ""
 opening_hours: ""
 website: ""

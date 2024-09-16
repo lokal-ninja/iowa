@@ -1,11 +1,11 @@
 id: 193418324
-type: way
+type: node
 latitude: 41.22044
 longitude: -95.84009
-postcode: "51501-7732"
+postcode: 51501-7732
 city: Council Bluffs
-street: "Metro Drive"
-housenumber: 3804
-phone: "+1 712-309-3380"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/council-bluffs/2454"
+street: Metro Drive
+housenumber: "3804"
+phone: +1 712-309-3380
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/council-bluffs/2454

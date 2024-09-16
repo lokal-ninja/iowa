@@ -1,11 +1,11 @@
 id: 236780162
-type: way
+type: node
 latitude: 42.02336
 longitude: -93.61354
 postcode: "50010"
 city: Ames
-street: "Kellogg Avenue"
-housenumber: 110
+street: Kellogg Avenue
+housenumber: "110"
 phone: "+15152329102"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 751185896
-type: way
+type: node
 latitude: 41.99058
 longitude: -91.65942
 postcode: "52402"
 city: Cedar Rapids
-street: "College Drive Northeast"
-housenumber: 526
-phone: "+1-319-364-5759"
+street: College Drive Northeast
+housenumber: "526"
+phone: +1-319-364-5759
 opening_hours: ""
 website: ""

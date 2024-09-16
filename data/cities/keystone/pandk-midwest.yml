@@ -4,8 +4,8 @@ latitude: 41.99404
 longitude: -92.2032
 postcode: "52249"
 city: Keystone
-street: "15th Avenue"
-housenumber: 7089
-phone: "+1-319-442-3249"
-opening_hours: "Mo-Fr 07:30-17:00, Sa 07:30-12:00"
-website: "http://www.pkmidwest.com/keystone"
+street: 15th Avenue
+housenumber: "7089"
+phone: +1-319-442-3249
+opening_hours: Mo-Fr 07:30-17:00, Sa 07:30-12:00
+website: http://www.pkmidwest.com/keystone

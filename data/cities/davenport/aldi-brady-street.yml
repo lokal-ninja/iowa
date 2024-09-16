@@ -1,11 +1,11 @@
 id: 758725810
-type: way
+type: node
 latitude: 41.53694
 longitude: -90.57522
 postcode: "52803"
 city: Davenport
-street: "Brady Street"
-housenumber: 1702
-phone: "+1 833-468-7015"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ia/davenport/1702-brady-street"
+street: Brady Street
+housenumber: "1702"
+phone: +1 833-468-7015
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ia/davenport/1702-brady-street

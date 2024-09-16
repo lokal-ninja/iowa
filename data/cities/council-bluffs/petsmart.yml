@@ -1,11 +1,11 @@
 id: 193437904
-type: way
+type: node
 latitude: 41.21963
 longitude: -95.83552
 postcode: "51501"
 city: Council Bluffs
-street: "McDermott Street"
-housenumber: 815
-phone: "+1 712-366-8060"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/ia/council-bluffs-store1943.html"
+street: McDermott Street
+housenumber: "815"
+phone: +1 712-366-8060
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/ia/council-bluffs-store1943.html

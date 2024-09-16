@@ -1,11 +1,11 @@
 id: 946673694
-type: way
+type: node
 latitude: 41.68887
 longitude: -93.76824
 postcode: "50111"
 city: Grimes
-street: "East 1st Street"
-housenumber: 2351
+street: East 1st Street
+housenumber: "2351"
 phone: "+15159861386"
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1055"
+website: https://www.kwiktrip.com/locator/store?id=1055

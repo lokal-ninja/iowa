@@ -1,11 +1,11 @@
 id: 514862105
-type: way
+type: node
 latitude: 42.49042
 longitude: -96.39724
 postcode: "51101"
 city: Sioux City
-street: "Gordon Drive"
-housenumber: 1005
+street: Gordon Drive
+housenumber: "1005"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0251"
+website: https://www.kumandgo.com/store-locator?details=0251

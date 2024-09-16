@@ -1,11 +1,11 @@
 id: 1231319065
-type: way
+type: node
 latitude: 41.26295
 longitude: -95.85079
 postcode: "51503"
 city: Council Bluffs
-street: "West Washington Avenue"
-housenumber: 545
+street: West Washington Avenue
+housenumber: "545"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/council-bluffs-ia-pharmacies/545-w-washington-st-council-bluffs-ia-51503/storeid=4816"
+website: https://www.cvs.com/store-locator/council-bluffs-ia-pharmacies/545-w-washington-st-council-bluffs-ia-51503/storeid=4816

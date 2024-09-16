@@ -4,8 +4,8 @@ latitude: 42.02522
 longitude: -93.61926
 postcode: "50010"
 city: Ames
-street: "Main Street"
-housenumber: 619
-phone: "+1-515-232-2307"
+street: Main Street
+housenumber: "619"
+phone: +1-515-232-2307
 opening_hours: ""
 website: ""

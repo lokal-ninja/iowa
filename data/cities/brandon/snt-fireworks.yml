@@ -1,11 +1,11 @@
 id: 1133927238
-type: way
+type: node
 latitude: 42.31471
 longitude: -92.00511
 postcode: ""
 city: Brandon
-street: "Main Street"
-housenumber: 702
+street: Main Street
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

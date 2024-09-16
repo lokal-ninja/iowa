@@ -1,11 +1,11 @@
 id: 482582064
-type: way
+type: node
 latitude: 41.00578
 longitude: -92.42035
 postcode: "52501"
 city: Ottumwa
-street: "North Moore Street"
-housenumber: 225
+street: North Moore Street
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

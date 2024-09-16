@@ -1,11 +1,11 @@
 id: 343604840
-type: way
+type: node
 latitude: 41.55971
 longitude: -90.57743
 postcode: "52806"
 city: Davenport
-street: "West Kimberly Road"
-housenumber: 351
+street: West Kimberly Road
+housenumber: "351"
 phone: ""
 opening_hours: ""
 website: ""

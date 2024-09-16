@@ -1,11 +1,11 @@
 id: 940439781
-type: way
+type: node
 latitude: 43.15636
 longitude: -93.20107
 postcode: "50401"
 city: Mason City
-street: "North Delaware Avenue"
-housenumber: 400
+street: North Delaware Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

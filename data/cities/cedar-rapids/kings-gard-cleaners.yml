@@ -1,11 +1,11 @@
 id: 683835749
-type: way
+type: node
 latitude: 42.00872
 longitude: -91.63528
 postcode: "52402"
 city: Cedar Rapids
-street: "1st Avenue East"
-housenumber: 3100
+street: 1st Avenue East
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 88704160
-type: way
+type: node
 latitude: 41.55867
 longitude: -93.76975
 postcode: "50265"
 city: West Des Moines
-street: "Mills Civic Parkway"
-housenumber: 4900
+street: Mills Civic Parkway
+housenumber: "4900"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4900+mills+civic+pkwy-west+des+moines-ia-50265/id=6677"
+website: https://www.walgreens.com/locator/walgreens-4900+mills+civic+pkwy-west+des+moines-ia-50265/id=6677

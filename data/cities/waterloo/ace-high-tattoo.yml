@@ -1,11 +1,11 @@
 id: 1234201389
-type: way
+type: node
 latitude: 42.4609
 longitude: -92.35752
 postcode: "50702"
 city: Waterloo
-street: "Kimball Avenue"
-housenumber: 3554
+street: Kimball Avenue
+housenumber: "3554"
 phone: ""
 opening_hours: ""
 website: ""

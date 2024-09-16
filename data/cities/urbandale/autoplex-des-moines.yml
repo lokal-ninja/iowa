@@ -1,11 +1,11 @@
 id: 108060053
-type: way
+type: node
 latitude: 41.64582
 longitude: -93.69853
 postcode: "50322"
 city: Urbandale
-street: "Merle Hay Road"
-housenumber: 4650
+street: Merle Hay Road
+housenumber: "4650"
 phone: ""
 opening_hours: ""
-website: "https://www.autoplexdesmoines.com/"
+website: https://www.autoplexdesmoines.com/

@@ -1,11 +1,11 @@
 id: 67035656
-type: way
+type: node
 latitude: 41.6124
 longitude: -93.78242
 postcode: "50325"
 city: Clive
-street: "Hickman Road"
-housenumber: 12000
-phone: "+1 515-270-0994"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3045"
+street: Hickman Road
+housenumber: "12000"
+phone: +1 515-270-0994
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3045

@@ -2,10 +2,10 @@ id: 621447866
 type: node
 latitude: 41.81436
 longitude: -90.24819
-postcode: "52732-7203"
+postcode: 52732-7203
 city: Clinton
-street: "Lincolnway Avenue"
-housenumber: 2611
-phone: "+1-563-242-1200"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "http://www.enterprise.com/"
+street: Lincolnway Avenue
+housenumber: "2611"
+phone: +1-563-242-1200
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: http://www.enterprise.com/

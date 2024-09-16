@@ -1,11 +1,11 @@
 id: 47010525
-type: way
+type: node
 latitude: 41.64748
 longitude: -93.50582
 postcode: "50009"
 city: Altoona
-street: "8th Street Southwest"
-housenumber: 3501
-phone: "+1 515-967-1711"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2764/altoona-ia/whats-new"
+street: 8th Street Southwest
+housenumber: "3501"
+phone: +1 515-967-1711
+opening_hours: 24/7
+website: https://www.walmart.com/store/2764/altoona-ia/whats-new

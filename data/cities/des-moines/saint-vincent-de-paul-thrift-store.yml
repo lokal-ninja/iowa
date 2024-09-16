@@ -1,11 +1,11 @@
 id: 330790714
-type: way
+type: node
 latitude: 41.57824
 longitude: -93.70228
 postcode: "50312"
 city: Des Moines
-street: "63rd Street"
-housenumber: 109
+street: 63rd Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 46108421
-type: way
+type: node
 latitude: 41.61933
 longitude: -93.67322
 postcode: "50310"
 city: Des Moines
-street: "Beaver Avenue"
-housenumber: 2702
+street: Beaver Avenue
+housenumber: "2702"
 phone: "+15152550031"
 opening_hours: ""
-website: "https://www.theoriginalbackcountry.com/"
+website: https://www.theoriginalbackcountry.com/

@@ -1,11 +1,11 @@
 id: 451612897
-type: way
+type: node
 latitude: 41.69343
 longitude: -93.58044
 postcode: "50021"
 city: Ankeny
-street: "Southeast Delaware Avenue"
-housenumber: 3875
+street: Southeast Delaware Avenue
+housenumber: "3875"
 phone: ""
 opening_hours: ""
 website: ""

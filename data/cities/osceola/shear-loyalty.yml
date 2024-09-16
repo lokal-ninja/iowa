@@ -1,11 +1,11 @@
 id: 498128478
-type: way
+type: node
 latitude: 41.03307
 longitude: -93.7677
 postcode: "50213"
 city: Osceola
-street: "South Fillmore Street"
-housenumber: 208
+street: South Fillmore Street
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

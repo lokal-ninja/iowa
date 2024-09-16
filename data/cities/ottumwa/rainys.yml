@@ -1,11 +1,11 @@
 id: 478981157
-type: way
+type: node
 latitude: 40.99435
 longitude: -92.42867
 postcode: "52501"
 city: Ottumwa
-street: "South Milner Street"
-housenumber: 608
+street: South Milner Street
+housenumber: "608"
 phone: ""
 opening_hours: ""
 website: ""

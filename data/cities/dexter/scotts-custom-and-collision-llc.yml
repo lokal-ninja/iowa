@@ -1,11 +1,11 @@
 id: 1288537226
-type: way
+type: node
 latitude: 41.51623
 longitude: -94.22724
 postcode: "50070"
 city: Dexter
-street: "Polk Street"
-housenumber: 817
+street: Polk Street
+housenumber: "817"
 phone: "+15157892053"
 opening_hours: ""
-website: "https://www.scottscustomscollision.com/"
+website: https://www.scottscustomscollision.com/

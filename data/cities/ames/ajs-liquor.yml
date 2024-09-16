@@ -1,11 +1,11 @@
 id: 241365811
-type: way
+type: node
 latitude: 42.0217
 longitude: -93.65092
 postcode: "50014"
 city: Ames
-street: "Chamberlain Street"
-housenumber: 2515
+street: Chamberlain Street
+housenumber: "2515"
 phone: "+15152681722"
 opening_hours: ""
 website: ""

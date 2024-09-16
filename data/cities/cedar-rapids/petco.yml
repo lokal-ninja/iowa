@@ -1,11 +1,11 @@
 id: 65466180
-type: way
+type: node
 latitude: 42.02827
 longitude: -91.6253
 postcode: "52302"
 city: Cedar Rapids
-street: "Twixt Town Road Northeast"
-housenumber: 1450
-phone: "+1 319-377-4376"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/ia/marion/pet-supplies-marion-ia-643.html"
+street: Twixt Town Road Northeast
+housenumber: "1450"
+phone: +1 319-377-4376
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/ia/marion/pet-supplies-marion-ia-643.html

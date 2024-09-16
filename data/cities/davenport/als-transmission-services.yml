@@ -1,11 +1,11 @@
 id: 675738501
-type: way
+type: node
 latitude: 41.52229
 longitude: -90.58432
 postcode: "52802"
 city: Davenport
-street: "West 3rd Street"
-housenumber: 727
+street: West 3rd Street
+housenumber: "727"
 phone: ""
 opening_hours: ""
 website: ""

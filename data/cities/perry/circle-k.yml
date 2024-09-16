@@ -1,11 +1,11 @@
 id: 625482495
-type: way
+type: node
 latitude: 41.82973
 longitude: -94.10566
 postcode: "50220"
 city: Perry
-street: "Iowa Highway 141"
-housenumber: 1115
+street: Iowa Highway 141
+housenumber: "1115"
 phone: ""
 opening_hours: ""
 website: ""

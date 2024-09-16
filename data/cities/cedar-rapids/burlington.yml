@@ -1,11 +1,11 @@
 id: 535716224
-type: way
+type: node
 latitude: 41.95115
 longitude: -91.7195
 postcode: "52404"
 city: Cedar Rapids
-street: "Westdale Drive Southwest"
-housenumber: 3475
-phone: "+1 319-390-9415"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/ia/cedar-rapids/1018"
+street: Westdale Drive Southwest
+housenumber: "3475"
+phone: +1 319-390-9415
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/ia/cedar-rapids/1018

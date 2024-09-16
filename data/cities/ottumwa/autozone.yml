@@ -1,11 +1,11 @@
 id: 456302335
-type: way
+type: node
 latitude: 41.01523
 longitude: -92.43802
 postcode: "52501"
 city: Ottumwa
-street: "North Quincy Avenue"
-housenumber: 946
-phone: "+1-641-682-9170"
+street: North Quincy Avenue
+housenumber: "946"
+phone: +1-641-682-9170
 opening_hours: ""
-website: "https://www.autozone.com/locations/ia/ottumwa/946-n-quincy-ave.html"
+website: https://www.autozone.com/locations/ia/ottumwa/946-n-quincy-ave.html

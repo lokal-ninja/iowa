@@ -1,11 +1,11 @@
 id: 492922815
-type: way
+type: node
 latitude: 41.03068
 longitude: -92.42937
 postcode: "52501"
 city: Ottumwa
-street: "West Second Street"
-housenumber: 1268
+street: West Second Street
+housenumber: "1268"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 107327804
-type: way
+type: node
 latitude: 41.53951
 longitude: -93.60009
 postcode: "50320"
 city: Des Moines
-street: "Southeast 14th Street"
-housenumber: 4900
-phone: "+1 515-287-7269"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/se-des-moines/ia/des-moines/50320/2104"
+street: Southeast 14th Street
+housenumber: "4900"
+phone: +1 515-287-7269
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/se-des-moines/ia/des-moines/50320/2104

@@ -4,8 +4,8 @@ latitude: 42.02055
 longitude: -91.70092
 postcode: "52402"
 city: Cedar Rapids
-street: "42nd Street Northeast"
-housenumber: 4201
-phone: "+1-319-200-4171"
+street: 42nd Street Northeast
+housenumber: "4201"
+phone: +1-319-200-4171
 opening_hours: ""
-website: "https://winestyles.com"
+website: https://winestyles.com

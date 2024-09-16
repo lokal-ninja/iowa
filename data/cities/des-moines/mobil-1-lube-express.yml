@@ -1,11 +1,11 @@
 id: 92999883
-type: way
+type: node
 latitude: 41.62672
 longitude: -93.69826
 postcode: "50310"
 city: Des Moines
-street: "Merle Hay Road"
-housenumber: 3520
+street: Merle Hay Road
+housenumber: "3520"
 phone: ""
 opening_hours: ""
 website: ""

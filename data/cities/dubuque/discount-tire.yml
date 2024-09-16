@@ -1,11 +1,11 @@
 id: 687391803
-type: way
+type: node
 latitude: 42.49732
 longitude: -90.72072
 postcode: "52002"
 city: Dubuque
-street: "John F Kennedy Road"
-housenumber: 1500
-phone: "+1-563-258-6007"
+street: John F Kennedy Road
+housenumber: "1500"
+phone: +1-563-258-6007
 opening_hours: ""
 website: ""

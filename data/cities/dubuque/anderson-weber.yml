@@ -1,11 +1,11 @@
 id: 622441230
-type: way
+type: node
 latitude: 42.48981
 longitude: -90.72051
 postcode: "52003"
 city: Dubuque
-street: "Center Grove Drive"
-housenumber: 3450
+street: Center Grove Drive
+housenumber: "3450"
 phone: ""
 opening_hours: ""
 website: ""

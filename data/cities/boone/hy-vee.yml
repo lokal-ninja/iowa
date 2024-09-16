@@ -1,11 +1,11 @@
 id: 46865155
-type: way
+type: node
 latitude: 42.06485
 longitude: -93.87641
 postcode: "50036"
 city: Boone
-street: "8th Street"
-housenumber: 1111
-phone: "(515) 432-6065"
+street: 8th Street
+housenumber: "1111"
+phone: (515) 432-6065
 opening_hours: ""
 website: ""

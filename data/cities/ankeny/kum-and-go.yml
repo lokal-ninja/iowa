@@ -1,11 +1,11 @@
 id: 37959716
-type: way
+type: node
 latitude: 41.74705
 longitude: -93.59992
 postcode: "50021"
 city: Ankeny
-street: "North Ankeny Boulevard"
-housenumber: 1825
+street: North Ankeny Boulevard
+housenumber: "1825"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0292"
+website: https://www.kumandgo.com/store-locator?details=0292

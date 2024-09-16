@@ -1,11 +1,11 @@
 id: 191733328
-type: way
+type: node
 latitude: 43.00847
 longitude: -96.05894
 postcode: "51041"
 city: Orange City
-street: "3rd Street Northwest"
-housenumber: 115
+street: 3rd Street Northwest
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

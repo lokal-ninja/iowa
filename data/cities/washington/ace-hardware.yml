@@ -1,11 +1,11 @@
 id: 312875739
-type: way
+type: node
 latitude: 41.29739
 longitude: -91.66737
-postcode: "52353-2173"
+postcode: 52353-2173
 city: Washington
-street: "East Washington Street"
-housenumber: 1901
-phone: "+1 319-653-6700"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+street: East Washington Street
+housenumber: "1901"
+phone: +1 319-653-6700
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

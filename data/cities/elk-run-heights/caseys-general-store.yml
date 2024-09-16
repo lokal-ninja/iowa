@@ -1,11 +1,11 @@
 id: 864496455
-type: way
+type: node
 latitude: 42.46885
 longitude: -92.25799
 postcode: "50707"
 city: Elk Run Heights
-street: "Lafayette Road"
-housenumber: 5202
+street: Lafayette Road
+housenumber: "5202"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Su 04:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 587787114
-type: way
+type: node
 latitude: 41.05463
 longitude: -94.35091
 postcode: "50801"
 city: Creston
-street: "Lucas Street"
-housenumber: 909
+street: Lucas Street
+housenumber: "909"
 phone: ""
 opening_hours: ""
-website: "http://www.advancedagseed.com/"
+website: http://www.advancedagseed.com/

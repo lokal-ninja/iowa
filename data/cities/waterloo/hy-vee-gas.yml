@@ -1,11 +1,11 @@
 id: 729658786
-type: way
+type: node
 latitude: 42.50497
 longitude: -92.39932
 postcode: "50701"
 city: Waterloo
-street: "University Avenue"
-housenumber: 3700
+street: University Avenue
+housenumber: "3700"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

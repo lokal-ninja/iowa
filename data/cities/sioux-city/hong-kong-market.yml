@@ -1,11 +1,11 @@
 id: 227605472
-type: way
+type: node
 latitude: 42.5011
 longitude: -96.41367
 postcode: "51103"
 city: Sioux City
-street: "West 7th Street"
-housenumber: 511
+street: West 7th Street
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

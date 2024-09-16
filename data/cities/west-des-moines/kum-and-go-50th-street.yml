@@ -1,11 +1,11 @@
 id: 592216423
-type: way
+type: node
 latitude: 41.57235
 longitude: -93.7719
 postcode: "50265"
 city: West Des Moines
-street: "50th Street"
-housenumber: 2205
+street: 50th Street
+housenumber: "2205"
 phone: ""
 opening_hours: ""
 website: ""

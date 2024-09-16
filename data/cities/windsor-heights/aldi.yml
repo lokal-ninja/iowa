@@ -1,11 +1,11 @@
 id: 1141844827
-type: way
+type: node
 latitude: 41.60019
 longitude: -93.71563
 postcode: "50324"
 city: Windsor Heights
-street: "University Avenue"
-housenumber: 7100
+street: University Avenue
+housenumber: "7100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1273975745
-type: way
+type: node
 latitude: 41.74352
 longitude: -92.72627
 postcode: "50112"
 city: Grinnell
-street: "Main Street"
-housenumber: 903
+street: Main Street
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

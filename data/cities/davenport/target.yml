@@ -1,11 +1,11 @@
 id: 342655355
-type: way
+type: node
 latitude: 41.57207
 longitude: -90.52649
-postcode: "52807-3454"
+postcode: 52807-3454
 city: Davenport
-street: "East 53rd Street"
-housenumber: 5225
-phone: "+1 563-344-9447"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/davenport/533"
+street: East 53rd Street
+housenumber: "5225"
+phone: +1 563-344-9447
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/davenport/533

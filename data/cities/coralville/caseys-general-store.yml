@@ -1,11 +1,11 @@
 id: 548987438
-type: way
+type: node
 latitude: 41.6795
 longitude: -91.59055
 postcode: "52241"
 city: Coralville
-street: "2nd Street"
-housenumber: 1987
-phone: "319-338-3440"
+street: 2nd Street
+housenumber: "1987"
+phone: 319-338-3440
 opening_hours: ""
 website: ""

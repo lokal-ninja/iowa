@@ -1,11 +1,11 @@
 id: 247970157
-type: way
+type: node
 latitude: 42.033
 longitude: -91.6072
 postcode: "52302"
 city: Marion
-street: "7th Avenue"
-housenumber: 361
-phone: "+1-319-373-0977"
+street: 7th Avenue
+housenumber: "361"
+phone: +1-319-373-0977
 opening_hours: ""
-website: "https://www.mariongunsandgold.com"
+website: https://www.mariongunsandgold.com

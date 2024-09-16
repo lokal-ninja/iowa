@@ -1,11 +1,11 @@
 id: 530815109
-type: way
+type: node
 latitude: 41.59755
 longitude: -93.51954
 postcode: "50327"
 city: Pleasant Hill
-street: "Maple Drive"
-housenumber: 4815
-phone: "(515) 262-7956"
+street: Maple Drive
+housenumber: "4815"
+phone: (515) 262-7956
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 782468336
-type: way
+type: node
 latitude: 42.01583
 longitude: -93.61089
 postcode: "50010"
 city: Ames
-street: "South Duff Avenue"
-housenumber: 701
+street: South Duff Avenue
+housenumber: "701"
 phone: "+15152334311"
 opening_hours: ""
 website: ""

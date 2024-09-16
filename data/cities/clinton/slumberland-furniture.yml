@@ -1,11 +1,11 @@
 id: 979921206
-type: way
+type: node
 latitude: 41.81531
 longitude: -90.22898
 postcode: "52732"
 city: Clinton
-street: "Lincolnway"
-housenumber: 1815
+street: Lincolnway
+housenumber: "1815"
 phone: ""
 opening_hours: ""
 website: ""

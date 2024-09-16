@@ -1,11 +1,11 @@
 id: 1296137917
-type: way
+type: node
 latitude: 43.06647
 longitude: -92.32142
 postcode: "50659"
 city: New Hampton
-street: "West Milwaukee Street"
-housenumber: 412
+street: West Milwaukee Street
+housenumber: "412"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://marvandzips.com/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://marvandzips.com/

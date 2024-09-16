@@ -1,11 +1,11 @@
 id: 463586861
-type: way
+type: node
 latitude: 41.00707
 longitude: -92.43419
 postcode: "52501"
 city: Ottumwa
-street: "Logan Street"
-housenumber: 409
+street: Logan Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

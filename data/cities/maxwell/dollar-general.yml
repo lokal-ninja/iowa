@@ -1,11 +1,11 @@
 id: 1078012852
-type: way
+type: node
 latitude: 41.88374
 longitude: -93.39946
 postcode: "50161"
 city: Maxwell
-street: "Main Street"
-housenumber: 15
+street: Main Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/ia/maxwell/20700"
+website: https://www.dollargeneral.com/store-directory/ia/maxwell/20700

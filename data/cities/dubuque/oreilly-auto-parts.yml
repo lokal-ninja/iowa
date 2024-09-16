@@ -1,11 +1,11 @@
 id: 454867597
-type: way
+type: node
 latitude: 42.49069
 longitude: -90.66453
 postcode: "52003"
 city: Dubuque
-street: "South Locust Street"
-housenumber: 100
+street: South Locust Street
+housenumber: "100"
 phone: "+15635825178"
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ia/dubuque/autoparts-4652.html"
+website: https://locations.oreillyauto.com/ia/dubuque/autoparts-4652.html

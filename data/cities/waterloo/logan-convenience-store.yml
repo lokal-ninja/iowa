@@ -1,11 +1,11 @@
 id: 965981305
-type: way
+type: node
 latitude: 42.51054
 longitude: -92.3381
 postcode: "50703"
 city: Waterloo
-street: "Logan Avenue"
-housenumber: 735
+street: Logan Avenue
+housenumber: "735"
 phone: "+13192876254"
-opening_hours: "07:00-02:00"
+opening_hours: 07:00-02:00
 website: ""

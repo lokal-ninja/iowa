@@ -4,8 +4,8 @@ latitude: 41.58536
 longitude: -93.62196
 postcode: "50309"
 city: Des Moines
-street: "4th Street"
-housenumber: 206
-phone: "+1-515-809-5380"
+street: 4th Street
+housenumber: "206"
+phone: +1-515-809-5380
 opening_hours: ""
 website: ""

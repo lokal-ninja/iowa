@@ -1,11 +1,11 @@
 id: 696926288
-type: way
+type: node
 latitude: 42.02093
 longitude: -91.65246
 postcode: "52402"
 city: Cedar Rapids
-street: "Old Marion Road Northeast"
-housenumber: 1140
-phone: "+1-319-393-8161"
+street: Old Marion Road Northeast
+housenumber: "1140"
+phone: +1-319-393-8161
 opening_hours: ""
-website: "https://nelsonsmeat.com/"
+website: https://nelsonsmeat.com/

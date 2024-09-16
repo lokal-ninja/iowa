@@ -1,11 +1,11 @@
 id: 845753219
-type: way
+type: node
 latitude: 41.8705
 longitude: -90.18087
 postcode: "52732"
 city: Clinton
-street: "North 2nd Street"
-housenumber: 2204
+street: North 2nd Street
+housenumber: "2204"
 phone: ""
 opening_hours: ""
 website: ""

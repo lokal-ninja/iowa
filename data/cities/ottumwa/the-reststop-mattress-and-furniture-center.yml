@@ -1,11 +1,11 @@
 id: 467902672
-type: way
+type: node
 latitude: 41.00615
 longitude: -92.42763
 postcode: "52501"
 city: Ottumwa
-street: "Richmond Avenue"
-housenumber: 321
+street: Richmond Avenue
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

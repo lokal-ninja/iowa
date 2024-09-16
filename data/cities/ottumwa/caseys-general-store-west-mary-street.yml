@@ -1,11 +1,11 @@
 id: 471671409
-type: way
+type: node
 latitude: 40.99435
 longitude: -92.4294
 postcode: "52501"
 city: Ottumwa
-street: "West Mary Street"
-housenumber: 504
+street: West Mary Street
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

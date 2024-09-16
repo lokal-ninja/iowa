@@ -1,11 +1,11 @@
 id: 531033823
-type: way
+type: node
 latitude: 42.71234
 longitude: -92.47389
 postcode: "50677"
 city: Waverly
-street: "4th Street Southwest"
-housenumber: 1311
-phone: "(319) 352-1365"
+street: 4th Street Southwest
+housenumber: "1311"
+phone: (319) 352-1365
 opening_hours: ""
 website: ""

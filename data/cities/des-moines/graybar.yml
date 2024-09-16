@@ -1,11 +1,11 @@
 id: 105187852
-type: way
+type: node
 latitude: 41.59199
 longitude: -93.61454
 postcode: "50309"
 city: Des Moines
-street: "East 4th Street"
-housenumber: 600
+street: East 4th Street
+housenumber: "600"
 phone: "+15154474500"
 opening_hours: ""
-website: "https://www.graybar.com/store-finder?utm_source=rioseo&utm_medium=organic&utm_content=google-locations&utm_campaign=rioseo-DMIA&cm_mmc=rioseo:organic-_-google-_-locations-_-DMIA"
+website: https://www.graybar.com/store-finder?utm_source=rioseo&utm_medium=organic&utm_content=google-locations&utm_campaign=rioseo-DMIA&cm_mmc=rioseo:organic-_-google-_-locations-_-DMIA

@@ -1,11 +1,11 @@
 id: 677784775
-type: way
+type: node
 latitude: 40.70852
 longitude: -92.86582
 postcode: "52544"
 city: Centerville
-street: "Highway 5"
-housenumber: 23148
-phone: "+1 641-437-7181"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1621/centerville-ia/whats-new"
+street: Highway 5
+housenumber: "23148"
+phone: +1 641-437-7181
+opening_hours: 24/7
+website: https://www.walmart.com/store/1621/centerville-ia/whats-new

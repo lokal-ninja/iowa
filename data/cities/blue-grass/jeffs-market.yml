@@ -1,11 +1,11 @@
 id: 160505854
-type: way
+type: node
 latitude: 41.50926
 longitude: -90.76635
 postcode: "52726"
 city: Blue Grass
-street: "West Mayne Street"
-housenumber: 102
+street: West Mayne Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

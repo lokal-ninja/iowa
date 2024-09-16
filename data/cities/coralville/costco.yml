@@ -1,11 +1,11 @@
 id: 67285780
-type: way
+type: node
 latitude: 41.69866
 longitude: -91.61692
-postcode: "52241-2740"
+postcode: 52241-2740
 city: Coralville
-street: "Heartland Drive"
-housenumber: 2900
-phone: "+1 319-545-3200"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/coralville-ia-1111.html"
+street: Heartland Drive
+housenumber: "2900"
+phone: +1 319-545-3200
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/coralville-ia-1111.html

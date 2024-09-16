@@ -1,11 +1,11 @@
 id: 136953819
-type: way
+type: node
 latitude: 43.14998
 longitude: -93.23313
 postcode: "50401"
 city: Mason City
-street: "4th Street Southwest"
-housenumber: 2006
+street: 4th Street Southwest
+housenumber: "2006"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

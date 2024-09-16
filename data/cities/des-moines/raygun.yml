@@ -4,8 +4,8 @@ latitude: 41.59049
 longitude: -93.61126
 postcode: "50309"
 city: Des Moines
-street: "East Grand Avenue"
-housenumber: 505
-phone: "+1-515-288-1323"
+street: East Grand Avenue
+housenumber: "505"
+phone: +1-515-288-1323
 opening_hours: ""
-website: "https://www.raygunsite.com/"
+website: https://www.raygunsite.com/

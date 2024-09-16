@@ -1,11 +1,11 @@
 id: 34114800
-type: way
+type: node
 latitude: 41.76042
 longitude: -93.59942
 postcode: "50023"
 city: Ankeny
-street: "North Ankeny Boulevard"
-housenumber: 3505
+street: North Ankeny Boulevard
+housenumber: "3505"
 phone: ""
 opening_hours: ""
 website: ""

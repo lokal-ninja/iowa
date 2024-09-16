@@ -1,11 +1,11 @@
 id: 544791666
-type: way
+type: node
 latitude: 42.51254
 longitude: -92.42641
 postcode: "50613"
 city: Cedar Falls
-street: "University Avenue"
-housenumber: 5713
+street: University Avenue
+housenumber: "5713"
 phone: ""
 opening_hours: ""
-website: "https://www.lebeda.com/locations/cedar-falls/"
+website: https://www.lebeda.com/locations/cedar-falls/

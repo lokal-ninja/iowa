@@ -4,8 +4,8 @@ latitude: 42.03535
 longitude: -91.55747
 postcode: "52302"
 city: Marion
-street: "50th Street"
-housenumber: 950
-phone: "+1-319-373-8001"
+street: 50th Street
+housenumber: "950"
+phone: +1-319-373-8001
 opening_hours: ""
-website: "https://www.iowaappliancecenter.com"
+website: https://www.iowaappliancecenter.com

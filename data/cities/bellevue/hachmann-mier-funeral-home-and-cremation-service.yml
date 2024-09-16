@@ -1,11 +1,11 @@
 id: 852244643
-type: way
+type: node
 latitude: 42.25756
 longitude: -90.42954
 postcode: "52031"
 city: Bellevue
-street: "North 6th Street"
-housenumber: 100
+street: North 6th Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.hachmannfuneralhome.com/"
+website: https://www.hachmannfuneralhome.com/

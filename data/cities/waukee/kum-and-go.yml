@@ -1,11 +1,11 @@
 id: 292473827
-type: way
+type: node
 latitude: 41.5998
 longitude: -93.86578
 postcode: "50263"
 city: Waukee
-street: "SE University Avenue"
-housenumber: 350
-phone: "+1 (515) 987-2659"
+street: SE University Avenue
+housenumber: "350"
+phone: +1 (515) 987-2659
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0075"
+website: https://www.kumandgo.com/store-locator?details=0075

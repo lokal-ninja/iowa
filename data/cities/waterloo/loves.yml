@@ -1,11 +1,11 @@
 id: 1073996104
-type: way
+type: node
 latitude: 42.46191
 longitude: -92.40422
 postcode: "50701"
 city: Waterloo
-street: "Greyhound Drive"
-housenumber: 3301
+street: Greyhound Drive
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

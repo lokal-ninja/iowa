@@ -1,11 +1,11 @@
 id: 792328056
-type: way
+type: node
 latitude: 41.97311
 longitude: -91.66172
 postcode: "52401"
 city: Cedar Rapids
-street: "8th Avenue Southeast"
-housenumber: 201
+street: 8th Avenue Southeast
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 329593295
-type: way
+type: node
 latitude: 41.57522
 longitude: -93.70866
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 433
+street: 5th Street
+housenumber: "433"
 phone: ""
 opening_hours: ""
 website: ""

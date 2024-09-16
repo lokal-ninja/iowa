@@ -1,11 +1,11 @@
 id: 1078684365
-type: way
+type: node
 latitude: 42.02246
 longitude: -93.44865
 postcode: "50201"
 city: Nevada
-street: "Lincoln Highway"
-housenumber: 830
+street: Lincoln Highway
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 742681398
-type: way
+type: node
 latitude: 43.14994
 longitude: -93.25194
 postcode: "50401"
 city: Mason City
-street: "4th Street Southwest"
-housenumber: 3440
+street: 4th Street Southwest
+housenumber: "3440"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ia/mason-city/3440-4th-st-sw"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-18:00
+website: https://stores.staples.com/ia/mason-city/3440-4th-st-sw

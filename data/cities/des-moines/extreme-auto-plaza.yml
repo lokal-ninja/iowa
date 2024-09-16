@@ -1,11 +1,11 @@
 id: 1072046573
-type: way
+type: node
 latitude: 41.6069
 longitude: -93.60003
 postcode: "50316"
 city: Des Moines
-street: "East 14th Street"
-housenumber: 1453
-phone: "+1 515 262 8003"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.extremeautoplaza.com/"
+street: East 14th Street
+housenumber: "1453"
+phone: +1 515 262 8003
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.extremeautoplaza.com/

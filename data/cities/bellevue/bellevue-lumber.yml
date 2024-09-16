@@ -1,11 +1,11 @@
 id: 852244631
-type: way
+type: node
 latitude: 42.25198
 longitude: -90.42072
 postcode: "52031"
 city: Bellevue
-street: "South Riverview Drive"
-housenumber: 900
+street: South Riverview Drive
+housenumber: "900"
 phone: ""
 opening_hours: ""
 website: ""

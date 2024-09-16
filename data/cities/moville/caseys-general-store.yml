@@ -1,11 +1,11 @@
 id: 1169051027
-type: way
+type: node
 latitude: 42.48859
 longitude: -96.07475
 postcode: ""
 city: Moville
-street: "South 1st Street"
-housenumber: 4
+street: South 1st Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

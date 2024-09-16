@@ -1,11 +1,11 @@
 id: 837404149
-type: way
+type: node
 latitude: 41.66398
 longitude: -91.53146
 postcode: "52245"
 city: Iowa City
-street: "North Linn Street"
-housenumber: 208
+street: North Linn Street
+housenumber: "208"
 phone: "+13195691289"
 opening_hours: ""
-website: "https://www.upinsmokeonhill.com/"
+website: https://www.upinsmokeonhill.com/

@@ -1,11 +1,11 @@
 id: 1203183497
-type: way
+type: node
 latitude: 41.05828
 longitude: -94.36008
 postcode: "50801"
 city: Creston
-street: "North Walnut Street"
-housenumber: 117
+street: North Walnut Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

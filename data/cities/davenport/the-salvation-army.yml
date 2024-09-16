@@ -1,11 +1,11 @@
 id: 104460257
-type: way
+type: node
 latitude: 41.56454
 longitude: -90.56715
 postcode: "52806"
 city: Davenport
-street: "Brady Street"
-housenumber: 4303
+street: Brady Street
+housenumber: "4303"
 phone: ""
 opening_hours: ""
 website: ""

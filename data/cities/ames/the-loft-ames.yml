@@ -1,11 +1,11 @@
 id: 237834135
-type: way
+type: node
 latitude: 42.02548
 longitude: -93.61351
 postcode: "50010"
 city: Ames
-street: "Main Street"
-housenumber: 233
+street: Main Street
+housenumber: "233"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 13:00-17:00"
-website: "https://www.theloftames.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 13:00-17:00
+website: https://www.theloftames.com/

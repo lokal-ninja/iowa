@@ -1,11 +1,11 @@
 id: 391844105
-type: way
+type: node
 latitude: 42.45789
 longitude: -92.33168
 postcode: "50702"
 city: Waterloo
-street: "Flammang Drive"
-housenumber: 1334
-phone: "+1 319-232-3661"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1496/waterloo-ia/whats-new"
+street: Flammang Drive
+housenumber: "1334"
+phone: +1 319-232-3661
+opening_hours: 24/7
+website: https://www.walmart.com/store/1496/waterloo-ia/whats-new

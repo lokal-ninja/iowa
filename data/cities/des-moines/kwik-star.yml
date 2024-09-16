@@ -1,11 +1,11 @@
 id: 1072046625
-type: way
+type: node
 latitude: 41.6539
 longitude: -93.59956
 postcode: "50313"
 city: Des Moines
-street: "Northeast 14th Street"
-housenumber: 5145
+street: Northeast 14th Street
+housenumber: "5145"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1086"
+website: https://www.kwiktrip.com/locator/store?id=1086

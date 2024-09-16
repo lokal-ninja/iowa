@@ -1,11 +1,11 @@
 id: 566518130
-type: way
+type: node
 latitude: 42.03514
 longitude: -94.03495
 postcode: "50212"
 city: Ogden
-street: "West Division Street"
-housenumber: 601
+street: West Division Street
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

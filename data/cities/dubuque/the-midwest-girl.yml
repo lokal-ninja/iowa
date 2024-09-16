@@ -1,11 +1,11 @@
 id: 546917264
-type: way
+type: node
 latitude: 42.50271
 longitude: -90.66336
 postcode: "52001"
 city: Dubuque
-street: "Jackson Street"
-housenumber: 898
+street: Jackson Street
+housenumber: "898"
 phone: "+15635428931"
 opening_hours: ""
 website: ""

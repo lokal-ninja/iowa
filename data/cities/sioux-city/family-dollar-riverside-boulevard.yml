@@ -1,11 +1,11 @@
 id: 1210862172
-type: way
+type: node
 latitude: 42.51674
 longitude: -96.47435
 postcode: "51109"
 city: Sioux City
-street: "Riverside Boulevard"
-housenumber: 2200
+street: Riverside Boulevard
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

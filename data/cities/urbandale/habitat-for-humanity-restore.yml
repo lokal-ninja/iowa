@@ -1,11 +1,11 @@
 id: 209140205
-type: way
+type: node
 latitude: 41.63473
 longitude: -93.75812
 postcode: "50322"
 city: Urbandale
-street: "Northwest Urbandale Drive"
-housenumber: 4033
+street: Northwest Urbandale Drive
+housenumber: "4033"
 phone: ""
 opening_hours: ""
 website: ""

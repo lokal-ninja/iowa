@@ -1,11 +1,11 @@
 id: 260483533
-type: way
+type: node
 latitude: 41.60096
 longitude: -93.8345
 postcode: "50263"
 city: Waukee
-street: "Southeast University Avenue"
-housenumber: 1955
+street: Southeast University Avenue
+housenumber: "1955"
 phone: ""
 opening_hours: ""
 website: ""

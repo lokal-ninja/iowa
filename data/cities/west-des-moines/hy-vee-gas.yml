@@ -1,11 +1,11 @@
 id: 320430330
-type: way
+type: node
 latitude: 41.56009
 longitude: -93.7736
 postcode: "50265"
 city: West Des Moines
-street: "Mills Civic Parkway"
-housenumber: 665
+street: Mills Civic Parkway
+housenumber: "665"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1271179325
-type: way
+type: node
 latitude: 41.74168
 longitude: -92.72868
 postcode: "50112"
 city: Grinnell
-street: "West Street"
-housenumber: 727
+street: West Street
+housenumber: "727"
 phone: ""
 opening_hours: ""
 website: ""

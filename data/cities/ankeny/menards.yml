@@ -1,11 +1,11 @@
 id: 34071688
-type: way
+type: node
 latitude: 41.70563
 longitude: -93.57928
 postcode: "50021"
 city: Ankeny
-street: "Southeast Delaware Avenue"
-housenumber: 2505
+street: Southeast Delaware Avenue
+housenumber: "2505"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3090"
+website: https://www.menards.com/store-details/store.html?store=3090

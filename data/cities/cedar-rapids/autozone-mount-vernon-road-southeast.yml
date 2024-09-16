@@ -1,11 +1,11 @@
 id: 701216797
-type: way
+type: node
 latitude: 41.97737
 longitude: -91.627
 postcode: "52403"
 city: Cedar Rapids
-street: "Mount Vernon Road Southeast"
-housenumber: 2714
+street: Mount Vernon Road Southeast
+housenumber: "2714"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/ia/cedar-rapids/2714-mt-vernon-rd-se.html"
+website: https://www.autozone.com/locations/ia/cedar-rapids/2714-mt-vernon-rd-se.html

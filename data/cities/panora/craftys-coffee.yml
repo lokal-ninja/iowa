@@ -1,11 +1,11 @@
 id: 743543805
-type: way
+type: node
 latitude: 41.69158
 longitude: -94.36442
 postcode: "50216"
 city: Panora
-street: "West Main Street"
-housenumber: 102
-phone: "641-755-3128"
-opening_hours: "Tu-Fr 06:00-14:00, Sa 08:00-14:00"
+street: West Main Street
+housenumber: "102"
+phone: 641-755-3128
+opening_hours: Tu-Fr 06:00-14:00, Sa 08:00-14:00
 website: ""

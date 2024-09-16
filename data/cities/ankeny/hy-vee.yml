@@ -1,11 +1,11 @@
 id: 33755811
-type: way
+type: node
 latitude: 41.73505
 longitude: -93.60302
 postcode: "50023"
 city: Ankeny
-street: "North Ankeny Boulevard"
-housenumber: 410
-phone: "(515) 964-0900"
-opening_hours: "PH,Mo-Su 06:00-23:00"
+street: North Ankeny Boulevard
+housenumber: "410"
+phone: (515) 964-0900
+opening_hours: PH,Mo-Su 06:00-23:00
 website: ""

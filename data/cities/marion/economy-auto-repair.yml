@@ -1,11 +1,11 @@
 id: 505364296
-type: way
+type: node
 latitude: 42.03374
 longitude: -91.59513
 postcode: "52302"
 city: Marion
-street: "7th Avenue"
-housenumber: 1360
-phone: "+1-319-261-0000"
+street: 7th Avenue
+housenumber: "1360"
+phone: +1-319-261-0000
 opening_hours: ""
-website: "https://economy-auto-repair.business.site"
+website: https://economy-auto-repair.business.site

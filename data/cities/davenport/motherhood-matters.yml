@@ -4,8 +4,9 @@ latitude: 41.55899
 longitude: -90.54717
 postcode: "52807"
 city: Davenport
-street: "East 38th Street"
-housenumber: 2010
-phone: "+1-563-200-1846"
-opening_hours: "Su 13:00-15:00; Mo 09:00-17:00; Tu 09:00-20:00; We 09:00-18:30; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:30-12:00; Su 13:00-12:00"
-website: "https://motherhoodmatterswellness.com/"
+street: East 38th Street
+housenumber: "2010"
+phone: +1-563-200-1846
+opening_hours: Su 13:00-15:00; Mo 09:00-17:00; Tu 09:00-20:00; We 09:00-18:30; Th
+    09:00-20:00; Fr 09:00-19:00; Sa 08:30-12:00; Su 13:00-12:00
+website: https://motherhoodmatterswellness.com/

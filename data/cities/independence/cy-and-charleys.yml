@@ -1,11 +1,11 @@
 id: 589060020
-type: way
+type: node
 latitude: 42.45318
 longitude: -91.88969
 postcode: "50644"
 city: Independence
-street: "3rd Avenue Southeast"
-housenumber: 1800
+street: 3rd Avenue Southeast
+housenumber: "1800"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 41.60213
 longitude: -93.60084
 postcode: "50316"
 city: Des Moines
-street: "East 14th Street"
-housenumber: 1264
-phone: "+1-515-265-0272"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "https://www.t-mobile.com/store-locator/ia/des-moines/e-14th-university"
+street: East 14th Street
+housenumber: "1264"
+phone: +1-515-265-0272
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: https://www.t-mobile.com/store-locator/ia/des-moines/e-14th-university

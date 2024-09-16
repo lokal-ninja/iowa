@@ -1,11 +1,11 @@
 id: 241720036
-type: way
+type: node
 latitude: 42.0252
 longitude: -93.61467
 postcode: "50010"
 city: Ames
-street: "Main Street"
-housenumber: 319
+street: Main Street
+housenumber: "319"
 phone: ""
-opening_hours: "We 13:00-17:00; Th-Sa 10:00-17:00"
+opening_hours: We 13:00-17:00; Th-Sa 10:00-17:00
 website: ""

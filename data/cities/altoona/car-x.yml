@@ -1,11 +1,11 @@
 id: 557508445
-type: way
+type: node
 latitude: 41.64475
 longitude: -93.5026
 postcode: "50009"
 city: Altoona
-street: "8th Street Southwest"
-housenumber: 3345
+street: 8th Street Southwest
+housenumber: "3345"
 phone: ""
 opening_hours: ""
 website: ""

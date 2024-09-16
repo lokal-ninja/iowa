@@ -1,11 +1,11 @@
 id: 196545537
-type: way
+type: node
 latitude: 42.01815
 longitude: -93.60984
 postcode: "50010"
 city: Ames
-street: "South Duff Avenue"
-housenumber: 426
+street: South Duff Avenue
+housenumber: "426"
 phone: "+15152334500"
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ia/ames/autoparts-740.html"
+website: https://locations.oreillyauto.com/ia/ames/autoparts-740.html

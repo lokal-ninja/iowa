@@ -1,11 +1,11 @@
 id: 1157465601
-type: way
+type: node
 latitude: 41.04865
 longitude: -94.35505
 postcode: "50801"
 city: Creston
-street: "South Mulberry Street"
-housenumber: 804
-phone: "+1 (641) 278-1044"
+street: South Mulberry Street
+housenumber: "804"
+phone: +1 (641) 278-1044
 opening_hours: ""
-website: "https://www.jandaflooringcreston.com/"
+website: https://www.jandaflooringcreston.com/

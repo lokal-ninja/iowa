@@ -1,11 +1,11 @@
 id: 329590925
-type: way
+type: node
 latitude: 41.57355
 longitude: -93.70871
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 325
-phone: "+1-515-255-1010"
+street: 5th Street
+housenumber: "325"
+phone: +1-515-255-1010
 opening_hours: ""
-website: "https://theiowaquiltblock.com/"
+website: https://theiowaquiltblock.com/

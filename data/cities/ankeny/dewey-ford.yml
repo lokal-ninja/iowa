@@ -1,11 +1,11 @@
 id: 38008030
-type: way
+type: node
 latitude: 41.69905
 longitude: -93.57929
 postcode: "50021"
 city: Ankeny
-street: "Southeast Delaware Avenue"
-housenumber: 3055
+street: Southeast Delaware Avenue
+housenumber: "3055"
 phone: ""
 opening_hours: ""
-website: "https://www.deweyford.com/"
+website: https://www.deweyford.com/

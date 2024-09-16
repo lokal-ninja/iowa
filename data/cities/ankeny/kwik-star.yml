@@ -1,11 +1,11 @@
 id: 1193889361
-type: way
+type: node
 latitude: 41.76177
 longitude: -93.60383
 postcode: "50023"
 city: Ankeny
-street: "Northwest 36th Street"
-housenumber: 320
+street: Northwest 36th Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1057"
+website: https://www.kwiktrip.com/locator/store?id=1057

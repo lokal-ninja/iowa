@@ -1,11 +1,11 @@
 id: 469258124
-type: way
+type: node
 latitude: 41.57398
 longitude: -90.59885
 postcode: "52806"
 city: Davenport
-street: "West 53rd Street"
-housenumber: 1635
+street: West 53rd Street
+housenumber: "1635"
 phone: ""
 opening_hours: ""
 website: ""

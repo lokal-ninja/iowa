@@ -1,11 +1,11 @@
 id: 104472751
-type: way
+type: node
 latitude: 41.56076
 longitude: -90.5798
 postcode: "52806"
 city: Davenport
-street: "Northwest Boulevard"
-housenumber: 3930
+street: Northwest Boulevard
+housenumber: "3930"
 phone: ""
 opening_hours: ""
-website: "https://www.goodyearautoservice.com/"
+website: https://www.goodyearautoservice.com/

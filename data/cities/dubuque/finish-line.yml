@@ -4,8 +4,8 @@ latitude: 42.49403
 longitude: -90.72326
 postcode: "52002"
 city: Dubuque
-street: "John F Kennedy Road"
-housenumber: 555
+street: John F Kennedy Road
+housenumber: "555"
 phone: ""
 opening_hours: ""
-website: "https://stores.finishline.com/ia/dubuque/kennedy-mall.html"
+website: https://stores.finishline.com/ia/dubuque/kennedy-mall.html

@@ -1,11 +1,11 @@
 id: 192365846
-type: way
+type: node
 latitude: 41.25411
 longitude: -95.90572
 postcode: "51501"
 city: Council Bluffs
-street: "9th Avenue"
-housenumber: 3624
+street: 9th Avenue
+housenumber: "3624"
 phone: ""
 opening_hours: ""
 website: ""

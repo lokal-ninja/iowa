@@ -1,11 +1,11 @@
 id: 778710008
-type: way
+type: node
 latitude: 41.67713
 longitude: -91.51875
 postcode: "52245"
 city: Iowa City
-street: "North Dodge Street"
-housenumber: 1125
-phone: "(319) 354-9223"
+street: North Dodge Street
+housenumber: "1125"
+phone: (319) 354-9223
 opening_hours: ""
 website: ""

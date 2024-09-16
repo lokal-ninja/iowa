@@ -4,8 +4,8 @@ latitude: 41.57011
 longitude: -93.70869
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 113
+street: 5th Street
+housenumber: "113"
 phone: ""
-opening_hours: "Coming Soon"
+opening_hours: '"Coming Soon"'
 website: ""

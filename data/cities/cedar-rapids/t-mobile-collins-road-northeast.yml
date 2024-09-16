@@ -1,11 +1,11 @@
 id: 187196132
-type: way
+type: node
 latitude: 42.02747
 longitude: -91.63031
 postcode: "52402"
 city: Cedar Rapids
-street: "Collins Road Northeast"
-housenumber: 223
-phone: "+1-319-474-6591"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.t-mobile.com/store-locator/ia/cedar-rapids/lindale-mall"
+street: Collins Road Northeast
+housenumber: "223"
+phone: +1-319-474-6591
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.t-mobile.com/store-locator/ia/cedar-rapids/lindale-mall

@@ -1,11 +1,11 @@
 id: 907390801
-type: way
+type: node
 latitude: 41.75053
 longitude: -91.64072
 postcode: "52317"
 city: North Liberty
-street: "North Madison Avenue"
-housenumber: 505
+street: North Madison Avenue
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

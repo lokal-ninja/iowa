@@ -1,11 +1,11 @@
 id: 65466182
-type: way
+type: node
 latitude: 42.02895
 longitude: -91.62558
 postcode: "52302"
 city: Marion
-street: "Twixt Town Road Northeast"
-housenumber: 1370
+street: Twixt Town Road Northeast
+housenumber: "1370"
 phone: "3193774189"
-opening_hours: "Mo, Tu 11:00-19:00; We 11:00-16:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://daabinstore.com/cedar-rapids/"
+opening_hours: Mo, Tu 11:00-19:00; We 11:00-16:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://daabinstore.com/cedar-rapids/

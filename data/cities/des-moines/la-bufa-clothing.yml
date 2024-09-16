@@ -1,11 +1,11 @@
 id: 1245733114
-type: way
+type: node
 latitude: 41.5948
 longitude: -93.59251
 postcode: "50316"
 city: Des Moines
-street: "East Grand Avenue"
-housenumber: 1604
+street: East Grand Avenue
+housenumber: "1604"
 phone: ""
 opening_hours: ""
 website: ""

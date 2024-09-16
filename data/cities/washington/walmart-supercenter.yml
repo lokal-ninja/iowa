@@ -1,11 +1,11 @@
 id: 312875741
-type: way
+type: node
 latitude: 41.2958
 longitude: -91.66294
 postcode: "52353"
 city: Washington
-street: "Highway 92"
-housenumber: 2485
-phone: "+1 319-653-7213"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1475/washington-ia/whats-new"
+street: Highway 92
+housenumber: "2485"
+phone: +1 319-653-7213
+opening_hours: 24/7
+website: https://www.walmart.com/store/1475/washington-ia/whats-new

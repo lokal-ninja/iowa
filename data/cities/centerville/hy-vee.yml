@@ -1,11 +1,11 @@
 id: 530013527
-type: way
+type: node
 latitude: 40.73772
 longitude: -92.86673
 postcode: "52544"
 city: Centerville
-street: "North 18th Street"
-housenumber: 609
-phone: "(641) 856-3277"
+street: North 18th Street
+housenumber: "609"
+phone: (641) 856-3277
 opening_hours: ""
 website: ""

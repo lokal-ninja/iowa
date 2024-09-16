@@ -1,11 +1,11 @@
 id: 456495375
-type: way
+type: node
 latitude: 41.0194
 longitude: -92.44022
 postcode: "52501"
 city: Ottumwa
-street: "Vaughn Drive"
-housenumber: 1311
+street: Vaughn Drive
+housenumber: "1311"
 phone: ""
 opening_hours: ""
 website: ""

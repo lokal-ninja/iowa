@@ -1,11 +1,11 @@
 id: 851259882
-type: way
+type: node
 latitude: 42.44737
 longitude: -96.32847
 postcode: "51106"
 city: Sioux City
-street: "Sunnybrook Drive"
-housenumber: 5858
+street: Sunnybrook Drive
+housenumber: "5858"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-18:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-18:00
 website: ""

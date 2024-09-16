@@ -4,8 +4,8 @@ latitude: 42.48362
 longitude: -92.34314
 postcode: "50702"
 city: Waterloo
-street: "West 9th Street"
-housenumber: 1206
-phone: "+1 319 833 0213"
-opening_hours: "Fr-We 08:00-18:00"
+street: West 9th Street
+housenumber: "1206"
+phone: +1 319 833 0213
+opening_hours: Fr-We 08:00-18:00
 website: ""

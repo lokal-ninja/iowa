@@ -1,11 +1,11 @@
 id: 1155316520
-type: way
+type: node
 latitude: 43.38643
 longitude: -93.94502
 postcode: "50424"
 city: Buffalo Center
-street: "1st Avenue Northeast"
-housenumber: 101
+street: 1st Avenue Northeast
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

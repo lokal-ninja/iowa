@@ -1,11 +1,11 @@
 id: 875785057
-type: way
+type: node
 latitude: 41.6879
 longitude: -93.79619
 postcode: "50111"
 city: Grimes
-street: "West 1st Street"
-housenumber: 204
-phone: "+1 515-986-0031"
-opening_hours: "Su 09:00-17:00, Mo-Su 08:00-19:00, Sa 08:00-17:00"
-website: "https://www.kempkerstruevalue.com/locations/grimes/"
+street: West 1st Street
+housenumber: "204"
+phone: +1 515-986-0031
+opening_hours: Su 09:00-17:00, Mo-Su 08:00-19:00, Sa 08:00-17:00
+website: https://www.kempkerstruevalue.com/locations/grimes/

@@ -1,11 +1,11 @@
 id: 468233092
-type: way
+type: node
 latitude: 41.00669
 longitude: -92.43282
 postcode: "52501"
 city: Ottumwa
-street: "North Ferry Street"
-housenumber: 508
+street: North Ferry Street
+housenumber: "508"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 868468101
-type: way
+type: node
 latitude: 42.51128
 longitude: -96.41592
 postcode: "51104"
 city: Sioux City
-street: "Hamilton Boulevard"
-housenumber: 1900
+street: Hamilton Boulevard
+housenumber: "1900"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1900+hamilton+blvd-sioux+city-ia-51104/id=15647"
+website: https://www.walgreens.com/locator/walgreens-1900+hamilton+blvd-sioux+city-ia-51104/id=15647

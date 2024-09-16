@@ -1,11 +1,11 @@
 id: 122989101
-type: way
+type: node
 latitude: 41.61407
 longitude: -93.64693
 postcode: "50314"
 city: Des Moines
-street: "Martin Luther King Junior Parkway"
-housenumber: 2130
+street: Martin Luther King Junior Parkway
+housenumber: "2130"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ia/desmoines/autoparts-279.html"
+website: https://locations.oreillyauto.com/ia/desmoines/autoparts-279.html

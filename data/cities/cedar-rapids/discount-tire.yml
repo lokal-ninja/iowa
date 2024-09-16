@@ -1,11 +1,11 @@
 id: 243364555
-type: way
+type: node
 latitude: 42.03582
 longitude: -91.65862
 postcode: "52402"
 city: Cedar Rapids
-street: "Blairs Ferry Road Northeast"
-housenumber: 1500
-phone: "+1-319-423-6900"
+street: Blairs Ferry Road Northeast
+housenumber: "1500"
+phone: +1-319-423-6900
 opening_hours: ""
 website: ""

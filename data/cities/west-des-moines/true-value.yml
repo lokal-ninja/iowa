@@ -1,11 +1,11 @@
 id: 67120133
-type: way
+type: node
 latitude: 41.58232
 longitude: -93.70452
 postcode: "50265"
 city: West Des Moines
-street: "Grand Avenue"
-housenumber: 100
+street: Grand Avenue
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

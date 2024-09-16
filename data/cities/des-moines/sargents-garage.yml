@@ -1,11 +1,11 @@
 id: 718883518
-type: way
+type: node
 latitude: 41.60743
 longitude: -93.62537
 postcode: "50314"
 city: Des Moines
-street: "College Avenue"
-housenumber: 510
+street: College Avenue
+housenumber: "510"
 phone: ""
 opening_hours: ""
-website: "https://www.sargentsgaragedesmoines.com/"
+website: https://www.sargentsgaragedesmoines.com/

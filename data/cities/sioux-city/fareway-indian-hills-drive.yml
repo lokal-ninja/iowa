@@ -1,11 +1,11 @@
 id: 229482331
-type: way
+type: node
 latitude: 42.53873
 longitude: -96.37271
 postcode: "51108"
 city: Sioux City
-street: "Indian Hills Drive"
-housenumber: 4016
+street: Indian Hills Drive
+housenumber: "4016"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su off; PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su off; PH off
 website: ""

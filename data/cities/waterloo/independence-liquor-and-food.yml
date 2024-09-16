@@ -1,11 +1,11 @@
 id: 966290741
-type: way
+type: node
 latitude: 42.49871
 longitude: -92.30261
 postcode: "50707"
 city: Waterloo
-street: "Independence Avenue"
-housenumber: 1761
-phone: "+1 319 234 0089"
+street: Independence Avenue
+housenumber: "1761"
+phone: +1 319 234 0089
 opening_hours: ""
 website: ""

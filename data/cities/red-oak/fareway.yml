@@ -1,11 +1,11 @@
 id: 1231309478
-type: way
+type: node
 latitude: 41.0126
 longitude: -95.2345
 postcode: "51566"
 city: Red Oak
-street: "North Broadway Street"
-housenumber: 811
+street: North Broadway Street
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

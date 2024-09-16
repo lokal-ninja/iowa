@@ -1,11 +1,11 @@
 id: 698436404
-type: way
+type: node
 latitude: 41.03637
 longitude: -95.7519
 postcode: "51534"
 city: Glenwood
-street: "South Locust Street"
-housenumber: 1306
-phone: "712-527-3044"
-opening_hours: "Mo-Sa 07:30-19:00; Su 10:00-17:00"
+street: South Locust Street
+housenumber: "1306"
+phone: 712-527-3044
+opening_hours: Mo-Sa 07:30-19:00; Su 10:00-17:00
 website: ""

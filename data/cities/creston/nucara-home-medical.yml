@@ -1,11 +1,11 @@
 id: 467547484
-type: way
+type: node
 latitude: 41.04967
 longitude: -94.36844
 postcode: "50801"
 city: Creston
-street: "West Taylor Street"
-housenumber: 609
+street: West Taylor Street
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

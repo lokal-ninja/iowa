@@ -1,11 +1,11 @@
 id: 256491856
-type: way
+type: node
 latitude: 43.14563
 longitude: -93.25039
 postcode: "50401"
 city: Mason City
-street: "Village Green Drive Southwest"
-housenumber: 540
+street: Village Green Drive Southwest
+housenumber: "540"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3094"
+website: https://www.menards.com/store-details/store.html?store=3094

@@ -1,11 +1,11 @@
 id: 881514362
-type: way
+type: node
 latitude: 42.5127
 longitude: -90.66588
 postcode: "52001"
 city: Dubuque
-street: "Rhomberg Avenue"
-housenumber: 400
+street: Rhomberg Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-dubuque-ia-10234031/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-dubuque-ia-10234031/

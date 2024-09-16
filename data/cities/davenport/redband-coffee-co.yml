@@ -1,11 +1,11 @@
 id: 555876447
-type: way
+type: node
 latitude: 41.5233
 longitude: -90.57008
 postcode: "52801"
 city: Davenport
-street: "East 4th Street"
-housenumber: 329
-phone: "+1 563 484 0098"
+street: East 4th Street
+housenumber: "329"
+phone: +1 563 484 0098
 opening_hours: ""
-website: "https://redbandcoffee.com/"
+website: https://redbandcoffee.com/

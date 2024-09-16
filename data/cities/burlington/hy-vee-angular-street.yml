@@ -1,11 +1,11 @@
 id: 529790049
-type: way
+type: node
 latitude: 40.80165
 longitude: -91.11111
 postcode: "52601"
 city: Burlington
-street: "Angular Street"
-housenumber: 939
-phone: "(319) 752-3657"
-opening_hours: "Mo-Su 05:30-23:59"
-website: "https://www.hy-vee.com/stores/detail.aspx?s=18"
+street: Angular Street
+housenumber: "939"
+phone: (319) 752-3657
+opening_hours: Mo-Su 05:30-23:59
+website: https://www.hy-vee.com/stores/detail.aspx?s=18

@@ -1,11 +1,11 @@
 id: 148413054
-type: way
+type: node
 latitude: 41.59377
 longitude: -93.67398
 postcode: "50312"
 city: Des Moines
-street: "42nd Street"
-housenumber: 863
-phone: "+1 515 277 0793"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-13:00"
+street: 42nd Street
+housenumber: "863"
+phone: +1 515 277 0793
+opening_hours: Mo-Fr 07:00-18:00;Sa 07:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 267311994
-type: way
+type: node
 latitude: 42.50093
 longitude: -92.37648
 postcode: "50701"
 city: Waterloo
-street: "Ansborough Avenue"
-housenumber: 809
+street: Ansborough Avenue
+housenumber: "809"
 phone: ""
 opening_hours: ""
 website: ""

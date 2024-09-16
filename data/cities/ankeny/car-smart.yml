@@ -1,11 +1,11 @@
 id: 38063089
-type: way
+type: node
 latitude: 41.72246
 longitude: -93.60106
 postcode: "50021"
 city: Ankeny
-street: "South Ankeny Boulevard"
-housenumber: 810
+street: South Ankeny Boulevard
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "http://www.teamcarsmart.com/"
+website: http://www.teamcarsmart.com/

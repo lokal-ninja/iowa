@@ -1,11 +1,11 @@
 id: 325347872
-type: way
+type: node
 latitude: 41.57287
 longitude: -93.73128
 postcode: "50265"
 city: West Des Moines
-street: "Grand Avenue"
-housenumber: 1917
+street: Grand Avenue
+housenumber: "1917"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/ia/westdesmoines/oil-change-gr0004.html"
+website: https://store.vioc.com/ia/westdesmoines/oil-change-gr0004.html

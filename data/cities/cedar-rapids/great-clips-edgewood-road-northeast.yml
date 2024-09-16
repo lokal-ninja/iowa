@@ -1,11 +1,11 @@
 id: 649592877
-type: way
+type: node
 latitude: 42.03246
 longitude: -91.70088
 postcode: "52411"
 city: Cedar Rapids
-street: "Edgewood Road Northeast"
-housenumber: 5300
+street: Edgewood Road Northeast
+housenumber: "5300"
 phone: ""
 opening_hours: ""
 website: ""

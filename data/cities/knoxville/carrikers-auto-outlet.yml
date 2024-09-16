@@ -1,11 +1,11 @@
 id: 1190066640
-type: way
+type: node
 latitude: 41.30661
 longitude: -93.10873
 postcode: "50138"
 city: Knoxville
-street: "South Lincoln Street"
-housenumber: 1501
-phone: "+1 (641) 842-4444"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+street: South Lincoln Street
+housenumber: "1501"
+phone: +1 (641) 842-4444
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

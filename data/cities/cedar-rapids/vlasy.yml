@@ -4,8 +4,8 @@ latitude: 41.96425
 longitude: -91.6614
 postcode: "52404"
 city: Cedar Rapids
-street: "16th Avenue Southwest"
-housenumber: 97
-phone: "+1-319-213-5636"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-15:00"
+street: 16th Avenue Southwest
+housenumber: "97"
+phone: +1-319-213-5636
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-15:00
 website: ""

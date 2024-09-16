@@ -4,8 +4,8 @@ latitude: 42.45197
 longitude: -90.68022
 postcode: "52003"
 city: Dubuque
-street: "HWY 61/151"
-housenumber: 3201
-phone: "+1-800-553-3642"
+street: HWY 61/151
+housenumber: "3201"
+phone: +1-800-553-3642
 opening_hours: ""
-website: "https://truckcountry.com/locations/iowa/dubuque/"
+website: https://truckcountry.com/locations/iowa/dubuque/

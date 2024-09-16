@@ -1,11 +1,11 @@
 id: 853982765
-type: way
+type: node
 latitude: 42.5029
 longitude: -96.37778
 postcode: "51105"
 city: Sioux City
-street: "Lewis Boulevard"
-housenumber: 1132
+street: Lewis Boulevard
+housenumber: "1132"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 37552775
-type: way
+type: node
 latitude: 41.72216
 longitude: -93.59966
 postcode: "50023"
 city: Ankeny
-street: "South Ankeny Boulevard"
-housenumber: 849
+street: South Ankeny Boulevard
+housenumber: "849"
 phone: ""
 opening_hours: ""
 website: ""

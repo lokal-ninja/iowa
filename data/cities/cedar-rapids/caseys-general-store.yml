@@ -1,11 +1,11 @@
 id: 705814273
-type: way
+type: node
 latitude: 42.01003
 longitude: -91.66216
 postcode: "52402"
 city: Cedar Rapids
-street: "32nd Street Northeast"
-housenumber: 1661
+street: 32nd Street Northeast
+housenumber: "1661"
 phone: ""
 opening_hours: ""
 website: ""

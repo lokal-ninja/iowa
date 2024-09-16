@@ -1,11 +1,11 @@
 id: 338851232
-type: way
+type: node
 latitude: 40.74002
 longitude: -93.74368
 postcode: "50144"
 city: Leon
-street: "Northeast Mill Street"
-housenumber: 103
+street: Northeast Mill Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

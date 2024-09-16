@@ -1,11 +1,11 @@
 id: 343604842
-type: way
+type: node
 latitude: 41.55982
 longitude: -90.57653
 postcode: "52806"
 city: Davenport
-street: "West Kimberly Road"
-housenumber: 321
+street: West Kimberly Road
+housenumber: "321"
 phone: ""
 opening_hours: ""
-website: "https://www.lebeda.com/"
+website: https://www.lebeda.com/

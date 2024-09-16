@@ -1,11 +1,11 @@
 id: 499427382
-type: way
+type: node
 latitude: 42.02145
 longitude: -93.4525
 postcode: "50201"
 city: Nevada
-street: "6th Street"
-housenumber: 1038
+street: 6th Street
+housenumber: "1038"
 phone: ""
 opening_hours: ""
 website: ""

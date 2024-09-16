@@ -1,11 +1,11 @@
 id: 397731246
-type: way
+type: node
 latitude: 42.01683
 longitude: -91.63402
 postcode: "52402"
 city: Cedar Rapids
-street: "1st Avenue East"
-housenumber: 3733
-phone: "+1 319 366 6363"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://autoglassnow.com/our-locations/cedar-rapids/"
+street: 1st Avenue East
+housenumber: "3733"
+phone: +1 319 366 6363
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://autoglassnow.com/our-locations/cedar-rapids/

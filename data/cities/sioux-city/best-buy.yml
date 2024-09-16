@@ -4,8 +4,8 @@ latitude: 42.4455
 longitude: -96.3454
 postcode: "51106"
 city: Sioux City
-street: "Sergeant Road"
-housenumber: 4730
-phone: "+1 712-276-2841"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/ia/sioux-city/4730-sergeant-rd-792.html"
+street: Sergeant Road
+housenumber: "4730"
+phone: +1 712-276-2841
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/ia/sioux-city/4730-sergeant-rd-792.html

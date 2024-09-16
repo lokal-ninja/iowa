@@ -1,11 +1,11 @@
 id: 504033377
-type: way
+type: node
 latitude: 41.99695
 longitude: -93.61264
 postcode: "50010"
 city: Ames
-street: "Kitty Hawk Dr"
-housenumber: 220
-phone: "515-817-1713"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.ameshonda.com/"
+street: Kitty Hawk Dr
+housenumber: "220"
+phone: 515-817-1713
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.ameshonda.com/

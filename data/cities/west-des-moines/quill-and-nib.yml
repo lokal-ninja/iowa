@@ -4,8 +4,8 @@ latitude: 41.57069
 longitude: -93.70868
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 133
-phone: "+1-515-223-6299"
-opening_hours: "Mo-We,Fr,Sa 10:00-16:00; Th 10:00-19:00"
+street: 5th Street
+housenumber: "133"
+phone: +1-515-223-6299
+opening_hours: Mo-We,Fr,Sa 10:00-16:00; Th 10:00-19:00
 website: ""

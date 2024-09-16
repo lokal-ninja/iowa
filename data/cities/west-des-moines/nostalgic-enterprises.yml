@@ -1,11 +1,11 @@
 id: 329241019
-type: way
+type: node
 latitude: 41.57032
 longitude: -93.71083
 postcode: "50265"
 city: West Des Moines
-street: "6th Street"
-housenumber: 116
+street: 6th Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

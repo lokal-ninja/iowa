@@ -1,11 +1,11 @@
 id: 481725412
-type: way
+type: node
 latitude: 41.00703
 longitude: -92.42209
 postcode: "52501"
 city: Ottumwa
-street: "Church Street"
-housenumber: 721
+street: Church Street
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

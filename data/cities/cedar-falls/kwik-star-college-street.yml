@@ -4,8 +4,8 @@ latitude: 42.51895
 longitude: -92.45641
 postcode: "50613"
 city: Cedar Falls
-street: "College Street"
-housenumber: 2019
+street: College Street
+housenumber: "2019"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=726"
+website: https://www.kwiktrip.com/locator/store?id=726

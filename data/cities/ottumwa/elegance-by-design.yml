@@ -1,11 +1,11 @@
 id: 484651132
-type: way
+type: node
 latitude: 41.01565
 longitude: -92.40975
 postcode: "52501"
 city: Ottumwa
-street: "East Main Street"
-housenumber: 324
+street: East Main Street
+housenumber: "324"
 phone: ""
 opening_hours: ""
 website: ""

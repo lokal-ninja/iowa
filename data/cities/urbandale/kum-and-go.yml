@@ -1,11 +1,11 @@
 id: 132742723
-type: way
+type: node
 latitude: 41.64574
 longitude: -93.76956
 postcode: "50322"
 city: Urbandale
-street: "Northwest Urbandale Drive"
-housenumber: 4860
+street: Northwest Urbandale Drive
+housenumber: "4860"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0572"
+website: https://www.kumandgo.com/store-locator?details=0572

@@ -1,11 +1,11 @@
 id: 515923997
-type: way
+type: node
 latitude: 41.77185
 longitude: -91.12766
 postcode: "52772"
 city: Tipton
-street: "Cedar Street"
-housenumber: 610
+street: Cedar Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
-website: "https://www.familyfoodsia.com"
+website: https://www.familyfoodsia.com

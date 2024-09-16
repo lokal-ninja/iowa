@@ -1,11 +1,11 @@
 id: 125437387
-type: way
+type: node
 latitude: 43.12535
 longitude: -95.16468
 postcode: "51301"
 city: Spencer
-street: "12th Avenue Southwest"
-housenumber: 1301
+street: 12th Avenue Southwest
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3202"
+website: https://www.menards.com/store-details/store.html?store=3202

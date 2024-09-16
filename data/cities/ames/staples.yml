@@ -1,11 +1,11 @@
 id: 104148087
-type: way
+type: node
 latitude: 42.01032
 longitude: -93.61448
 postcode: "50010"
 city: Ames
-street: "Buckeye Avenue"
-housenumber: 1333
-phone: "+1 515-663-0597"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/ia/ames/1333-buckeye-road"
+street: Buckeye Avenue
+housenumber: "1333"
+phone: +1 515-663-0597
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/ia/ames/1333-buckeye-road

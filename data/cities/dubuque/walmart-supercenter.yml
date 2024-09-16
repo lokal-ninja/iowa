@@ -1,11 +1,11 @@
 id: 64885888
-type: way
+type: node
 latitude: 42.48829
 longitude: -90.73616
 postcode: "52003"
 city: Dubuque
-street: "Dodge Street"
-housenumber: 4200
-phone: "+1 563-582-1003"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2004/dubuque-ia/whats-new"
+street: Dodge Street
+housenumber: "4200"
+phone: +1 563-582-1003
+opening_hours: 24/7
+website: https://www.walmart.com/store/2004/dubuque-ia/whats-new

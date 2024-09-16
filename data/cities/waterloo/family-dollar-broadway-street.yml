@@ -1,11 +1,11 @@
 id: 966291786
-type: way
+type: node
 latitude: 42.51173
 longitude: -92.34575
 postcode: "50703"
 city: Waterloo
-street: "Broadway Street"
-housenumber: 611
+street: Broadway Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

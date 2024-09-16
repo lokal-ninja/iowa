@@ -1,11 +1,11 @@
 id: 95321740
-type: way
+type: node
 latitude: 41.92058
 longitude: -91.41798
-postcode: "52314-1607"
+postcode: 52314-1607
 city: Mount Vernon
-street: "1st Avenue South"
-housenumber: 222
-phone: "+1 319-895-8183"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 10:00-17:00"
+street: 1st Avenue South
+housenumber: "222"
+phone: +1 319-895-8183
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 10:00-17:00
 website: ""

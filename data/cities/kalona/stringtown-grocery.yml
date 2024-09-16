@@ -1,11 +1,11 @@
 id: 1084153050
-type: way
+type: node
 latitude: 41.54112
 longitude: -91.70949
 postcode: "52247"
 city: Kalona
-street: "540th Street"
-housenumber: 2208
+street: 540th Street
+housenumber: "2208"
 phone: "+13196832415"
 opening_hours: ""
 website: ""

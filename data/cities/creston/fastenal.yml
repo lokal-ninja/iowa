@@ -1,11 +1,11 @@
 id: 1154889152
-type: way
+type: node
 latitude: 41.0486
 longitude: -94.36704
 postcode: "50801"
 city: Creston
-street: "Abell Street"
-housenumber: 805
-phone: "+1 (641) 782-2654"
-opening_hours: "Mo-Fr 07:00-16:00"
+street: Abell Street
+housenumber: "805"
+phone: +1 (641) 782-2654
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

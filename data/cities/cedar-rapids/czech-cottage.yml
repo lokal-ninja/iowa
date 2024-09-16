@@ -1,11 +1,11 @@
 id: 704232219
-type: way
+type: node
 latitude: 41.96423
 longitude: -91.66203
 postcode: "52404"
 city: Cedar Rapids
-street: "16th Avenue Southwest"
-housenumber: 100
-phone: "(319) 361-4938"
-opening_hours: "Mo-Sa 11:00-16:00"
-website: "https://czechcottage.com/"
+street: 16th Avenue Southwest
+housenumber: "100"
+phone: (319) 361-4938
+opening_hours: Mo-Sa 11:00-16:00
+website: https://czechcottage.com/

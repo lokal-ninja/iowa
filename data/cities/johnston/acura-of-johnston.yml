@@ -1,11 +1,11 @@
 id: 61227917
-type: way
+type: node
 latitude: 41.65402
 longitude: -93.69877
 postcode: "50131"
 city: Johnston
-street: "Merle Hay Road"
-housenumber: 5138
-phone: "515-446-3581"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.acuraofjohnston.com/"
+street: Merle Hay Road
+housenumber: "5138"
+phone: 515-446-3581
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.acuraofjohnston.com/

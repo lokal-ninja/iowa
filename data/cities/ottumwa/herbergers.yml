@@ -1,11 +1,11 @@
 id: 456414396
-type: way
+type: node
 latitude: 41.01781
 longitude: -92.43507
 postcode: "52501"
 city: Ottumwa
-street: "North Quincy Avenue"
-housenumber: 1110
+street: North Quincy Avenue
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

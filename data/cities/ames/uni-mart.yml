@@ -1,11 +1,11 @@
 id: 246557473
-type: way
+type: node
 latitude: 42.02321
 longitude: -93.66451
 postcode: "50014"
 city: Ames
-street: "Lincoln Way"
-housenumber: 3335
+street: Lincoln Way
+housenumber: "3335"
 phone: "+15152928445"
 opening_hours: ""
 website: ""

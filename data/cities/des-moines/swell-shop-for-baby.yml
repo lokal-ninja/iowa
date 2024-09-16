@@ -4,8 +4,8 @@ latitude: 41.59371
 longitude: -93.67423
 postcode: "50312"
 city: Des Moines
-street: "42nd Street"
-housenumber: 857
-phone: "+1-515-226-8871"
+street: 42nd Street
+housenumber: "857"
+phone: +1-515-226-8871
 opening_hours: ""
-website: "http://swelldsm.com/"
+website: http://swelldsm.com/

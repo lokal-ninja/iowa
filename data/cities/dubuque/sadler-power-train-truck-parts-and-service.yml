@@ -1,11 +1,11 @@
 id: 1004585920
-type: way
+type: node
 latitude: 42.50787
 longitude: -90.66388
 postcode: "52001"
 city: Dubuque
-street: "East 14th Street"
-housenumber: 425
+street: East 14th Street
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

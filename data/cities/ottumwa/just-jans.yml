@@ -1,11 +1,11 @@
 id: 482166374
-type: way
+type: node
 latitude: 41.00815
 longitude: -92.41916
 postcode: "52501"
 city: Ottumwa
-street: "North Sheridan Avenue"
-housenumber: 501
+street: North Sheridan Avenue
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

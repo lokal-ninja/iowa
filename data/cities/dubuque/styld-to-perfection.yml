@@ -4,8 +4,8 @@ latitude: 42.49619
 longitude: -90.66486
 postcode: "52001"
 city: Dubuque
-street: "Main Street"
-housenumber: 233
-phone: "+1-563-239-1078"
+street: Main Street
+housenumber: "233"
+phone: +1-563-239-1078
 opening_hours: ""
-website: "http://stpsalon.com/"
+website: http://stpsalon.com/

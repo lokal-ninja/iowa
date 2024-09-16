@@ -1,11 +1,11 @@
 id: 966290744
-type: way
+type: node
 latitude: 42.52838
 longitude: -92.33711
 postcode: "50703"
 city: Waterloo
-street: "East Donald Street"
-housenumber: 111
+street: East Donald Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1004"
+website: https://www.kwiktrip.com/locator/store?id=1004

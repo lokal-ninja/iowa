@@ -1,11 +1,11 @@
 id: 498077636
-type: way
+type: node
 latitude: 41.03069
 longitude: -93.77788
 postcode: "50213"
 city: Osceola
-street: "West McLane Street"
-housenumber: 803
+street: West McLane Street
+housenumber: "803"
 phone: ""
 opening_hours: ""
 website: ""

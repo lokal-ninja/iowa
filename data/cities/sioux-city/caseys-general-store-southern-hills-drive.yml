@@ -1,11 +1,11 @@
 id: 851276248
-type: way
+type: node
 latitude: 42.4411
 longitude: -96.3458
 postcode: "51106"
 city: Sioux City
-street: "Southern Hills Drive"
-housenumber: 4727
+street: Southern Hills Drive
+housenumber: "4727"
 phone: ""
 opening_hours: ""
 website: ""

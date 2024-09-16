@@ -1,11 +1,11 @@
 id: 853984833
-type: way
+type: node
 latitude: 42.02628
 longitude: -93.61187
 postcode: "50010"
 city: Ames
-street: "Douglas Avenue"
-housenumber: 502
+street: Douglas Avenue
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

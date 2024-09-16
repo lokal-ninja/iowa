@@ -1,11 +1,11 @@
 id: 858373253
-type: way
+type: node
 latitude: 41.66087
 longitude: -93.77718
 postcode: "50111"
 city: Grimes
-street: "Gateway Drive"
-housenumber: 3355
+street: Gateway Drive
+housenumber: "3355"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1134348113
-type: way
+type: node
 latitude: 41.02899
 longitude: -94.19791
 postcode: "50830"
 city: Afton
-street: "North Douglas Street"
-housenumber: 258
+street: North Douglas Street
+housenumber: "258"
 phone: ""
 opening_hours: ""
 website: ""

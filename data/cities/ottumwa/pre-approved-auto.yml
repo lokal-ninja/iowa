@@ -1,11 +1,11 @@
 id: 467902681
-type: way
+type: node
 latitude: 41.00711
 longitude: -92.43067
 postcode: "52501"
 city: Ottumwa
-street: "Richmond Avenue"
-housenumber: 613
-phone: "641-814-9138"
+street: Richmond Avenue
+housenumber: "613"
+phone: 641-814-9138
 opening_hours: ""
-website: "http://preapprovedauto.net"
+website: http://preapprovedauto.net

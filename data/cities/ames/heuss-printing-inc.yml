@@ -1,11 +1,11 @@
 id: 238454547
-type: way
+type: node
 latitude: 42.02416
 longitude: -93.62224
 postcode: "50010"
 city: Ames
-street: "North 2nd Street"
-housenumber: 903
+street: North 2nd Street
+housenumber: "903"
 phone: "+15152326710"
 opening_hours: ""
-website: "https://www.heuss.com/"
+website: https://www.heuss.com/

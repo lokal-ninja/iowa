@@ -1,11 +1,11 @@
 id: 343604805
-type: way
+type: node
 latitude: 41.55728
 longitude: -90.57832
 postcode: "52806"
 city: Davenport
-street: "Harrison Street"
-housenumber: 3700
+street: Harrison Street
+housenumber: "3700"
 phone: ""
 opening_hours: ""
-website: "https://www.lujack.com/"
+website: https://www.lujack.com/

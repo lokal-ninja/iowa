@@ -1,11 +1,11 @@
 id: 1135278471
-type: way
+type: node
 latitude: 41.04879
 longitude: -94.3647
 postcode: "50801"
 city: Creston
-street: "West Taylor Street"
-housenumber: 302
-phone: "+1 (641) 782-9444"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+street: West Taylor Street
+housenumber: "302"
+phone: +1 (641) 782-9444
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

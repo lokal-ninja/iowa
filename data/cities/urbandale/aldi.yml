@@ -1,11 +1,11 @@
 id: 66978357
-type: way
+type: node
 latitude: 41.6286
 longitude: -93.73323
 postcode: "50322"
 city: Urbandale
-street: "Douglas Avenue"
-housenumber: 8400
-phone: "+1 833-472-7034"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/ia/urbandale/8400-douglas-avenue"
+street: Douglas Avenue
+housenumber: "8400"
+phone: +1 833-472-7034
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/ia/urbandale/8400-douglas-avenue

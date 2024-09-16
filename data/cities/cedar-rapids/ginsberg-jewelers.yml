@@ -1,11 +1,11 @@
 id: 579669648
-type: way
+type: node
 latitude: 42.02416
 longitude: -91.62305
 postcode: "52402"
 city: Cedar Rapids
-street: "1st Avenue East"
-housenumber: 4647
-phone: "(319) 363-3563"
+street: 1st Avenue East
+housenumber: "4647"
+phone: (319) 363-3563
 opening_hours: ""
-website: "https://ginsbergjewelers.com/"
+website: https://ginsbergjewelers.com/

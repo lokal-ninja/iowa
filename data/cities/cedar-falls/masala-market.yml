@@ -1,11 +1,11 @@
 id: 584080941
-type: way
+type: node
 latitude: 42.51684
 longitude: -92.45633
 postcode: "50613"
 city: Cedar Falls
-street: "West 23rd Street"
-housenumber: 913
+street: West 23rd Street
+housenumber: "913"
 phone: "+13192773225"
-opening_hours: "We-Su 11:00-23:00"
+opening_hours: We-Su 11:00-23:00
 website: ""

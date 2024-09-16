@@ -1,11 +1,11 @@
 id: 1102447785
-type: way
+type: node
 latitude: 42.00888
 longitude: -93.57698
 postcode: "50010"
 city: Ames
-street: "Southeast 16th Street"
-housenumber: 2635
+street: Southeast 16th Street
+housenumber: "2635"
 phone: "+15152330915"
 opening_hours: ""
 website: ""

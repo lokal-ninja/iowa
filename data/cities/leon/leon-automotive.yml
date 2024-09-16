@@ -1,11 +1,11 @@
 id: 323073227
-type: way
+type: node
 latitude: 40.7391
 longitude: -93.7408
 postcode: "50144"
 city: Leon
-street: "Southeast Hill Street"
-housenumber: 100
+street: Southeast Hill Street
+housenumber: "100"
 phone: ""
-opening_hours: "08:00-17:00"
+opening_hours: 08:00-17:00
 website: ""

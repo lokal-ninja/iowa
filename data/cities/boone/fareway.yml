@@ -1,11 +1,11 @@
 id: 698094401
-type: way
+type: node
 latitude: 42.06038
 longitude: -93.85174
 postcode: "50036"
 city: Boone
-street: "Industrial Park Road"
-housenumber: 2300
+street: Industrial Park Road
+housenumber: "2300"
 phone: ""
 opening_hours: ""
 website: ""

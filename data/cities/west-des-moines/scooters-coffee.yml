@@ -1,11 +1,11 @@
 id: 1140482024
-type: way
+type: node
 latitude: 41.58113
 longitude: -93.70403
 postcode: "50265"
 city: West Des Moines
-street: "1st Street"
-housenumber: 830
+street: 1st Street
+housenumber: "830"
 phone: ""
 opening_hours: ""
 website: ""

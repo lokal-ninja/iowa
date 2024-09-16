@@ -1,11 +1,11 @@
 id: 88704525
-type: way
+type: node
 latitude: 41.55929
 longitude: -93.798
 postcode: "50266"
 city: West Des Moines
-street: "Stagecoach Drive"
-housenumber: 6365
-phone: "+1 515-453-2747"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3762/west-des%20moines-ia/whats-new"
+street: Stagecoach Drive
+housenumber: "6365"
+phone: +1 515-453-2747
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3762/west-des%20moines-ia/whats-new

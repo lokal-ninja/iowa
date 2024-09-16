@@ -1,11 +1,11 @@
 id: 1212777804
-type: way
+type: node
 latitude: 42.56942
 longitude: -91.94966
 postcode: "50641"
 city: Hazleton
-street: "150th Street"
-housenumber: 1664
+street: 150th Street
+housenumber: "1664"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 692312868
-type: way
+type: node
 latitude: 41.29604
 longitude: -92.65026
 postcode: "52577"
 city: Oskaloosa
-street: "15th Avenue East"
-housenumber: 406
+street: 15th Avenue East
+housenumber: "406"
 phone: ""
 opening_hours: ""
 website: ""

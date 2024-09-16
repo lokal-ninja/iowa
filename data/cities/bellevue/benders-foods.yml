@@ -1,11 +1,11 @@
 id: 840684328
-type: way
+type: node
 latitude: 42.25526
 longitude: -90.42351
 postcode: "52031"
 city: Bellevue
-street: "South 2nd Street"
-housenumber: 400
+street: South 2nd Street
+housenumber: "400"
 phone: "+15638723212"
 opening_hours: ""
-website: "https://www.bendersfoods.com/"
+website: https://www.bendersfoods.com/

@@ -1,11 +1,11 @@
 id: 1190066630
-type: way
+type: node
 latitude: 41.30579
 longitude: -93.11165
 postcode: "50138"
 city: Knoxville
-street: "West Bell Ave"
-housenumber: 1318
-phone: "+1 (641) 828-8473"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 07:30-12:00"
-website: "https://www.heartlandtireandauto.com/Contact/Find-Us/Mode/3/1318-W-Bell-Ave-Knoxville-IA-50138/details"
+street: West Bell Ave
+housenumber: "1318"
+phone: +1 (641) 828-8473
+opening_hours: Mo-Fr 07:30-17:30; Sa 07:30-12:00
+website: https://www.heartlandtireandauto.com/Contact/Find-Us/Mode/3/1318-W-Bell-Ave-Knoxville-IA-50138/details

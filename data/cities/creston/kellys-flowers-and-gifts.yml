@@ -1,11 +1,11 @@
 id: 1154889150
-type: way
+type: node
 latitude: 41.06784
 longitude: -94.37233
 postcode: "50801"
 city: Creston
-street: "North Sumner Avenue"
-housenumber: 911
-phone: "+1 (641) 782-2171"
+street: North Sumner Avenue
+housenumber: "911"
+phone: +1 (641) 782-2171
 opening_hours: ""
-website: "https://www.crestonflowers.com/"
+website: https://www.crestonflowers.com/

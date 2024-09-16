@@ -4,8 +4,8 @@ latitude: 41.67147
 longitude: -91.56577
 postcode: "52241"
 city: Coralville
-street: "1st Avenue"
-housenumber: 312
-phone: "+1-319-339-7777"
+street: 1st Avenue
+housenumber: "312"
+phone: +1-319-339-7777
 opening_hours: ""
-website: "https://www.lebeda.com/"
+website: https://www.lebeda.com/

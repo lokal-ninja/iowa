@@ -1,11 +1,11 @@
 id: 535876082
-type: way
+type: node
 latitude: 41.09945
 longitude: -92.43016
 postcode: "52501"
 city: Ottumwa
-street: "Airport Road"
-housenumber: 13930
-phone: "641-683-5693"
+street: Airport Road
+housenumber: "13930"
+phone: 641-683-5693
 opening_hours: ""
-website: "http://bridgecitytruckrepair.com"
+website: http://bridgecitytruckrepair.com

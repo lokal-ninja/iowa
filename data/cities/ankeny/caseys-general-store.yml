@@ -1,11 +1,11 @@
 id: 35105795
-type: way
+type: node
 latitude: 41.73124
 longitude: -93.63861
 postcode: "50023"
 city: Ankeny
-street: "West 1st Street"
-housenumber: 2905
+street: West 1st Street
+housenumber: "2905"
 phone: ""
 opening_hours: ""
-website: "https://www.caseys.com/"
+website: https://www.caseys.com/

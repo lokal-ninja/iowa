@@ -1,11 +1,11 @@
 id: 328889675
-type: way
+type: node
 latitude: 41.57022
 longitude: -93.71905
 postcode: "50265"
 city: West Des Moines
-street: "Railroad Avenue"
-housenumber: 1121
+street: Railroad Avenue
+housenumber: "1121"
 phone: ""
 opening_hours: ""
 website: ""

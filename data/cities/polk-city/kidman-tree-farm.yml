@@ -1,11 +1,11 @@
 id: 45585500
-type: way
+type: node
 latitude: 41.73961
 longitude: -93.66737
 postcode: "50266"
 city: Polk City
-street: "Northwest 98th Avenue"
-housenumber: 3665
+street: Northwest 98th Avenue
+housenumber: "3665"
 phone: ""
 opening_hours: ""
-website: "http://kidmanfarms.com/"
+website: http://kidmanfarms.com/

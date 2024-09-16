@@ -1,11 +1,11 @@
 id: 33763670
-type: way
+type: node
 latitude: 41.73235
 longitude: -93.62214
 postcode: "50023"
 city: Ankeny
-street: "West 1st Street"
-housenumber: 1602
+street: West 1st Street
+housenumber: "1602"
 phone: ""
 opening_hours: ""
 website: ""

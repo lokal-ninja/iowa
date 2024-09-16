@@ -1,11 +1,11 @@
 id: 282206742
-type: way
+type: node
 latitude: 41.40197
 longitude: -94.98686
 postcode: "50022"
 city: Atlantic
-street: "East 7th Street"
-housenumber: 1905
-phone: "+1 712-243-5214"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3394/atlantic-ia/whats-new"
+street: East 7th Street
+housenumber: "1905"
+phone: +1 712-243-5214
+opening_hours: 24/7
+website: https://www.walmart.com/store/3394/atlantic-ia/whats-new

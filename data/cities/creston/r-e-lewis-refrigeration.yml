@@ -1,11 +1,11 @@
 id: 1187722793
-type: way
+type: node
 latitude: 41.04711
 longitude: -94.37525
 postcode: "50801"
 city: Creston
-street: "South Lincoln Street"
-housenumber: 803
-phone: "+1 (641) 782-8183"
+street: South Lincoln Street
+housenumber: "803"
+phone: +1 (641) 782-8183
 opening_hours: ""
-website: "https://www.relewisinc.com/"
+website: https://www.relewisinc.com/

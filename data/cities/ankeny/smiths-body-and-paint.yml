@@ -1,11 +1,11 @@
 id: 37552662
-type: way
+type: node
 latitude: 41.72386
 longitude: -93.62076
 postcode: "50023"
 city: Ankeny
-street: "Southwest Ordnance Road"
-housenumber: 1407
+street: Southwest Ordnance Road
+housenumber: "1407"
 phone: ""
 opening_hours: ""
 website: ""

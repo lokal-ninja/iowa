@@ -4,8 +4,8 @@ latitude: 42.02563
 longitude: -91.62566
 postcode: "52402"
 city: Cedar Rapids
-street: "1st Avenue East"
-housenumber: 4441
-phone: "+1-319-393-0888"
-opening_hours: "Tu-Sa 10:00-20:00; Su 12:00-18:00; Mo 11:00-18:00"
-website: "https://stores.rue21.com/ia/cedar-rapids/4444-first-ave-ne.html/"
+street: 1st Avenue East
+housenumber: "4441"
+phone: +1-319-393-0888
+opening_hours: Tu-Sa 10:00-20:00; Su 12:00-18:00; Mo 11:00-18:00
+website: https://stores.rue21.com/ia/cedar-rapids/4444-first-ave-ne.html/

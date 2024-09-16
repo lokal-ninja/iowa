@@ -1,11 +1,11 @@
 id: 692330805
-type: way
+type: node
 latitude: 41.29603
 longitude: -92.65856
 postcode: "52577"
 city: Oskaloosa
-street: "A Avenue West"
-housenumber: 1206
+street: A Avenue West
+housenumber: "1206"
 phone: ""
 opening_hours: ""
 website: ""

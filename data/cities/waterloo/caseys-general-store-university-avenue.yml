@@ -4,8 +4,8 @@ latitude: 42.5013
 longitude: -92.38838
 postcode: "50701"
 city: Waterloo
-street: "University Avenue"
-housenumber: 3260
-phone: "+1 319 234 1484"
-opening_hours: "04:00-22:00"
-website: "https://www.caseys.com/general-store/ia-waterloo/3260-university-ave/2879"
+street: University Avenue
+housenumber: "3260"
+phone: +1 319 234 1484
+opening_hours: 04:00-22:00
+website: https://www.caseys.com/general-store/ia-waterloo/3260-university-ave/2879

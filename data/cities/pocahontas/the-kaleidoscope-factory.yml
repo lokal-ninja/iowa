@@ -1,11 +1,11 @@
 id: 1193992485
-type: way
+type: node
 latitude: 42.73482
 longitude: -94.6687
 postcode: "50574"
 city: Pocahontas
-street: "North Main Street"
-housenumber: 214
+street: North Main Street
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

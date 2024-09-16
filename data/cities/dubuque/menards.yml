@@ -1,11 +1,11 @@
 id: 105291376
-type: way
+type: node
 latitude: 42.48238
 longitude: -90.75374
 postcode: "52003"
 city: Dubuque
-street: "Dodge Street"
-housenumber: 5300
+street: Dodge Street
+housenumber: "5300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3057"
+website: https://www.menards.com/store-details/store.html?store=3057

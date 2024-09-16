@@ -4,8 +4,8 @@ latitude: 41.59128
 longitude: -93.61058
 postcode: "50309"
 city: Des Moines
-street: "East 6th Street"
-housenumber: 506
-phone: "+1-515-203-2122"
+street: East 6th Street
+housenumber: "506"
+phone: +1-515-203-2122
 opening_hours: ""
-website: "https://vinylcup.com/"
+website: https://vinylcup.com/

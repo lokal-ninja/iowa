@@ -1,11 +1,11 @@
 id: 639030125
-type: way
+type: node
 latitude: 42.4692
 longitude: -91.88918
 postcode: "50644"
 city: Independence
-street: "5th Avenue Northeast"
-housenumber: 100
+street: 5th Avenue Northeast
+housenumber: "100"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=717"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=717

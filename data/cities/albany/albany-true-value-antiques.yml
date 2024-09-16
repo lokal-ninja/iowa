@@ -1,11 +1,11 @@
 id: 768125447
-type: way
+type: node
 latitude: 41.78769
 longitude: -90.22379
 postcode: "61230"
 city: Albany
-street: "Waller Road"
-housenumber: 401
+street: Waller Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

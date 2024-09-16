@@ -1,11 +1,11 @@
 id: 765815550
-type: way
+type: node
 latitude: 42.48084
 longitude: -90.75547
 postcode: "52003"
 city: Dubuque
-street: "Westside Drive"
-housenumber: 5400
+street: Westside Drive
+housenumber: "5400"
 phone: ""
 opening_hours: ""
 website: ""

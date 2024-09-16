@@ -1,11 +1,11 @@
 id: 498093693
-type: way
+type: node
 latitude: 41.03497
 longitude: -93.76677
 postcode: "50213"
 city: Osceola
-street: "West Washington Street"
-housenumber: 129
-phone: "+1 (641) 342-2181"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://www.napaonline.com/en/IA/Osceola/store/24290"
+street: West Washington Street
+housenumber: "129"
+phone: +1 (641) 342-2181
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://www.napaonline.com/en/IA/Osceola/store/24290

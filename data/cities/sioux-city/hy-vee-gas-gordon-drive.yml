@@ -1,11 +1,11 @@
 id: 342833759
-type: way
+type: node
 latitude: 42.48815
 longitude: -96.36292
 postcode: "51105"
 city: Sioux City
-street: "Gordon Drive"
-housenumber: 3301
+street: Gordon Drive
+housenumber: "3301"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 701473866
-type: way
+type: node
 latitude: 41.97813
 longitude: -91.71532
 postcode: "52405"
 city: Cedar Rapids
-street: "Edgewood Road Northwest"
-housenumber: 455
-phone: "(319) 250-4466"
-opening_hours: "Mo-Fr 06:00-00:30; Sa 07:00-01:30; Su 08:00-12:30"
+street: Edgewood Road Northwest
+housenumber: "455"
+phone: (319) 250-4466
+opening_hours: Mo-Fr 06:00-00:30; Sa 07:00-01:30; Su 08:00-12:30
 website: ""

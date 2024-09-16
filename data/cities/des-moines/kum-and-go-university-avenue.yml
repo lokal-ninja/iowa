@@ -1,11 +1,11 @@
 id: 888298650
-type: way
+type: node
 latitude: 41.60022
 longitude: -93.65972
 postcode: "50311"
 city: Des Moines
-street: "University Avenue"
-housenumber: 3104
+street: University Avenue
+housenumber: "3104"
 phone: ""
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0731"
+website: https://www.kumandgo.com/store-locator?details=0731

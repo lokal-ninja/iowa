@@ -1,11 +1,11 @@
 id: 456484521
-type: way
+type: node
 latitude: 41.0106
 longitude: -92.44071
 postcode: "52501"
 city: Ottumwa
-street: "Albia Road"
-housenumber: 1325
+street: Albia Road
+housenumber: "1325"
 phone: ""
 opening_hours: ""
 website: ""

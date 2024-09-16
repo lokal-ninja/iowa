@@ -1,11 +1,11 @@
 id: 530162893
-type: way
+type: node
 latitude: 41.53649
 longitude: -90.61293
 postcode: "52804"
 city: Davenport
-street: "West Locust Street"
-housenumber: 2351
-phone: "(563) 324-9948"
+street: West Locust Street
+housenumber: "2351"
+phone: (563) 324-9948
 opening_hours: ""
 website: ""

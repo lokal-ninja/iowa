@@ -1,11 +1,11 @@
 id: 498083560
-type: way
+type: node
 latitude: 41.02889
 longitude: -93.77966
 postcode: "50213"
 city: Osceola
-street: "Jeffreys Drive"
-housenumber: 1012
-phone: "+1 641-342-2154"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://stores.truevalue.com/ia/osceola/"
+street: Jeffreys Drive
+housenumber: "1012"
+phone: +1 641-342-2154
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:00; Su 10:00-16:00
+website: https://stores.truevalue.com/ia/osceola/

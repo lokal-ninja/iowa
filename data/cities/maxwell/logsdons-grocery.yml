@@ -1,11 +1,11 @@
 id: 469325657
-type: way
+type: node
 latitude: 41.88763
 longitude: -93.40016
 postcode: "50161"
 city: Maxwell
-street: "Main Street"
-housenumber: 92
+street: Main Street
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

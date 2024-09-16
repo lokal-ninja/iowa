@@ -1,11 +1,11 @@
 id: 536699348
-type: way
+type: node
 latitude: 41.61171
 longitude: -93.88624
 postcode: "50263"
 city: Waukee
-street: "6th Street"
-housenumber: 380
+street: 6th Street
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

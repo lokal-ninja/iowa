@@ -1,11 +1,11 @@
 id: 119630927
-type: way
+type: node
 latitude: 41.0459
 longitude: -94.37311
 postcode: "50801"
 city: Creston
-street: "Laurel Street"
-housenumber: 806
-phone: "+1 641-782-6954"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1435/creston-ia/"
+street: Laurel Street
+housenumber: "806"
+phone: +1 641-782-6954
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1435/creston-ia/

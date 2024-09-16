@@ -1,11 +1,11 @@
 id: 46141996
-type: way
+type: node
 latitude: 41.6003
 longitude: -93.58489
 postcode: "50316"
 city: Des Moines
-street: "East University Avenue"
-housenumber: 1901
+street: East University Avenue
+housenumber: "1901"
 phone: "+15152077435"
 opening_hours: ""
 website: ""

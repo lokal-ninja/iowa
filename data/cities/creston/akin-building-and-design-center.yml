@@ -1,11 +1,11 @@
 id: 467547520
-type: way
+type: node
 latitude: 41.0506
 longitude: -94.37564
 postcode: "50801"
 city: Creston
-street: "Sheldon Street"
-housenumber: 604
-phone: "+1 (641) 782-3310"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su closed"
-website: "https://akinbuildingcenters.com/"
+street: Sheldon Street
+housenumber: "604"
+phone: +1 (641) 782-3310
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su closed
+website: https://akinbuildingcenters.com/

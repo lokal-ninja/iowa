@@ -1,11 +1,11 @@
 id: 109876959
-type: way
+type: node
 latitude: 41.61046
 longitude: -93.74643
 postcode: "50325"
 city: Clive
-street: "Swanson Boulevard"
-housenumber: 9351
+street: Swanson Boulevard
+housenumber: "9351"
 phone: ""
 opening_hours: ""
 website: ""

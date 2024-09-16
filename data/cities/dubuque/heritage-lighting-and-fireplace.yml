@@ -1,11 +1,11 @@
 id: 546917245
-type: way
+type: node
 latitude: 42.49895
 longitude: -90.66358
 postcode: "52001"
 city: Dubuque
-street: "Central Avenue"
-housenumber: 484
+street: Central Avenue
+housenumber: "484"
 phone: "+15635820119"
 opening_hours: ""
-website: "http://www.heritagedbq.com/"
+website: http://www.heritagedbq.com/

@@ -1,11 +1,11 @@
 id: 47010527
-type: way
+type: node
 latitude: 41.64345
 longitude: -93.50264
 postcode: "50009"
 city: Altoona
-street: "8th Street Southwest"
-housenumber: 3348
+street: 8th Street Southwest
+housenumber: "3348"
 phone: ""
 opening_hours: ""
-website: "https://www.caseys.com/"
+website: https://www.caseys.com/

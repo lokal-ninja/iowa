@@ -4,8 +4,8 @@ latitude: 42.44479
 longitude: -96.34141
 postcode: "51106"
 city: Sioux City
-street: "Sergeant Road"
-housenumber: 5002
+street: Sergeant Road
+housenumber: "5002"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "http://www.winestylessiouxcity.com/"
+opening_hours: Mo-Sa 11:00-20:00
+website: http://www.winestylessiouxcity.com/

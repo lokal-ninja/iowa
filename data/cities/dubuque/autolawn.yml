@@ -1,11 +1,11 @@
 id: 566451198
-type: way
+type: node
 latitude: 42.4959
 longitude: -90.6655
 postcode: "52001"
 city: Dubuque
-street: "Locust Street"
-housenumber: 230
+street: Locust Street
+housenumber: "230"
 phone: "+15635808088"
 opening_hours: ""
-website: "http://autolawn247.com/"
+website: http://autolawn247.com/

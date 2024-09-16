@@ -1,11 +1,11 @@
 id: 252983930
-type: way
+type: node
 latitude: 42.44649
 longitude: -96.35528
 postcode: ""
 city: Sioux City
-street: "Sergeant Road"
-housenumber: 4400
+street: Sergeant Road
+housenumber: "4400"
 phone: ""
 opening_hours: ""
 website: ""

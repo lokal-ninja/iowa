@@ -1,11 +1,11 @@
 id: 1117972137
-type: way
+type: node
 latitude: 41.58409
 longitude: -93.70384
 postcode: "50265"
 city: West Des Moines
-street: "1st Street"
-housenumber: 950
-phone: "(515) 277-2636"
+street: 1st Street
+housenumber: "950"
+phone: (515) 277-2636
 opening_hours: ""
 website: ""

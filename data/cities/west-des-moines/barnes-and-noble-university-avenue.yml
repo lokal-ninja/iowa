@@ -1,11 +1,11 @@
 id: 61434284
-type: way
+type: node
 latitude: 41.59987
 longitude: -93.76746
 postcode: "50266"
 city: West Des Moines
-street: "University Avenue"
-housenumber: 4550
+street: University Avenue
+housenumber: "4550"
 phone: ""
 opening_hours: ""
 website: ""

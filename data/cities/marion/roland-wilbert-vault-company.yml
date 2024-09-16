@@ -1,11 +1,11 @@
 id: 243360733
-type: way
+type: node
 latitude: 42.033
 longitude: -91.62466
 postcode: "52302"
 city: Marion
-street: "Blairs Ferry Road Northeast"
-housenumber: 1210
-phone: "+1-319-377-4834"
+street: Blairs Ferry Road Northeast
+housenumber: "1210"
+phone: +1-319-377-4834
 opening_hours: ""
-website: "https://www.wilbertwma.com/"
+website: https://www.wilbertwma.com/

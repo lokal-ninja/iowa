@@ -1,11 +1,11 @@
 id: 193446874
-type: way
+type: node
 latitude: 41.23032
 longitude: -95.84439
 postcode: "51501"
 city: Council Bluffs
-street: "Manawa Centre Drive"
-housenumber: 3115
-phone: "+1 712-366-9001"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/3115-manawa-centre-dr-council-bluffs-51501?number=775"
+street: Manawa Centre Drive
+housenumber: "3115"
+phone: +1 712-366-9001
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/3115-manawa-centre-dr-council-bluffs-51501?number=775

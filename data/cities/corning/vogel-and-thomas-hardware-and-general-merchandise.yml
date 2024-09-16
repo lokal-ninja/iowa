@@ -1,11 +1,11 @@
 id: 1184729174
-type: way
+type: node
 latitude: 40.98917
 longitude: -94.73421
 postcode: "50841"
 city: Corning
-street: "Davis Avenue"
-housenumber: 702
-phone: "+1 (641) 322-4911"
+street: Davis Avenue
+housenumber: "702"
+phone: +1 (641) 322-4911
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1187727336
-type: way
+type: node
 latitude: 41.04596
 longitude: -94.38029
 postcode: "50801"
 city: Creston
-street: "New York Avenue"
-housenumber: 634
-phone: "+1 (641) 344-2210"
+street: New York Avenue
+housenumber: "634"
+phone: +1 (641) 344-2210
 opening_hours: ""
-website: "https://www.johnsontrailersia.com/bj-storage"
+website: https://www.johnsontrailersia.com/bj-storage

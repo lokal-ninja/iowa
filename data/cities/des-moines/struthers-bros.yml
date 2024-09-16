@@ -1,11 +1,11 @@
 id: 37606644
-type: way
+type: node
 latitude: 41.65507
 longitude: -93.61941
 postcode: "50313"
 city: Des Moines
-street: "Northwest 2nd Street"
-housenumber: 5191
-phone: "(515) 282-3634"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 00:00-16:00, Su closed"
-website: "https://www.struthersbros.com/"
+street: Northwest 2nd Street
+housenumber: "5191"
+phone: (515) 282-3634
+opening_hours: Mo-Fr 09:00-18:00, Sa 00:00-16:00, Su closed
+website: https://www.struthersbros.com/

@@ -1,11 +1,11 @@
 id: 540257279
-type: way
+type: node
 latitude: 42.04521
 longitude: -91.68849
 postcode: "52233"
 city: Hiawatha
-street: "Boyson Road"
-housenumber: 1190
+street: Boyson Road
+housenumber: "1190"
 phone: ""
 opening_hours: ""
 website: ""

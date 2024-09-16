@@ -1,11 +1,11 @@
 id: 231767147
-type: way
+type: node
 latitude: 42.02136
 longitude: -93.65062
 postcode: "50014"
 city: Ames
-street: "Welch Avenue"
-housenumber: 203
+street: Welch Avenue
+housenumber: "203"
 phone: "+15152925395"
 opening_hours: ""
-website: "https://www.kumandgo.com/store-locator?details=0216"
+website: https://www.kumandgo.com/store-locator?details=0216

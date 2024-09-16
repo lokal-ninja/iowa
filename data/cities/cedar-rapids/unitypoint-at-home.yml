@@ -1,11 +1,11 @@
 id: 243360978
-type: way
+type: node
 latitude: 42.03534
 longitude: -91.63683
 postcode: "52402"
 city: Cedar Rapids
-street: "Blairs Ferry Road Northeast"
-housenumber: 298
-phone: "+1-319-369-8686"
+street: Blairs Ferry Road Northeast
+housenumber: "298"
+phone: +1-319-369-8686
 opening_hours: ""
-website: "https://www.unitypoint.org/clinics/clinic.aspx?id=1788"
+website: https://www.unitypoint.org/clinics/clinic.aspx?id=1788

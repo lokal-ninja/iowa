@@ -1,11 +1,11 @@
 id: 148411169
-type: way
+type: node
 latitude: 41.5941
 longitude: -93.67474
 postcode: "50312"
 city: Des Moines
-street: "42nd Street"
-housenumber: 908
-phone: "+1 515 276 0191"
-opening_hours: "Tu 09:00-20:00;We-Th 09:00-21:00;Fr 09:00-17:00;Sa 09:00-15:00"
-website: "https://www.vagaro.com/Transformations"
+street: 42nd Street
+housenumber: "908"
+phone: +1 515 276 0191
+opening_hours: Tu 09:00-20:00;We-Th 09:00-21:00;Fr 09:00-17:00;Sa 09:00-15:00
+website: https://www.vagaro.com/Transformations

@@ -1,11 +1,11 @@
 id: 694581072
-type: way
+type: node
 latitude: 41.29467
 longitude: -92.63641
 postcode: "52595"
 city: Oskaloosa
-street: "South 7th Street"
-housenumber: 114
+street: South 7th Street
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

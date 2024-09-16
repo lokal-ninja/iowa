@@ -1,11 +1,11 @@
 id: 394725401
-type: way
+type: node
 latitude: 40.7417
 longitude: -93.74677
 postcode: "50144"
 city: Leon
-street: "North Main Street"
-housenumber: 313
+street: North Main Street
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

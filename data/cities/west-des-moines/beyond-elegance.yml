@@ -4,8 +4,8 @@ latitude: 41.57451
 longitude: -93.70865
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 413
-phone: "+1-877-353-4623"
-opening_hours: "Mo,Th 08:00-12:00; Sa 09:30-12:00"
-website: "https://www.beyondelegance.com/"
+street: 5th Street
+housenumber: "413"
+phone: +1-877-353-4623
+opening_hours: Mo,Th 08:00-12:00; Sa 09:30-12:00
+website: https://www.beyondelegance.com/

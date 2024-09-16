@@ -1,11 +1,11 @@
 id: 1274475411
-type: way
+type: node
 latitude: 42.03553
 longitude: -93.87426
 postcode: "50036"
 city: Boone
-street: "Southeast Marshall"
-housenumber: 1211
-phone: "+1-515-432-3207"
+street: Southeast Marshall
+housenumber: "1211"
+phone: +1-515-432-3207
 opening_hours: ""
-website: "https://locations.tccrocks.com/ia/boone/1211-se-marshall-st.html"
+website: https://locations.tccrocks.com/ia/boone/1211-se-marshall-st.html

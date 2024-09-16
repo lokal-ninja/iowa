@@ -1,11 +1,11 @@
 id: 432407281
-type: way
+type: node
 latitude: 42.02536
 longitude: -91.66818
 postcode: "52402"
 city: Cedar Rapids
-street: "Center Point Road Northeast"
-housenumber: 4645
+street: Center Point Road Northeast
+housenumber: "4645"
 phone: ""
-opening_hours: "Su,Mo closed, Tu-Fr 09:00-18:00, Sa 09:00-17:00"
-website: "https://www.mcgrathpowersports.com/"
+opening_hours: Su,Mo closed, Tu-Fr 09:00-18:00, Sa 09:00-17:00
+website: https://www.mcgrathpowersports.com/

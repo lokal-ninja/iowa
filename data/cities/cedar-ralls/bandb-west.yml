@@ -1,11 +1,11 @@
 id: 544819519
-type: way
+type: node
 latitude: 42.50938
 longitude: -92.46637
 postcode: "50613"
 city: Cedar Ralls
-street: "Hudson Road"
-housenumber: 3105
-phone: "+1-319-266-7344"
+street: Hudson Road
+housenumber: "3105"
+phone: +1-319-266-7344
 opening_hours: ""
-website: "https://www.conoco.com"
+website: https://www.conoco.com

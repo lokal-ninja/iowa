@@ -4,8 +4,8 @@ latitude: 41.57238
 longitude: -93.70912
 postcode: "50265"
 city: West Des Moines
-street: "5th Street"
-housenumber: 234
-phone: "+1-515-277-6236"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-17:00; Su 12:00-16:00"
-website: "https://www.winesofiowa.com/"
+street: 5th Street
+housenumber: "234"
+phone: +1-515-277-6236
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
+website: https://www.winesofiowa.com/

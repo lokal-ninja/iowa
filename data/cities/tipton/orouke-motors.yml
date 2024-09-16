@@ -1,11 +1,11 @@
 id: 516174842
-type: way
+type: node
 latitude: 41.75957
 longitude: -91.12978
 postcode: "52772"
 city: Tipton
-street: "Alexander Drive"
-housenumber: 101
+street: Alexander Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.orourkemotorsonline.com/"
+website: https://www.orourkemotorsonline.com/
