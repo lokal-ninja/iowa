@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /altoona/gnc-bass-pro-drive-northwest/
+url: /altoona/gnc-36th-avenue-southwest/
 shop: nutrition supplements
 ---
