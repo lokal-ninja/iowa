@@ -1,6 +1,6 @@
 ---
 title: Winterset
 url: /winterset/
-latitude: 41.335
-longitude: -94.015
+latitude: 41.343
+longitude: -94.013
 ---

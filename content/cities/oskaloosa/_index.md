@@ -1,6 +1,6 @@
 ---
 title: Oskaloosa
 url: /oskaloosa/
-latitude: 41.292
-longitude: -92.628
+latitude: 41.303
+longitude: -92.667
 ---
