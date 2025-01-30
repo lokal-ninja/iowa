@@ -1,6 +1,6 @@
 ---
 title: Estherville
 url: /estherville/
-latitude: 43.402
-longitude: -94.829
+latitude: 43.395
+longitude: -94.832
 ---
