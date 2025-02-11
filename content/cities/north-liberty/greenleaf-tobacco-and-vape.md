@@ -1,5 +1,5 @@
 ---
 title: "Greenleaf Tobacco & Vape"
-url: /ottumwa/greenleaf-tobacco-and-vape-e-main-st/
+url: /north-liberty/greenleaf-tobacco-and-vape/
 shop: tobacco
 ---
