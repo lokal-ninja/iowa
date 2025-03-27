@@ -1,6 +1,6 @@
 ---
 title: Eddyville
 url: /eddyville/
-latitude: 41.154
-longitude: -92.627
+latitude: 41.157
+longitude: -92.63
 ---
