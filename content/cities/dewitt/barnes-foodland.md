@@ -1,5 +1,5 @@
 ---
 title: "Barnes Foodland"
-url: /dewitt-iowa/barnes-foodland/
+url: /dewitt/barnes-foodland/
 shop: supermarket
 ---
