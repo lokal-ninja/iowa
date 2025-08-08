@@ -1,6 +1,6 @@
 ---
 title: Sanborn
 url: /sanborn/
-latitude: 43.235
-longitude: -95.725
+latitude: 43.187
+longitude: -95.643
 ---

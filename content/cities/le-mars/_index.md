@@ -1,6 +1,6 @@
 ---
 title: Le Mars
 url: /le-mars/
-latitude: 42.781
-longitude: -96.187
+latitude: 42.799
+longitude: -96.175
 ---

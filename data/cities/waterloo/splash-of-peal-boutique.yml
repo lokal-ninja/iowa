@@ -7,5 +7,5 @@ city: Waterloo
 street: Jefferson Street
 housenumber: "702"
 phone: ""
-opening_hours: ""
+opening_hours: '"Hours vary week by week"'
 website: ""
