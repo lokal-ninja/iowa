@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /waterloo/dollar-general-university-avenue/
+url: /ottumwa/dollar-general-east-main-street/
 shop: variety store
 ---
