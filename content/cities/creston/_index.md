@@ -1,6 +1,6 @@
 ---
 title: Creston
 url: /creston/
-latitude: 41.058
-longitude: -94.364
+latitude: 41.059
+longitude: -94.362
 ---
