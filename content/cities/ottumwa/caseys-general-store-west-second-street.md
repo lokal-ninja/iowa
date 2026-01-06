@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /osceola/caseys-general-store-jeffreys-drive/
+url: /ottumwa/caseys-general-store-west-second-street/
 shop: convenience
 ---
