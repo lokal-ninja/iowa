@@ -1,6 +1,6 @@
 ---
 title: Kalona
 url: /kalona/
-latitude: 41.541
-longitude: -91.705
+latitude: 41.483
+longitude: -91.706
 ---
