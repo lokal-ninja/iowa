@@ -1,6 +1,6 @@
 ---
 title: Denison
 url: /denison/
-latitude: 42.018
-longitude: -95.353
+latitude: 42.017
+longitude: -95.356
 ---
