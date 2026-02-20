@@ -1,6 +1,6 @@
 ---
 title: Norwalk
 url: /norwalk/
-latitude: 41.488
-longitude: -93.673
+latitude: 41.49
+longitude: -93.675
 ---
