@@ -1,5 +1,5 @@
 ---
 title: "Fareway"
-url: /sioux-city/fareway-war-eagle-drive/
+url: /sioux-city/fareway-sergeant-road/
 shop: supermarket
 ---
