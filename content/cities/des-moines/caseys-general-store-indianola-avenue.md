@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /cedar-falls/caseys-general-store-center-street/
+url: /des-moines/caseys-general-store-indianola-avenue/
 shop: convenience
 ---
