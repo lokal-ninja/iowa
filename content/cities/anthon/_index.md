@@ -1,6 +1,6 @@
 ---
 title: Anthon
 url: /anthon/
-latitude: 42.389
-longitude: -95.868
+latitude: 42.388
+longitude: -95.867
 ---
