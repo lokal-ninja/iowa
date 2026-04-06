@@ -1,5 +1,5 @@
 ---
 title: "QuikTrip"
-url: /urbandale/quiktrip-douglas-avenue/
+url: /urbandale/quiktrip-merle-hay-road/
 shop: convenience
 ---
