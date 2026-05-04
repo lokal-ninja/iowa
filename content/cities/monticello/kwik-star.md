@@ -1,5 +1,5 @@
 ---
 title: "Kwik Star"
-url: /dubuque/kwik-star-airborne-road/
+url: /monticello/kwik-star/
 shop: convenience
 ---
