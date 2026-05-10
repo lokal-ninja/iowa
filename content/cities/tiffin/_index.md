@@ -2,5 +2,5 @@
 title: Tiffin
 url: /tiffin/
 latitude: 41.697
-longitude: -91.666
+longitude: -91.668
 ---
