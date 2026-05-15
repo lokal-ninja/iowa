@@ -1,5 +1,5 @@
 ---
 title: "Kwik Star"
-url: /waterloo/kwik-star-fletcher-avenue/
+url: /dubuque/kwik-star-kerper-court/
 shop: convenience
 ---

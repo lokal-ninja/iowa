@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /waterloo/dollar-general-logan-avenue/
+url: /waterloo/dollar-general-university-avenue/
 shop: variety store
 ---
