@@ -7,5 +7,5 @@ city: Ames
 street: Southeast 5th Street
 housenumber: "329"
 phone: +1-515-620-4155
-opening_hours: Mo-Sa 10:00-20:00 Su 11:00-18:00
-website: ""
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
+website: https://www.thefurnituremart.com/storedetailinfo/storeinfo/?storeid=81
