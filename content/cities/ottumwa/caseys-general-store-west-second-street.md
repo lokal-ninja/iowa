@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /west-des-moines/caseys-general-store-22nd-street/
+url: /ottumwa/caseys-general-store-west-second-street/
 shop: convenience
 ---
