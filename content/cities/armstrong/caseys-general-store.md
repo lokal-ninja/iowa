@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /ottumwa/caseys-general-store-richmond-avenue/
+url: /armstrong/caseys-general-store/
 shop: convenience
 ---
