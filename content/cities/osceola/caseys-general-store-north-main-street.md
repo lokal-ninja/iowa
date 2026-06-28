@@ -1,5 +1,5 @@
 ---
 title: "Casey's General Store"
-url: /osceola/caseys-general-store-jeffreys-drive/
+url: /osceola/caseys-general-store-north-main-street/
 shop: convenience
 ---
