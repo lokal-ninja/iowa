@@ -1,6 +1,6 @@
 ---
 title: Lawton
 url: /lawton/
-latitude: 42.476
-longitude: -96.233
+latitude: 42.479
+longitude: -96.184
 ---

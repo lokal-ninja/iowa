@@ -1,6 +1,6 @@
 ---
 title: Waukon
 url: /waukon/
-latitude: 43.244
-longitude: -91.474
+latitude: 43.243
+longitude: -91.475
 ---
