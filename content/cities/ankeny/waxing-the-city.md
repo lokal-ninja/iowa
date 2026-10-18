@@ -1,5 +1,5 @@
 ---
-title: "Waxing The City"
+title: "Waxing the City"
 url: /ankeny/waxing-the-city/
 shop: beauty
 ---
