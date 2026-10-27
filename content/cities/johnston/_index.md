@@ -1,6 +1,6 @@
 ---
 title: Johnston
 url: /johnston/
-latitude: 41.666
-longitude: -93.699
+latitude: 41.655
+longitude: -93.735
 ---
