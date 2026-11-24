@@ -1,6 +1,6 @@
 ---
 title: Farley
 url: /farley/
-latitude: 42.444
-longitude: -91.01
+latitude: 42.443
+longitude: -91.009
 ---
